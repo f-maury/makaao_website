@@ -1,8 +1,8 @@
 # Not included in this repository
-For licensing reason, some files that you would need to make the website work are not included here. These are:
-   - `LOINC_YYYY_MM_DD.ttl`
-   - `makaao_core.csv`
-   - `makaao_vXX.rdf`
+For licensing reasons, some files that you would need to make the website work are not included here. These are:
+   - `website/data/LOINC_YYYY_MM_DD.ttl`
+   - `website/data/makaao_core.csv`
+   - `website/data/makaao_vXX.rdf`
 # Installation
 1. If you want to run the scripts on your own, you need a Python 3.11 environment. Other Python versions may or may not work, but there is no guarantee.
 2. Clone the repository on you local machine:
