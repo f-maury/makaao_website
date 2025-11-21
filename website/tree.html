@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Google Tag Manager -->
+  <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-NTLRKKHC');
+  </script>
+  <!-- End Google Tag Manager -->
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>MAKAAO – Autoantibody Tree</title>
+  <meta name="description" content="autoantibodies, antibodies, autoimmune diseases, autoimmunity">
+  <meta name="author" content="Fabien Maury">
+  <link rel="icon" href="pictures/favicon.png" type="image/png">
+
+  <!-- Roboto & Bootstrap CSS -->
+  <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" crossorigin="anonymous">
+
+  <style>
+    :root{
+      /* header banner height scales with viewport; clamped */
+      --banner-h: clamp(120px, 20vw, 220px);
+    }
+    body { font-family:'Roboto', sans-serif; margin:0; color:#333; }
+    header, footer { width:100%; }
+
+    /* Wider container on large displays */
+    @media (min-width:1200px){
+      .container.container-wide{ max-width: 1320px; }
+    }
+    @media (min-width:1600px){
+      .container.container-wide{ max-width: 1440px; }
+    }
+
+    /* Banner spacing */
+    .banner-wrap{
+      padding-top: 36px;    /* space from top of page */
+      padding-bottom: 24px; /* space before navbar */
+    }
+
+    /* Two-image banner, matches main container width */
+    .banner-pair{
+      display: flex;
+      height: var(--banner-h);
+      gap: 0;
+    }
+    .banner-pair a{
+      flex: 1 1 50%;
+      width: 50%;
+      height: 100%;
+      display: flex;
+      align-items: center;       /* vertical center */
+      justify-content: center;   /* horizontal center */
+      cursor: pointer;
+    }
+    .banner-pair a img{
+      max-height: 100%;
+      max-width: 100%;
+      height: 100%;
+      width: auto;
+      object-fit: contain;       /* no cropping */
+      display: block;
+    }
+
+    /* Phones: stack images */
+    @media (max-width: 575.98px){
+      .banner-pair{
+        flex-direction: column;
+        height: auto;
+      }
+      .banner-pair a{
+        width: 100%;
+        height: 140px; /* per-image panel height on phones */
+      }
+    }
+
+    /* Tree styles (kept from original) */
+    #myUL {
+      list-style: none;
+      margin: 1rem auto 2rem;
+      padding: 0;
+      max-width: 600px;
+      width: 100%;
+      background: #f9f9f9;
+      border: 2px solid #ccc;
+      border-radius: 8px;
+    }
+    #myUL > li { padding: .5rem .75rem; }
+    .caret { cursor: pointer; font-weight: bold; display: inline-block; }
+    .caret::before {
+      content: "\25B6";
+      display: inline-block;
+      margin-right: 6px;
+      color: #888;
+      transition: transform .2s;
+    }
+    .caret-down::before { transform: rotate(90deg); }
+    .nested { display: none; margin-left: 20px; padding-left: .5rem; }
+    .nested > li { padding: .25rem 0; }
+    .active { display: block; }
+    .center-me { text-align: center; }
+    a { color:#06c; text-decoration:none; }
+    a:hover { text-decoration:underline; }
+  </style>
+</head>
+<body>
+  <noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NTLRKKHC"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript>
+
+  <header class="bg-white">
+    <div class="container container-wide banner-wrap">
+      <div class="banner-pair">
+        <a href="https://makaao.inria.fr">
+          <img src="pictures/makaao_logo_2.png"  alt="MAKAAO home">
+        </a>
+        <a href="https://www.filieresmaladiesrares.fr/">
+          <img src="pictures/funding.png"        alt="Filières Maladies Rares">
+        </a>
+      </div>
+
+      <div id="button_bar" class="d-flex flex-wrap mb-3 mt-2">
+        <a href="https://makaao.inria.fr" class="btn btn-primary mr-2 mb-2">Home</a>
+        <a href="https://makaao.inria.fr/tree.html" class="btn btn-primary mr-2 mb-2">Autoantibody Tree</a>
+        <a href="https://makaao.inria.fr/sparql.html" class="btn btn-primary mr-2 mb-2">SPARQL</a>
+        <a href="https://makaao.inria.fr/download.html" class="btn btn-primary mr-2 mb-2">Download</a>
+        <a href="https://makaao.inria.fr/contact.html" class="btn btn-primary mr-2 mb-2">Contact</a>
+        <a href="https://makaao.inria.fr/about.html" class="btn btn-primary mr-2 mb-2">About</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="container container-wide pb-4">
+    <p class="center-me">
+      Below is an unfoldable hierarchical tree, showing each autoantibody in our database, grouped by category.
+    </p>
+    <ul id="myUL"></ul>
+  </main>
+
+  <footer class="bg-light text-center py-4">
+    <img src="pictures/footer.png" alt="Partner logos" class="img-fluid w-100 mb-2">
+  </footer>
+
+  <!-- Bootstrap JS -->
+  <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+  <!-- PapaParse -->
+  <script defer src="https://cdn.jsdelivr.net/npm/papaparse@5.3.2/papaparse.min.js" crossorigin="anonymous"></script>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const CSV_PATH    = 'data/makaao_core.csv';   // new schema
+      const SLUG_PATH   = 'db/_slug_map.json';
+      const ROOT_NUM    = '18';
+      const ROOT_HPO_ID = 'HP:0030057';
+      const ROOT_NAME   = 'Autoimmune antibody';
+
+      const SEP_RE = /[|;\n,]+/;
+
+      function firstToken(val) {
+        const s = String(val || '').trim();
+        return s ? s.split(SEP_RE)[0].trim() : '';
+      }
+
+      function parseParents(cell) {
+        const s = String(cell || '').trim();
+        if (!s) return [ROOT_NUM];
+        const ids = s.split(SEP_RE)
+          .map(x => x.trim())
+          .filter(Boolean)
+          .map(x => (x.match(/(\d+)$/) || [,''])[1])
+          .filter(Boolean);
+        return ids.length ? Array.from(new Set(ids)) : [ROOT_NUM];
+      }
+
+      function parseCsv(url) {
+        return new Promise((resolve, reject) => {
+          Papa.parse(url, {
+            download: true,
+            header: true,
+            skipEmptyLines: true,
+            transformHeader: h => h.replace(/^\uFEFF/, '').trim().toLowerCase(),
+            complete: res => resolve(res.data),
+            error: err => reject(err)
+          });
+        });
+      }
+
+      function val(row, ...keys) {
+        for (const k of keys) {
+          const v = row[k];
+          if (v !== undefined && String(v).trim() !== '') return String(v).trim();
+        }
+        return '';
+      }
+
+      Promise.all([
+        fetch(SLUG_PATH).then(r => r.ok ? r.json() : ({})),
+        parseCsv(CSV_PATH)
+      ]).then(([slugMap, rows]) => {
+        const tree = {};
+        tree[ROOT_NUM] = { aab: ROOT_NUM, hpo: ROOT_HPO_ID, name: ROOT_NAME, children: [] };
+
+        // Build node map (accept old/new schemas)
+        rows.forEach(r => {
+          const aab  = val(r, 'aab_id', 'aab_number', 'aab');
+          const name = val(r, 'name_en', 'name');
+          if (!aab || !name) return;                 // skip rows without a display name
+
+          tree[aab] = {
+            aab,
+            hpo:  firstToken(val(r, 'hpo_id', 'hpo')),
+            name,
+            children: []
+          };
+        });
+
+        // Wire parents
+        rows.forEach(r => {
+          const child = val(r, 'aab_id', 'aab_number', 'aab');
+          if (!child || child === ROOT_NUM || !tree[child]) return;  // ignore nameless/nonexistent rows
+
+          const parents = parseParents(val(r, 'parent_id', 'parent_number', 'parent'));
+          parents.forEach(p0 => {
+            let p = p0 === child ? ROOT_NUM : p0;
+            if (!tree[p]) p = ROOT_NUM;
+            const kids = tree[p].children;
+            if (!kids.includes(child)) kids.push(child);
+          });
+        });
+
+        function hrefForAab(aab) {
+          const iri  = 'http://makaao.inria.fr/db/aab_' + aab + '.html';
+          const slug = slugMap[iri];
+          return slug ? ('/db/' + slug + '.html') : ('https://makaao.inria.fr/db/aab_' + aab + '.html');
+        }
+
+        function buildNode(aab, path = new Set()) {
+          const node = tree[aab];
+          if (!node || path.has(aab)) return null;
+          const nextPath = new Set(path).add(aab);
+          const li = document.createElement('li');
+
+          function appendLabel(to) {
+            const span = document.createElement('span');
+            span.className = 'caret-label';
+
+            const nameLink = document.createElement('a');
+            nameLink.href = hrefForAab(node.aab);
+            nameLink.textContent = node.name || ('aab_' + node.aab);
+            span.appendChild(nameLink);
+
+            if (node.hpo) {
+              const small = document.createElement('small');
+              small.appendChild(document.createTextNode(' ('));
+              const hpoLink = document.createElement('a');
+              hpoLink.href = `https://hpo.jax.org/app/browse/term/${node.hpo}`;
+              hpoLink.textContent = node.hpo;
+              small.appendChild(hpoLink);
+              small.appendChild(document.createTextNode(')'));
+              span.appendChild(document.createTextNode(' '));
+              span.appendChild(small);
+            }
+
+            to.appendChild(span);
+          }
+
+          if (node.children.length) {
+            const head = document.createElement('span');
+            head.className = 'caret';
+            appendLabel(head);
+            li.appendChild(head);
+
+            const ul = document.createElement('ul');
+            ul.className = 'nested';
+            node.children.forEach(childAab => {
+              const childLi = buildNode(childAab, nextPath);
+              if (childLi) ul.appendChild(childLi);
+            });
+            li.appendChild(ul);
+          } else {
+            appendLabel(li);
+          }
+          return li;
+        }
+
+        const container = document.getElementById('myUL');
+        const rootLi = buildNode(ROOT_NUM);
+        if (rootLi) container.appendChild(rootLi);
+
+        /* --- OPEN FIRST BRANCH BY DEFAULT --- */
+        if (rootLi) {
+          const rootCaret = rootLi.querySelector(':scope > .caret') || rootLi.querySelector('.caret');
+          if (rootCaret) {
+            rootCaret.classList.add('caret-down');
+            const nested = rootCaret.nextElementSibling;
+            if (nested) nested.classList.add('active');
+          }
+        }
+        /* ----------------------------------- */
+
+        // Toggle only when clicking non-link inside a caret.
+        container.addEventListener('click', function(e) {
+          if (e.target.closest('a')) return; // let links navigate
+          const caretHead = e.target.closest('.caret');
+          if (!caretHead || !container.contains(caretHead)) return;
+          e.preventDefault();
+          caretHead.classList.toggle('caret-down');
+          const nested = caretHead.nextElementSibling;
+          if (nested) nested.classList.toggle('active');
+        });
+      }).catch(console.error);
+    });
+  </script>
+
+  <!-- GoatCounter analytics -->
+  <script data-goatcounter="https://traffic-monitor.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>

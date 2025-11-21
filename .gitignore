@@ -1,0 +1,12 @@
+# Generated HTML pages
+website/db/
+
+# Big data files that should not be in git
+website/data/LOINC_*.ttl
+website/data/makaao_*.rdf
+website/data/makaao*.csv
+
+# Local scripts / temp data
+website/data/test_table.csv/
+*.log
+*.tmp

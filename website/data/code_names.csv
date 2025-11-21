@@ -1,0 +1,1161 @@
+source,id,name,url
+UniProt,A1A4S6,Rho GTPase-activating protein 10,https://www.uniprot.org/uniprotkb/A1A4S6
+UniProt,A6NGN9,IgLON family member 5,https://www.uniprot.org/uniprotkb/A6NGN9
+UniProt,F4KHD8,Nuclear pore complex protein GP210,https://www.uniprot.org/uniprotkb/F4KHD8
+UniProt,O00300,Tumor necrosis factor receptor superfamily member 11B,https://www.uniprot.org/uniprotkb/O00300
+UniProt,O00515,Ladinin-1,https://www.uniprot.org/uniprotkb/O00515
+UniProt,O00555,Voltage-dependent P/Q-type calcium channel subunit alpha-1A,https://www.uniprot.org/uniprotkb/O00555
+UniProt,O00570,Transcription factor SOX-1,https://www.uniprot.org/uniprotkb/O00570
+UniProt,O14802,DNA-directed RNA polymerase III subunit RPC1,https://www.uniprot.org/uniprotkb/O14802
+UniProt,O15146,"Muscle, skeletal receptor tyrosine-protein kinase",https://www.uniprot.org/uniprotkb/O15146
+UniProt,O15230,Laminin subunit alpha-5,https://www.uniprot.org/uniprotkb/O15230
+UniProt,O43776,"Asparagine--tRNA ligase, cytoplasmic",https://www.uniprot.org/uniprotkb/O43776
+UniProt,O43854,EGF-like repeat and discoidin I-like domain-containing protein 3,https://www.uniprot.org/uniprotkb/O43854
+UniProt,O60240,Perilipin-1,https://www.uniprot.org/uniprotkb/O60240
+UniProt,O60437,Periplakin,https://www.uniprot.org/uniprotkb/O60437
+UniProt,O60806,T-box transcription factor TBX19,https://www.uniprot.org/uniprotkb/O60806
+UniProt,O75899,Gamma-aminobutyric acid type B receptor subunit 2,https://www.uniprot.org/uniprotkb/O75899
+UniProt,O94856,Neurofascin,https://www.uniprot.org/uniprotkb/O94856
+UniProt,O95363,"Phenylalanine--tRNA ligase, mitochondrial",https://www.uniprot.org/uniprotkb/O95363
+UniProt,O95932,Protein-glutamine gamma-glutamyltransferase 6,https://www.uniprot.org/uniprotkb/O95932
+UniProt,O95954,Formimidoyltransferase-cyclodeaminase,https://www.uniprot.org/uniprotkb/O95954
+UniProt,O95970,Leucine-rich glioma-inactivated protein 1,https://www.uniprot.org/uniprotkb/O95970
+UniProt,P00451,Coagulation factor VIII,https://www.uniprot.org/uniprotkb/P00451
+UniProt,P00488,Coagulation factor XIII A chain,https://www.uniprot.org/uniprotkb/P00488
+UniProt,P00734,Prothrombin,https://www.uniprot.org/uniprotkb/P00734
+UniProt,P00738,Haptoglobin,https://www.uniprot.org/uniprotkb/P00738
+UniProt,P00740,Coagulation factor IX,https://www.uniprot.org/uniprotkb/P00740
+UniProt,P00742,Coagulation factor X,https://www.uniprot.org/uniprotkb/P00742
+UniProt,P00747,Plasminogen,https://www.uniprot.org/uniprotkb/P00747
+UniProt,P00915,Carbonic anhydrase 1,https://www.uniprot.org/uniprotkb/P00915
+UniProt,P00918,Carbonic anhydrase 2,https://www.uniprot.org/uniprotkb/P00918
+UniProt,P01042,Kininogen-1,https://www.uniprot.org/uniprotkb/P01042
+UniProt,P01189,Pro-opiomelanocortin,https://www.uniprot.org/uniprotkb/P01189
+UniProt,P01266,Thyroglobulin,https://www.uniprot.org/uniprotkb/P01266
+UniProt,P01308,Insulin,https://www.uniprot.org/uniprotkb/P01308
+UniProt,P01375,Tumor necrosis factor,https://www.uniprot.org/uniprotkb/P01375
+UniProt,P01563,Interferon alpha-2,https://www.uniprot.org/uniprotkb/P01563
+UniProt,P01568,Interferon alpha-21,https://www.uniprot.org/uniprotkb/P01568
+UniProt,P01574,Interferon beta,https://www.uniprot.org/uniprotkb/P01574
+UniProt,P01579,Interferon gamma,https://www.uniprot.org/uniprotkb/P01579
+UniProt,P01857,Immunoglobulin heavy constant gamma 1,https://www.uniprot.org/uniprotkb/P01857
+UniProt,P01859,Immunoglobulin heavy constant gamma 2,https://www.uniprot.org/uniprotkb/P01859
+UniProt,P01860,Immunoglobulin heavy constant gamma 3,https://www.uniprot.org/uniprotkb/P01860
+UniProt,P01861,Immunoglobulin heavy constant gamma 4,https://www.uniprot.org/uniprotkb/P01861
+UniProt,P01889,"HLA class I histocompatibility antigen, B alpha chain",https://www.uniprot.org/uniprotkb/P01889
+UniProt,P01890,"HLA class I histocompatibility antigen, B alpha chain",https://www.uniprot.org/uniprotkb/P01890
+UniProt,P01891,"HLA class I histocompatibility antigen, A alpha chain",https://www.uniprot.org/uniprotkb/P01891
+UniProt,P01903,"HLA class II histocompatibility antigen, DR alpha chain",https://www.uniprot.org/uniprotkb/P01903
+UniProt,P02745,Complement C1q subcomponent subunit A,https://www.uniprot.org/uniprotkb/P02745
+UniProt,P02746,Complement C1q subcomponent subunit B,https://www.uniprot.org/uniprotkb/P02746
+UniProt,P02749,Beta-2-glycoprotein 1,https://www.uniprot.org/uniprotkb/P02749
+UniProt,P02768,Albumin,https://www.uniprot.org/uniprotkb/P02768
+UniProt,P02788,Lactotransferrin,https://www.uniprot.org/uniprotkb/P02788
+UniProt,P03951,Coagulation factor XI,https://www.uniprot.org/uniprotkb/P03951
+UniProt,P04035,3-hydroxy-3-methylglutaryl-coenzyme A reductase,https://www.uniprot.org/uniprotkb/P04035
+UniProt,P04141,Granulocyte-macrophage colony-stimulating factor,https://www.uniprot.org/uniprotkb/P04141
+UniProt,P04233,HLA class II histocompatibility antigen gamma chain,https://www.uniprot.org/uniprotkb/P04233
+UniProt,P04275,von Willebrand factor,https://www.uniprot.org/uniprotkb/P04275
+UniProt,P04439,"HLA class I histocompatibility antigen, A alpha chain",https://www.uniprot.org/uniprotkb/P04439
+UniProt,P04440,"HLA class II histocompatibility antigen, DP beta 1 chain",https://www.uniprot.org/uniprotkb/P04440
+UniProt,P04441,H-2 class II histocompatibility antigen gamma chain,https://www.uniprot.org/uniprotkb/P04441
+UniProt,P04637,Cellular tumor antigen p53,https://www.uniprot.org/uniprotkb/P04637
+UniProt,P05000,Interferon omega-1,https://www.uniprot.org/uniprotkb/P05000
+UniProt,P05067,Amyloid-beta precursor protein,https://www.uniprot.org/uniprotkb/P05067
+UniProt,P05093,"Steroid 17-alpha-hydroxylase/17,20 lyase",https://www.uniprot.org/uniprotkb/P05093
+UniProt,P05108,"Cholesterol side-chain cleavage enzyme, mitochondrial",https://www.uniprot.org/uniprotkb/P05108
+UniProt,P05113,Interleukin-5,https://www.uniprot.org/uniprotkb/P05113
+UniProt,P05129,Protein kinase C gamma type,https://www.uniprot.org/uniprotkb/P05129
+UniProt,P05160,Coagulation factor XIII B chain,https://www.uniprot.org/uniprotkb/P05160
+UniProt,P05164,Myeloperoxidase,https://www.uniprot.org/uniprotkb/P05164
+UniProt,P05204,Non-histone chromosomal protein HMG-17,https://www.uniprot.org/uniprotkb/P05204
+UniProt,P05231,Interleukin-6,https://www.uniprot.org/uniprotkb/P05231
+UniProt,P05386,Large ribosomal subunit protein P1,https://www.uniprot.org/uniprotkb/P05386
+UniProt,P05387,Large ribosomal subunit protein P2,https://www.uniprot.org/uniprotkb/P05387
+UniProt,P05388,Large ribosomal subunit protein uL10,https://www.uniprot.org/uniprotkb/P05388
+UniProt,P05455,Lupus La protein,https://www.uniprot.org/uniprotkb/P05455
+UniProt,P06213,Insulin receptor,https://www.uniprot.org/uniprotkb/P06213
+UniProt,P06733,Alpha-enolase,https://www.uniprot.org/uniprotkb/P06733
+UniProt,P06748,Nucleophosmin,https://www.uniprot.org/uniprotkb/P06748
+UniProt,P06756,Integrin alpha-V,https://www.uniprot.org/uniprotkb/P06756
+UniProt,P07199,Major centromere autoantigen B,https://www.uniprot.org/uniprotkb/P07199
+UniProt,P07202,Thyroid peroxidase,https://www.uniprot.org/uniprotkb/P07202
+UniProt,P07942,Laminin subunit beta-1,https://www.uniprot.org/uniprotkb/P07942
+UniProt,P08246,Neutrophil elastase,https://www.uniprot.org/uniprotkb/P08246
+UniProt,P08311,Cathepsin G,https://www.uniprot.org/uniprotkb/P08311
+UniProt,P08514,Integrin alpha-IIb,https://www.uniprot.org/uniprotkb/P08514
+UniProt,P08588,Beta-1 adrenergic receptor,https://www.uniprot.org/uniprotkb/P08588
+UniProt,P08603,Complement factor H,https://www.uniprot.org/uniprotkb/P08603
+UniProt,P08670,Vimentin,https://www.uniprot.org/uniprotkb/P08670
+UniProt,P08686,Steroid 21-hydroxylase,https://www.uniprot.org/uniprotkb/P08686
+UniProt,P08709,Coagulation factor VII,https://www.uniprot.org/uniprotkb/P08709
+UniProt,P08758,Annexin A5,https://www.uniprot.org/uniprotkb/P08758
+UniProt,P09327,Villin-1,https://www.uniprot.org/uniprotkb/P09327
+UniProt,P09619,Platelet-derived growth factor receptor beta,https://www.uniprot.org/uniprotkb/P09619
+UniProt,P0C0L5,Complement C4-B,https://www.uniprot.org/uniprotkb/P0C0L5
+UniProt,P10145,Interleukin-8,https://www.uniprot.org/uniprotkb/P10145
+UniProt,P10155,RNA-binding protein RO60,https://www.uniprot.org/uniprotkb/P10155
+UniProt,P10321,"HLA class I histocompatibility antigen, C alpha chain",https://www.uniprot.org/uniprotkb/P10321
+UniProt,P10515,"Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex, mitochondrial",https://www.uniprot.org/uniprotkb/P10515
+UniProt,P10635,Cytochrome P450 2D6,https://www.uniprot.org/uniprotkb/P10635
+UniProt,P10636,Microtubule-associated protein tau,https://www.uniprot.org/uniprotkb/P10636
+UniProt,P11047,Laminin subunit gamma-1,https://www.uniprot.org/uniprotkb/P11047
+UniProt,P11048,Lamin-A,https://www.uniprot.org/uniprotkb/P11048
+UniProt,P11182,"Lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial",https://www.uniprot.org/uniprotkb/P11182
+UniProt,P11387,DNA topoisomerase 1,https://www.uniprot.org/uniprotkb/P11387
+UniProt,P11712,Cytochrome P450 2C9,https://www.uniprot.org/uniprotkb/P11712
+UniProt,P12081,"Histidine--tRNA ligase, cytoplasmic",https://www.uniprot.org/uniprotkb/P12081
+UniProt,P12259,Coagulation factor V,https://www.uniprot.org/uniprotkb/P12259
+UniProt,P12883,Myosin-7,https://www.uniprot.org/uniprotkb/P12883
+UniProt,P12956,X-ray repair cross-complementing protein 6,https://www.uniprot.org/uniprotkb/P12956
+UniProt,P13473,Lysosome-associated membrane glycoprotein 2,https://www.uniprot.org/uniprotkb/P13473
+UniProt,P14136,Glial fibrillary acidic protein,https://www.uniprot.org/uniprotkb/P14136
+UniProt,P14416,D(2) dopamine receptor,https://www.uniprot.org/uniprotkb/P14416
+UniProt,P14867,Gamma-aminobutyric acid receptor subunit alpha-1,https://www.uniprot.org/uniprotkb/P14867
+UniProt,P15924,Desmoplakin,https://www.uniprot.org/uniprotkb/P15924
+UniProt,P16104,Histone H2AX,https://www.uniprot.org/uniprotkb/P16104
+UniProt,P16234,Platelet-derived growth factor receptor alpha,https://www.uniprot.org/uniprotkb/P16234
+UniProt,P16401,Histone H1.5,https://www.uniprot.org/uniprotkb/P16401
+UniProt,P16473,Thyrotropin receptor,https://www.uniprot.org/uniprotkb/P16473
+UniProt,P17213,Bactericidal permeability-increasing protein,https://www.uniprot.org/uniprotkb/P17213
+UniProt,P17480,Nucleolar transcription factor 1,https://www.uniprot.org/uniprotkb/P17480
+UniProt,P17752,Tryptophan 5-hydroxylase 1,https://www.uniprot.org/uniprotkb/P17752
+UniProt,P18206,Vinculin,https://www.uniprot.org/uniprotkb/P18206
+UniProt,P18564,Integrin beta-6,https://www.uniprot.org/uniprotkb/P18564
+UniProt,P19367,Hexokinase-1,https://www.uniprot.org/uniprotkb/P19367
+UniProt,P19474,E3 ubiquitin-protein ligase TRIM21,https://www.uniprot.org/uniprotkb/P19474
+UniProt,P20042,Eukaryotic translation initiation factor 2 subunit 2,https://www.uniprot.org/uniprotkb/P20042
+UniProt,P20160,Azurocidin,https://www.uniprot.org/uniprotkb/P20160
+UniProt,P20648,Potassium-transporting ATPase alpha chain 1,https://www.uniprot.org/uniprotkb/P20648
+UniProt,P20711,Aromatic-L-amino-acid decarboxylase,https://www.uniprot.org/uniprotkb/P20711
+UniProt,P20916,Myelin-associated glycoprotein,https://www.uniprot.org/uniprotkb/P20916
+UniProt,P21728,D(1A) dopamine receptor,https://www.uniprot.org/uniprotkb/P21728
+UniProt,P21817,Ryanodine receptor 1,https://www.uniprot.org/uniprotkb/P21817
+UniProt,P21980,Protein-glutamine gamma-glutamyltransferase 2,https://www.uniprot.org/uniprotkb/P21980
+UniProt,P22087,rRNA 2'-O-methyltransferase fibrillarin,https://www.uniprot.org/uniprotkb/P22087
+UniProt,P22459,Potassium voltage-gated channel subfamily A member 4,https://www.uniprot.org/uniprotkb/P22459
+UniProt,P22607,Fibroblast growth factor receptor 3,https://www.uniprot.org/uniprotkb/P22607
+UniProt,P23280,Carbonic anhydrase 6,https://www.uniprot.org/uniprotkb/P23280
+UniProt,P23415,Glycine receptor subunit alpha-1,https://www.uniprot.org/uniprotkb/P23415
+UniProt,P23497,Nuclear autoantigen Sp-100,https://www.uniprot.org/uniprotkb/P23497
+UniProt,P24158,Myeloblastin,https://www.uniprot.org/uniprotkb/P24158
+UniProt,P25101,Endothelin-1 receptor,https://www.uniprot.org/uniprotkb/P25101
+UniProt,P26378,ELAV-like protein 4,https://www.uniprot.org/uniprotkb/P26378
+UniProt,P27352,Cobalamin binding intrinsic factor,https://www.uniprot.org/uniprotkb/P27352
+UniProt,P28069,Pituitary-specific positive transcription factor 1,https://www.uniprot.org/uniprotkb/P28069
+UniProt,P28472,Gamma-aminobutyric acid receptor subunit beta-3,https://www.uniprot.org/uniprotkb/P28472
+UniProt,P29459,Interleukin-12 subunit alpha,https://www.uniprot.org/uniprotkb/P29459
+UniProt,P29460,Interleukin-12 subunit beta,https://www.uniprot.org/uniprotkb/P29460
+UniProt,P29590,Protein PML,https://www.uniprot.org/uniprotkb/P29590
+UniProt,P30556,Type-1 angiotensin II receptor,https://www.uniprot.org/uniprotkb/P30556
+UniProt,P32926,Desmoglein-3,https://www.uniprot.org/uniprotkb/P32926
+UniProt,P33778,Histone H2B type 1-B,https://www.uniprot.org/uniprotkb/P33778
+UniProt,P35219,Carbonic anhydrase-related protein,https://www.uniprot.org/uniprotkb/P35219
+UniProt,P35222,Catenin beta-1,https://www.uniprot.org/uniprotkb/P35222
+UniProt,P36544,Neuronal acetylcholine receptor subunit alpha-7,https://www.uniprot.org/uniprotkb/P36544
+UniProt,P36957,"Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex, mitochondrial",https://www.uniprot.org/uniprotkb/P36957
+UniProt,P37198,Nuclear pore glycoprotein p62,https://www.uniprot.org/uniprotkb/P37198
+UniProt,P38405,Guanine nucleotide-binding protein G(olf) subunit alpha,https://www.uniprot.org/uniprotkb/P38405
+UniProt,P40293,B-cell antigen receptor complex-associated protein alpha chain,https://www.uniprot.org/uniprotkb/P40293
+UniProt,P41250,Glycine--tRNA ligase,https://www.uniprot.org/uniprotkb/P41250
+UniProt,P41252,"Isoleucine--tRNA ligase, cytoplasmic",https://www.uniprot.org/uniprotkb/P41252
+UniProt,P41594,Metabotropic glutamate receptor 5,https://www.uniprot.org/uniprotkb/P41594
+UniProt,P42261,Glutamate receptor 1,https://www.uniprot.org/uniprotkb/P42261
+UniProt,P42262,Glutamate receptor 2,https://www.uniprot.org/uniprotkb/P42262
+UniProt,P42658,A-type potassium channel modulatory protein DPP6,https://www.uniprot.org/uniprotkb/P42658
+UniProt,P46013,Proliferation marker protein Ki-67,https://www.uniprot.org/uniprotkb/P46013
+UniProt,P46821,Microtubule-associated protein 1B,https://www.uniprot.org/uniprotkb/P46821
+UniProt,P49418,Amphiphysin,https://www.uniprot.org/uniprotkb/P49418
+UniProt,P49450,Histone H3-like centromeric protein A,https://www.uniprot.org/uniprotkb/P49450
+UniProt,P49588,"Alanine--tRNA ligase, cytoplasmic",https://www.uniprot.org/uniprotkb/P49588
+UniProt,P49590,"Histidine--tRNA ligase, mitochondrial",https://www.uniprot.org/uniprotkb/P49590
+UniProt,P51164,Potassium-transporting ATPase subunit beta,https://www.uniprot.org/uniprotkb/P51164
+UniProt,P51513,RNA-binding protein Nova-1,https://www.uniprot.org/uniprotkb/P51513
+UniProt,P54577,"Tyrosine--tRNA ligase, cytoplasmic",https://www.uniprot.org/uniprotkb/P54577
+UniProt,P55064,Aquaporin-5,https://www.uniprot.org/uniprotkb/P55064
+UniProt,P55087,Aquaporin-4,https://www.uniprot.org/uniprotkb/P55087
+UniProt,P60568,Interleukin-2,https://www.uniprot.org/uniprotkb/P60568
+UniProt,P60709,"Actin, cytoplasmic 1",https://www.uniprot.org/uniprotkb/P60709
+UniProt,P61289,Proteasome activator complex subunit 3,https://www.uniprot.org/uniprotkb/P61289
+UniProt,P62318,Small nuclear ribonucleoprotein Sm D3,https://www.uniprot.org/uniprotkb/P62318
+UniProt,P62805,Histone H4,https://www.uniprot.org/uniprotkb/P62805
+UniProt,P67809,Y-box-binding protein 1,https://www.uniprot.org/uniprotkb/P67809
+UniProt,P68431,Histone H3.1,https://www.uniprot.org/uniprotkb/P68431
+UniProt,P78357,Contactin-associated protein 1,https://www.uniprot.org/uniprotkb/P78357
+UniProt,Q01082,"Spectrin beta chain, non-erythrocytic 1",https://www.uniprot.org/uniprotkb/Q01082
+UniProt,Q01107,Desmocollin-1,https://www.uniprot.org/uniprotkb/Q01107
+UniProt,Q01780,Exosome complex component 10,https://www.uniprot.org/uniprotkb/Q01780
+UniProt,Q01850,Cerebellar degeneration-related protein 2,https://www.uniprot.org/uniprotkb/Q01850
+UniProt,Q01955,Collagen alpha-3(IV) chain,https://www.uniprot.org/uniprotkb/Q01955
+UniProt,Q01973,Inactive tyrosine-protein kinase transmembrane receptor ROR1,https://www.uniprot.org/uniprotkb/Q01973
+UniProt,Q02218,2-oxoglutarate dehydrogenase complex component E1,https://www.uniprot.org/uniprotkb/Q02218
+UniProt,Q02388,Collagen alpha-1(VII) chain,https://www.uniprot.org/uniprotkb/Q02388
+UniProt,Q02413,Desmoglein-1,https://www.uniprot.org/uniprotkb/Q02413
+UniProt,Q03001,Dystonin,https://www.uniprot.org/uniprotkb/Q03001
+UniProt,Q03188,Centromere protein C,https://www.uniprot.org/uniprotkb/Q03188
+UniProt,Q05329,Glutamate decarboxylase 2,https://www.uniprot.org/uniprotkb/Q05329
+UniProt,Q05586,"Glutamate receptor ionotropic, NMDA 1",https://www.uniprot.org/uniprotkb/Q05586
+UniProt,Q06265,Exosome complex component RRP45,https://www.uniprot.org/uniprotkb/Q06265
+UniProt,Q08188,Protein-glutamine gamma-glutamyltransferase E,https://www.uniprot.org/uniprotkb/Q08188
+UniProt,Q0VDF9,Heat shock 70 kDa protein 14,https://www.uniprot.org/uniprotkb/Q0VDF9
+UniProt,Q12860,Contactin-1,https://www.uniprot.org/uniprotkb/Q12860
+UniProt,Q12879,"Glutamate receptor ionotropic, NMDA 2A",https://www.uniprot.org/uniprotkb/Q12879
+UniProt,Q12926,ELAV-like protein 2,https://www.uniprot.org/uniprotkb/Q12926
+UniProt,Q13002,"Glutamate receptor ionotropic, kainate 2",https://www.uniprot.org/uniprotkb/Q13002
+UniProt,Q13018,Secretory phospholipase A2 receptor,https://www.uniprot.org/uniprotkb/Q13018
+UniProt,Q13098,COP9 signalosome complex subunit 1,https://www.uniprot.org/uniprotkb/Q13098
+UniProt,Q13224,"Glutamate receptor ionotropic, NMDA 2B",https://www.uniprot.org/uniprotkb/Q13224
+UniProt,Q13255,Metabotropic glutamate receptor 1,https://www.uniprot.org/uniprotkb/Q13255
+UniProt,Q13751,Laminin subunit beta-3,https://www.uniprot.org/uniprotkb/Q13751
+UniProt,Q13753,Laminin subunit gamma-2,https://www.uniprot.org/uniprotkb/Q13753
+UniProt,Q13813,"Spectrin alpha chain, non-erythrocytic 1",https://www.uniprot.org/uniprotkb/Q13813
+UniProt,Q14574,Desmocollin-3,https://www.uniprot.org/uniprotkb/Q14574
+UniProt,Q14576,ELAV-like protein 3,https://www.uniprot.org/uniprotkb/Q14576
+UniProt,Q14643,"Inositol 1,4,5-trisphosphate-gated calcium channel ITPR1",https://www.uniprot.org/uniprotkb/Q14643
+UniProt,Q16181,Septin-7,https://www.uniprot.org/uniprotkb/Q16181
+UniProt,Q16552,Interleukin-17A,https://www.uniprot.org/uniprotkb/Q16552
+UniProt,Q16653,Myelin-oligodendrocyte glycoprotein,https://www.uniprot.org/uniprotkb/Q16653
+UniProt,Q16787,Laminin subunit alpha-3,https://www.uniprot.org/uniprotkb/Q16787
+UniProt,Q19KS2,Lactoferrin,https://www.uniprot.org/uniprotkb/Q19KS2
+UniProt,Q53G59,Kelch-like protein 12,https://www.uniprot.org/uniprotkb/Q53G59
+UniProt,Q5JTZ9,"Alanine--tRNA ligase, mitochondrial",https://www.uniprot.org/uniprotkb/Q5JTZ9
+UniProt,Q6NZY4,Zinc finger CCHC domain-containing protein 8,https://www.uniprot.org/uniprotkb/Q6NZY4
+UniProt,Q6P2E9,Enhancer of mRNA-decapping protein 4,https://www.uniprot.org/uniprotkb/Q6P2E9
+UniProt,Q6UXD5,Seizure 6-like protein 2,https://www.uniprot.org/uniprotkb/Q6UXD5
+UniProt,Q6ZTA4,Tripartite motif-containing protein 67,https://www.uniprot.org/uniprotkb/Q6ZTA4
+UniProt,Q76LX8,A disintegrin and metalloproteinase with thrombospondin motifs 13,https://www.uniprot.org/uniprotkb/Q76LX8
+UniProt,Q7Z4K8,Tripartite motif-containing protein 46,https://www.uniprot.org/uniprotkb/Q7Z4K8
+UniProt,Q86X02,Cerebellar degeneration-related protein 2-like,https://www.uniprot.org/uniprotkb/Q86X02
+UniProt,Q8IWQ3,Serine/threonine-protein kinase BRSK2,https://www.uniprot.org/uniprotkb/Q8IWQ3
+UniProt,Q8IWU4,Proton-coupled zinc antiporter SLC30A8,https://www.uniprot.org/uniprotkb/Q8IWU4
+UniProt,Q8N4E7,"Ferritin, mitochondrial",https://www.uniprot.org/uniprotkb/Q8N4E7
+UniProt,Q8N9L1,Zinc finger protein ZIC 4,https://www.uniprot.org/uniprotkb/Q8N9L1
+UniProt,Q8ND56,Protein LSM14 homolog A,https://www.uniprot.org/uniprotkb/Q8ND56
+UniProt,Q8ND90,Paraneoplastic antigen Ma1,https://www.uniprot.org/uniprotkb/Q8ND90
+UniProt,Q8NDV7,Trinucleotide repeat-containing gene 6A protein,https://www.uniprot.org/uniprotkb/Q8NDV7
+UniProt,Q8NFT8,Delta and Notch-like epidermal growth factor-related receptor,https://www.uniprot.org/uniprotkb/Q8NFT8
+UniProt,Q8TD16,Protein bicaudal D homolog 2,https://www.uniprot.org/uniprotkb/Q8TD16
+UniProt,Q8TEM1,Nuclear pore membrane glycoprotein 210,https://www.uniprot.org/uniprotkb/Q8TEM1
+UniProt,Q8WZ42,Titin,https://www.uniprot.org/uniprotkb/Q8WZ42
+UniProt,Q92817,Envoplakin,https://www.uniprot.org/uniprotkb/Q92817
+UniProt,Q92932,Receptor-type tyrosine-protein phosphatase N2,https://www.uniprot.org/uniprotkb/Q92932
+UniProt,Q96DR5,BPI fold-containing family A member 2,https://www.uniprot.org/uniprotkb/Q96DR5
+UniProt,Q96I59,Asparaginyl-tRNA synthetase,https://www.uniprot.org/uniprotkb/Q96I59
+UniProt,Q96LT9,RNA-binding region-containing protein 3,https://www.uniprot.org/uniprotkb/Q96LT9
+UniProt,Q96PD4,Interleukin-17F,https://www.uniprot.org/uniprotkb/Q96PD4
+UniProt,Q96PL5,Erythroid membrane-associated protein,https://www.uniprot.org/uniprotkb/Q96PL5
+UniProt,Q96T92,Insulinoma-associated protein 2,https://www.uniprot.org/uniprotkb/Q96T92
+UniProt,Q99259,Glutamate decarboxylase 1,https://www.uniprot.org/uniprotkb/Q99259
+UniProt,Q99719,Septin-5,https://www.uniprot.org/uniprotkb/Q99719
+UniProt,Q9BPU6,Dihydropyrimidinase-related protein 5,https://www.uniprot.org/uniprotkb/Q9BPU6
+UniProt,Q9BUI4,DNA-directed RNA polymerase III subunit RPC3,https://www.uniprot.org/uniprotkb/Q9BUI4
+UniProt,Q9BXI3,Cytosolic 5'-nucleotidase 1A,https://www.uniprot.org/uniprotkb/Q9BXI3
+UniProt,Q9BYF1,Angiotensin-converting enzyme 2,https://www.uniprot.org/uniprotkb/Q9BYF1
+UniProt,Q9BYX4,Interferon-induced helicase C domain-containing protein 1,https://www.uniprot.org/uniprotkb/Q9BYX4
+UniProt,Q9C026,E3 ubiquitin-protein ligase TRIM9,https://www.uniprot.org/uniprotkb/Q9C026
+UniProt,Q9GZX6,Interleukin-22,https://www.uniprot.org/uniprotkb/Q9GZX6
+UniProt,Q9HD40,O-phosphoseryl-tRNA(Sec) selenium transferase,https://www.uniprot.org/uniprotkb/Q9HD40
+UniProt,Q9NPF7,Interleukin-23 subunit alpha,https://www.uniprot.org/uniprotkb/Q9NPF7
+UniProt,Q9NQX3,Gephyrin,https://www.uniprot.org/uniprotkb/Q9NQX3
+UniProt,Q9NSC5,Homer protein homolog 3,https://www.uniprot.org/uniprotkb/Q9NSC5
+UniProt,Q9NSE4,"Isoleucine--tRNA ligase, mitochondrial",https://www.uniprot.org/uniprotkb/Q9NSE4
+UniProt,Q9NVR0,Kelch-like protein 11,https://www.uniprot.org/uniprotkb/Q9NVR0
+UniProt,Q9UBE0,SUMO-activating enzyme subunit 1,https://www.uniprot.org/uniprotkb/Q9UBE0
+UniProt,Q9UBS5,Gamma-aminobutyric acid type B receptor subunit 1,https://www.uniprot.org/uniprotkb/Q9UBS5
+UniProt,Q9UBT2,SUMO-activating enzyme subunit 2,https://www.uniprot.org/uniprotkb/Q9UBT2
+UniProt,Q9UH03,Neuronal-specific septin-3,https://www.uniprot.org/uniprotkb/Q9UH03
+UniProt,Q9UHC6,Contactin-associated protein-like 2,https://www.uniprot.org/uniprotkb/Q9UHC6
+UniProt,Q9UI36,Dachshund homolog 1,https://www.uniprot.org/uniprotkb/Q9UI36
+UniProt,Q9UKV8,Protein argonaute-2,https://www.uniprot.org/uniprotkb/Q9UKV8
+UniProt,Q9UL18,Protein argonaute-1,https://www.uniprot.org/uniprotkb/Q9UL18
+UniProt,Q9UL42,Paraneoplastic antigen Ma2,https://www.uniprot.org/uniprotkb/Q9UL42
+UniProt,Q9UMD9,Collagen alpha-1(XVII) chain,https://www.uniprot.org/uniprotkb/Q9UMD9
+UniProt,Q9UNA1,Rho GTPase-activating protein 26,https://www.uniprot.org/uniprotkb/Q9UNA1
+UniProt,Q9UPN9,E3 ubiquitin-protein ligase TRIM33,https://www.uniprot.org/uniprotkb/Q9UPN9
+UniProt,Q9UPZ6,Thrombospondin type-1 domain-containing protein 7A,https://www.uniprot.org/uniprotkb/Q9UPZ6
+UniProt,Q9UQ35,Serine/arginine repetitive matrix protein 2,https://www.uniprot.org/uniprotkb/Q9UQ35
+UniProt,Q9UQM7,Calcium/calmodulin-dependent protein kinase type II subunit alpha,https://www.uniprot.org/uniprotkb/Q9UQM7
+UniProt,Q9VUQ5,Protein argonaute-2,https://www.uniprot.org/uniprotkb/Q9VUQ5
+UniProt,Q9Y230,RuvB-like 2,https://www.uniprot.org/uniprotkb/Q9Y230
+UniProt,Q9Y265,RuvB-like 1,https://www.uniprot.org/uniprotkb/Q9Y265
+UniProt,Q9Y287,Integral membrane protein 2B,https://www.uniprot.org/uniprotkb/Q9Y287
+UniProt,Q9Y2Z4,"Tyrosine--tRNA ligase, mitochondrial",https://www.uniprot.org/uniprotkb/Q9Y2Z4
+UniProt,Q9Y4C0,Neurexin-3,https://www.uniprot.org/uniprotkb/Q9Y4C0
+UniProt,Q9Y6K8,Adenylate kinase isoenzyme 5,https://www.uniprot.org/uniprotkb/Q9Y6K8
+UniProt,Q9Y6N9,Harmonin,https://www.uniprot.org/uniprotkb/Q9Y6N9
+UMLS,C0001169,Acquired coagulation factor deficiency,https://uts.nlm.nih.gov/uts/umls/concept/C0001169
+UMLS,C0001625,Adrenal Glands,https://uts.nlm.nih.gov/uts/umls/concept/C0001625
+UMLS,C0001904,Alanine-tRNA Ligase,https://uts.nlm.nih.gov/uts/umls/concept/C0001904
+UMLS,C0002395,Alzheimer's Disease,https://uts.nlm.nih.gov/uts/umls/concept/C0002395
+UMLS,C0002529,Amino Acyl-tRNA Synthetases,https://uts.nlm.nih.gov/uts/umls/concept/C0002529
+UMLS,C0003864,Arthritis,https://uts.nlm.nih.gov/uts/umls/concept/C0003864
+UMLS,C0003873,Rheumatoid Arthritis,https://uts.nlm.nih.gov/uts/umls/concept/C0003873
+UMLS,C0004112,Astrocytes,https://uts.nlm.nih.gov/uts/umls/concept/C0004112
+UMLS,C0004153,Atherosclerosis,https://uts.nlm.nih.gov/uts/umls/concept/C0004153
+UMLS,C0004359,Autoantigens,https://uts.nlm.nih.gov/uts/umls/concept/C0004359
+UMLS,C0004610,Bacteremia,https://uts.nlm.nih.gov/uts/umls/concept/C0004610
+UMLS,C0005586,Bipolar Disorder,https://uts.nlm.nih.gov/uts/umls/concept/C0005586
+UMLS,C0005789,Blood Coagulation Factor,https://uts.nlm.nih.gov/uts/umls/concept/C0005789
+UMLS,C0005821,Blood Platelets,https://uts.nlm.nih.gov/uts/umls/concept/C0005821
+UMLS,C0006685,Calcium Channel,https://uts.nlm.nih.gov/uts/umls/concept/C0006685
+UMLS,C0006826,Malignant Neoplasms,https://uts.nlm.nih.gov/uts/umls/concept/C0006826
+UMLS,C0007033,Carbonic Anhydrase I,https://uts.nlm.nih.gov/uts/umls/concept/C0007033
+UMLS,C0007034,Carbonic Anhydrase II,https://uts.nlm.nih.gov/uts/umls/concept/C0007034
+UMLS,C0007188,Cardiolipins,https://uts.nlm.nih.gov/uts/umls/concept/C0007188
+UMLS,C0007570,Celiac Disease,https://uts.nlm.nih.gov/uts/umls/concept/C0007570
+UMLS,C0007610,Cell Nucleus,https://uts.nlm.nih.gov/uts/umls/concept/C0007610
+UMLS,C0007709,Centromere,https://uts.nlm.nih.gov/uts/umls/concept/C0007709
+UMLS,C0007758,Cerebellar Ataxia,https://uts.nlm.nih.gov/uts/umls/concept/C0007758
+UMLS,C0009324,Ulcerative Colitis,https://uts.nlm.nih.gov/uts/umls/concept/C0009324
+UMLS,C0009326,Collagen Diseases,https://uts.nlm.nih.gov/uts/umls/concept/C0009326
+UMLS,C0009331,collagen type II,https://uts.nlm.nih.gov/uts/umls/concept/C0009331
+UMLS,C0009333,Collagen Type IV,https://uts.nlm.nih.gov/uts/umls/concept/C0009333
+UMLS,C0009337,Collagen Type VII,https://uts.nlm.nih.gov/uts/umls/concept/C0009337
+UMLS,C0009402,Colorectal Carcinoma,https://uts.nlm.nih.gov/uts/umls/concept/C0009402
+UMLS,C0009502,Complement C1q,https://uts.nlm.nih.gov/uts/umls/concept/C0009502
+UMLS,C0009507,Complement C3 Convertases,https://uts.nlm.nih.gov/uts/umls/concept/C0009507
+UMLS,C0009782,Connective Tissue Diseases,https://uts.nlm.nih.gov/uts/umls/concept/C0009782
+UMLS,C0011633,Dermatomyositis,https://uts.nlm.nih.gov/uts/umls/concept/C0011633
+UMLS,C0011854,"Diabetes Mellitus, Insulin-Dependent",https://uts.nlm.nih.gov/uts/umls/concept/C0011854
+UMLS,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent",https://uts.nlm.nih.gov/uts/umls/concept/C0011860
+UMLS,C0014175,Endometriosis,https://uts.nlm.nih.gov/uts/umls/concept/C0014175
+UMLS,C0014742,Erythema Multiforme,https://uts.nlm.nih.gov/uts/umls/concept/C0014742
+UMLS,C0014792,Erythrocytes,https://uts.nlm.nih.gov/uts/umls/concept/C0014792
+UMLS,C0015522,Factor XI,https://uts.nlm.nih.gov/uts/umls/concept/C0015522
+UMLS,C0015528,factor XIII,https://uts.nlm.nih.gov/uts/umls/concept/C0015528
+UMLS,C0016006,fibrinogen,https://uts.nlm.nih.gov/uts/umls/concept/C0016006
+UMLS,C0016895,Ganglioside GM1,https://uts.nlm.nih.gov/uts/umls/concept/C0016895
+UMLS,C0016897,G(M3) Ganglioside,https://uts.nlm.nih.gov/uts/umls/concept/C0016897
+UMLS,C0017082,Gangliosides,https://uts.nlm.nih.gov/uts/umls/concept/C0017082
+UMLS,C0017622,Gliadin,https://uts.nlm.nih.gov/uts/umls/concept/C0017622
+UMLS,C0017785,Glutamate Decarboxylase,https://uts.nlm.nih.gov/uts/umls/concept/C0017785
+UMLS,C0017983,Glycine-tRNA Ligase,https://uts.nlm.nih.gov/uts/umls/concept/C0017983
+UMLS,C0019611,Histidine-tRNA Ligase,https://uts.nlm.nih.gov/uts/umls/concept/C0019611
+UMLS,C0019644,Histone H1,https://uts.nlm.nih.gov/uts/umls/concept/C0019644
+UMLS,C0019646,Histone H2a,https://uts.nlm.nih.gov/uts/umls/concept/C0019646
+UMLS,C0019647,Histone H3,https://uts.nlm.nih.gov/uts/umls/concept/C0019647
+UMLS,C0019652,Histones,https://uts.nlm.nih.gov/uts/umls/concept/C0019652
+UMLS,C0019728,HLA-A Antigens,https://uts.nlm.nih.gov/uts/umls/concept/C0019728
+UMLS,C0019729,HLA-A DNA Probes,https://uts.nlm.nih.gov/uts/umls/concept/C0019729
+UMLS,C0019730,,https://uts.nlm.nih.gov/uts/umls/concept/C0019730
+UMLS,C0019737,HLA-B Antigens,https://uts.nlm.nih.gov/uts/umls/concept/C0019737
+UMLS,C0019738,HLA-B DNA Probes,https://uts.nlm.nih.gov/uts/umls/concept/C0019738
+UMLS,C0019739,,https://uts.nlm.nih.gov/uts/umls/concept/C0019739
+UMLS,C0019751,HLA-C Antigens,https://uts.nlm.nih.gov/uts/umls/concept/C0019751
+UMLS,C0019799,HMGN2 Protein,https://uts.nlm.nih.gov/uts/umls/concept/C0019799
+UMLS,C0021033,Immunoglobulin gamma-Chains,https://uts.nlm.nih.gov/uts/umls/concept/C0021033
+UMLS,C0021359,Infertility,https://uts.nlm.nih.gov/uts/umls/concept/C0021359
+UMLS,C0021390,Inflammatory Bowel Diseases,https://uts.nlm.nih.gov/uts/umls/concept/C0021390
+UMLS,C0021701,Integrins,https://uts.nlm.nih.gov/uts/umls/concept/C0021701
+UMLS,C0021743,Interferon Type I,https://uts.nlm.nih.gov/uts/umls/concept/C0021743
+UMLS,C0021745,interferon type II,https://uts.nlm.nih.gov/uts/umls/concept/C0021745
+UMLS,C0021764,Interleukins,https://uts.nlm.nih.gov/uts/umls/concept/C0021764
+UMLS,C0021918,intrinsic factor,https://uts.nlm.nih.gov/uts/umls/concept/C0021918
+UMLS,C0022131,Islets of Langerhans,https://uts.nlm.nih.gov/uts/umls/concept/C0022131
+UMLS,C0022194,Isoleucine-tRNA Ligase,https://uts.nlm.nih.gov/uts/umls/concept/C0022194
+UMLS,C0022626,Ketoglutarate Dehydrogenase Complex,https://uts.nlm.nih.gov/uts/umls/concept/C0022626
+UMLS,C0022942,lactoferrin,https://uts.nlm.nih.gov/uts/umls/concept/C0022942
+UMLS,C0022984,Laminin,https://uts.nlm.nih.gov/uts/umls/concept/C0022984
+UMLS,C0023884,Liver,https://uts.nlm.nih.gov/uts/umls/concept/C0023884
+UMLS,C0024143,Lupus Nephritis,https://uts.nlm.nih.gov/uts/umls/concept/C0024143
+UMLS,C0024537,"Malaria, Vivax",https://uts.nlm.nih.gov/uts/umls/concept/C0024537
+UMLS,C0026237,Mitochondria,https://uts.nlm.nih.gov/uts/umls/concept/C0026237
+UMLS,C0026975,Myelitis,https://uts.nlm.nih.gov/uts/umls/concept/C0026975
+UMLS,C0027121,Myositis,https://uts.nlm.nih.gov/uts/umls/concept/C0027121
+UMLS,C0027869,Neuromuscular Junction,https://uts.nlm.nih.gov/uts/umls/concept/C0027869
+UMLS,C0027882,Neurons,https://uts.nlm.nih.gov/uts/umls/concept/C0027882
+UMLS,C0027950,neutrophil,https://uts.nlm.nih.gov/uts/umls/concept/C0027950
+UMLS,C0028587,Nuclear Pore,https://uts.nlm.nih.gov/uts/umls/concept/C0028587
+UMLS,C0028609,Nucleolus Organizer Region,https://uts.nlm.nih.gov/uts/umls/concept/C0028609
+UMLS,C0028850,Ocular Motility Disorders,https://uts.nlm.nih.gov/uts/umls/concept/C0028850
+UMLS,C0029134,Optic Neuritis,https://uts.nlm.nih.gov/uts/umls/concept/C0029134
+UMLS,C0029456,Osteoporosis,https://uts.nlm.nih.gov/uts/umls/concept/C0029456
+UMLS,C0030326,Panniculitis,https://uts.nlm.nih.gov/uts/umls/concept/C0030326
+UMLS,C0030580,Parotid Gland,https://uts.nlm.nih.gov/uts/umls/concept/C0030580
+UMLS,C0030807,Pemphigus,https://uts.nlm.nih.gov/uts/umls/concept/C0030807
+UMLS,C0031046,Pericarditis,https://uts.nlm.nih.gov/uts/umls/concept/C0031046
+UMLS,C0031460,Phenylalanine-tRNA Ligase,https://uts.nlm.nih.gov/uts/umls/concept/C0031460
+UMLS,C0031610,Phosphatidic Acid,https://uts.nlm.nih.gov/uts/umls/concept/C0031610
+UMLS,C0031619,Phosphatidylglycerols,https://uts.nlm.nih.gov/uts/umls/concept/C0031619
+UMLS,C0031621,phosphatidylinositols,https://uts.nlm.nih.gov/uts/umls/concept/C0031621
+UMLS,C0031623,Phosphatidylserines,https://uts.nlm.nih.gov/uts/umls/concept/C0031623
+UMLS,C0032005,Pituitary Gland,https://uts.nlm.nih.gov/uts/umls/concept/C0032005
+UMLS,C0033679,Transglutaminases,https://uts.nlm.nih.gov/uts/umls/concept/C0033679
+UMLS,C0033706,prothrombin,https://uts.nlm.nih.gov/uts/umls/concept/C0033706
+UMLS,C0034143,Purkinje Cells,https://uts.nlm.nih.gov/uts/umls/concept/C0034143
+UMLS,C0034667,Ranvier's Nodes,https://uts.nlm.nih.gov/uts/umls/concept/C0034667
+UMLS,C0034807,GABA-A Receptor,https://uts.nlm.nih.gov/uts/umls/concept/C0034807
+UMLS,C0034818,Insulin Receptor,https://uts.nlm.nih.gov/uts/umls/concept/C0034818
+UMLS,C0034830,Nicotinic Receptors,https://uts.nlm.nih.gov/uts/umls/concept/C0034830
+UMLS,C0034844,Thyrotropin Receptor,https://uts.nlm.nih.gov/uts/umls/concept/C0034844
+UMLS,C0035285,Reticulin,https://uts.nlm.nih.gov/uts/umls/concept/C0035285
+UMLS,C0035680,RNA Polymerase III,https://uts.nlm.nih.gov/uts/umls/concept/C0035680
+UMLS,C0036098,Salivary Glands,https://uts.nlm.nih.gov/uts/umls/concept/C0036098
+UMLS,C0036225,Sarcomeres,https://uts.nlm.nih.gov/uts/umls/concept/C0036225
+UMLS,C0036341,Schizophrenia,https://uts.nlm.nih.gov/uts/umls/concept/C0036341
+UMLS,C0037900,Sphingolipids,https://uts.nlm.nih.gov/uts/umls/concept/C0037900
+UMLS,C0038302,Steroid 17-alpha-Hydroxylase,https://uts.nlm.nih.gov/uts/umls/concept/C0038302
+UMLS,C0038727,Sulfoglycosphingolipids,https://uts.nlm.nih.gov/uts/umls/concept/C0038727
+UMLS,C0039263,Takayasu Arteritis,https://uts.nlm.nih.gov/uts/umls/concept/C0039263
+UMLS,C0040100,Thymoma,https://uts.nlm.nih.gov/uts/umls/concept/C0040100
+UMLS,C0040123,thyroglobulin,https://uts.nlm.nih.gov/uts/umls/concept/C0040123
+UMLS,C0040132,Thyroid Gland,https://uts.nlm.nih.gov/uts/umls/concept/C0040132
+UMLS,C0041178,trophoblast,https://uts.nlm.nih.gov/uts/umls/concept/C0041178
+UMLS,C0041197,Tropomyosin,https://uts.nlm.nih.gov/uts/umls/concept/C0041197
+UMLS,C0041497,Tyrosine-tRNA Ligase,https://uts.nlm.nih.gov/uts/umls/concept/C0041497
+UMLS,C0042666,Vimentin,https://uts.nlm.nih.gov/uts/umls/concept/C0042666
+UMLS,C0042971,von Willebrand factor,https://uts.nlm.nih.gov/uts/umls/concept/C0042971
+UMLS,C0051334,alpha7 Nicotinic Acetylcholine Receptor,https://uts.nlm.nih.gov/uts/umls/concept/C0051334
+UMLS,C0052495,Asialoglycoprotein Receptor,https://uts.nlm.nih.gov/uts/umls/concept/C0052495
+UMLS,C0052887,GABA-B Receptor,https://uts.nlm.nih.gov/uts/umls/concept/C0052887
+UMLS,C0054218,Collagen Type XVII,https://uts.nlm.nih.gov/uts/umls/concept/C0054218
+UMLS,C0055060,centromere protein C,https://uts.nlm.nih.gov/uts/umls/concept/C0055060
+UMLS,C0056207,COMPLEMENT FACTOR H,https://uts.nlm.nih.gov/uts/umls/concept/C0056207
+UMLS,C0057555,desmoplakin,https://uts.nlm.nih.gov/uts/umls/concept/C0057555
+UMLS,C0060320,fibrillarin,https://uts.nlm.nih.gov/uts/umls/concept/C0060320
+UMLS,C0061101,"ganglioside, GD1a",https://uts.nlm.nih.gov/uts/umls/concept/C0061101
+UMLS,C0061102,"ganglioside, GD1b",https://uts.nlm.nih.gov/uts/umls/concept/C0061102
+UMLS,C0061106,"ganglioside, GM4",https://uts.nlm.nih.gov/uts/umls/concept/C0061106
+UMLS,C0061605,Glycine Receptors,https://uts.nlm.nih.gov/uts/umls/concept/C0061605
+UMLS,C0061671,"ITGA2B protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C0061671
+UMLS,C0061847,GQ1b ganglioside,https://uts.nlm.nih.gov/uts/umls/concept/C0061847
+UMLS,C0064533,Asparagine-tRNA ligase,https://uts.nlm.nih.gov/uts/umls/concept/C0064533
+UMLS,C0067033,Myeloblastin,https://uts.nlm.nih.gov/uts/umls/concept/C0067033
+UMLS,C0069428,Oligodendrocyte-Myelin Glycoprotein,https://uts.nlm.nih.gov/uts/umls/concept/C0069428
+UMLS,C0070121,"BPIFA2 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C0070121
+UMLS,C0071766,H(+)-K(+)-Exchanging ATPase,https://uts.nlm.nih.gov/uts/umls/concept/C0071766
+UMLS,C0075129,SS-A antigen,https://uts.nlm.nih.gov/uts/umls/concept/C0075129
+UMLS,C0077299,GT1a-ganglioside,https://uts.nlm.nih.gov/uts/umls/concept/C0077299
+UMLS,C0079189,cytokine,https://uts.nlm.nih.gov/uts/umls/concept/C0079189
+UMLS,C0079460,Granulocyte-Macrophage Colony-Stimulating Factor,https://uts.nlm.nih.gov/uts/umls/concept/C0079460
+UMLS,C0079633,interleukin-8,https://uts.nlm.nih.gov/uts/umls/concept/C0079633
+UMLS,C0080055,Protein p53,https://uts.nlm.nih.gov/uts/umls/concept/C0080055
+UMLS,C0083804,"NUP210 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C0083804
+UMLS,C0085278,Antiphospholipid Syndrome,https://uts.nlm.nih.gov/uts/umls/concept/C0085278
+UMLS,C0085355,Human Platelet Antigens,https://uts.nlm.nih.gov/uts/umls/concept/C0085355
+UMLS,C0085584,Encephalopathies,https://uts.nlm.nih.gov/uts/umls/concept/C0085584
+UMLS,C0085642,Livedo Reticularis,https://uts.nlm.nih.gov/uts/umls/concept/C0085642
+UMLS,C0086411,Histone H2b,https://uts.nlm.nih.gov/uts/umls/concept/C0086411
+UMLS,C0113219,Desmoplakin 1,https://uts.nlm.nih.gov/uts/umls/concept/C0113219
+UMLS,C0113220,Desmoplakin 2,https://uts.nlm.nih.gov/uts/umls/concept/C0113220
+UMLS,C0117080,Extractable Nuclear Antigens,https://uts.nlm.nih.gov/uts/umls/concept/C0117080
+UMLS,C0120409,GT1b-ganglioside,https://uts.nlm.nih.gov/uts/umls/concept/C0120409
+UMLS,C0122547,ELAV-Like Protein 4,https://uts.nlm.nih.gov/uts/umls/concept/C0122547
+UMLS,C0122577,"complement factor H, human",https://uts.nlm.nih.gov/uts/umls/concept/C0122577
+UMLS,C0123759,interleukin-12,https://uts.nlm.nih.gov/uts/umls/concept/C0123759
+UMLS,C0124761,Ku autoantigen,https://uts.nlm.nih.gov/uts/umls/concept/C0124761
+UMLS,C0125261,lamin C,https://uts.nlm.nih.gov/uts/umls/concept/C0125261
+UMLS,C0142661,Small Nuclear Ribonucleoproteins,https://uts.nlm.nih.gov/uts/umls/concept/C0142661
+UMLS,C0142996,soluble liver antigen,https://uts.nlm.nih.gov/uts/umls/concept/C0142996
+UMLS,C0146283,"TP53 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C0146283
+UMLS,C0147543,"Ribonucleoprotein, U5 Small Nuclear",https://uts.nlm.nih.gov/uts/umls/concept/C0147543
+UMLS,C0162795,"Ribonucleoprotein, U1 Small Nuclear",https://uts.nlm.nih.gov/uts/umls/concept/C0162795
+UMLS,C0162796,"Ribonucleoprotein, U2 Small Nuclear",https://uts.nlm.nih.gov/uts/umls/concept/C0162796
+UMLS,C0162797,"Ribonucleoproteins, U4 Small Nuclear",https://uts.nlm.nih.gov/uts/umls/concept/C0162797
+UMLS,C0166814,integrin alphavbeta6,https://uts.nlm.nih.gov/uts/umls/concept/C0166814
+UMLS,C0171955,laminin-5,https://uts.nlm.nih.gov/uts/umls/concept/C0171955
+UMLS,C0206139,"Lichen Planus, Oral",https://uts.nlm.nih.gov/uts/umls/concept/C0206139
+UMLS,C0208804,Ki-67 Antigen,https://uts.nlm.nih.gov/uts/umls/concept/C0208804
+UMLS,C0211525,"ROR1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C0211525
+UMLS,C0230770,"Endoplasmic reticulum, membrane",https://uts.nlm.nih.gov/uts/umls/concept/C0230770
+UMLS,C0235618,Proliferative glomerulonephritis,https://uts.nlm.nih.gov/uts/umls/concept/C0235618
+UMLS,C0238049,Adult form of celiac disease,https://uts.nlm.nih.gov/uts/umls/concept/C0238049
+UMLS,C0242609,Kinetochores,https://uts.nlm.nih.gov/uts/umls/concept/C0242609
+UMLS,C0245807,LKM-3,https://uts.nlm.nih.gov/uts/umls/concept/C0245807
+UMLS,C0256015,protein kinase C gamma,https://uts.nlm.nih.gov/uts/umls/concept/C0256015
+UMLS,C0256204,nuclear matrix protein 2,https://uts.nlm.nih.gov/uts/umls/concept/C0256204
+UMLS,C0258665,laminin gamma 1,https://uts.nlm.nih.gov/uts/umls/concept/C0258665
+UMLS,C0264939,Systemic Vasculitis,https://uts.nlm.nih.gov/uts/umls/concept/C0264939
+UMLS,C0267642,Childhood celiac disease,https://uts.nlm.nih.gov/uts/umls/concept/C0267642
+UMLS,C0268274,"Gangliosidoses, GM2",https://uts.nlm.nih.gov/uts/umls/concept/C0268274
+UMLS,C0282554,chemokine,https://uts.nlm.nih.gov/uts/umls/concept/C0282554
+UMLS,C0286249,LKM-1,https://uts.nlm.nih.gov/uts/umls/concept/C0286249
+UMLS,C0288263,L-Type Calcium Channels,https://uts.nlm.nih.gov/uts/umls/concept/C0288263
+UMLS,C0299095,Kv1.4 Potassium Channel,https://uts.nlm.nih.gov/uts/umls/concept/C0299095
+UMLS,C0300895,"ENO1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C0300895
+UMLS,C0301704,phosphatidylserine,https://uts.nlm.nih.gov/uts/umls/concept/C0301704
+UMLS,C0304925,"albumin human, USP",https://uts.nlm.nih.gov/uts/umls/concept/C0304925
+UMLS,C0311474,"DNA, Double-Stranded",https://uts.nlm.nih.gov/uts/umls/concept/C0311474
+UMLS,C0379610,"EXOSC10 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C0379610
+UMLS,C0381678,"MUSK protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C0381678
+UMLS,C0385096,GluK2 Kainate Receptor,https://uts.nlm.nih.gov/uts/umls/concept/C0385096
+UMLS,C0391612,envoplakin,https://uts.nlm.nih.gov/uts/umls/concept/C0391612
+UMLS,C0504097,Endomysium,https://uts.nlm.nih.gov/uts/umls/concept/C0504097
+UMLS,C0527057,"FGFR3 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C0527057
+UMLS,C0529334,transglutaminase 2,https://uts.nlm.nih.gov/uts/umls/concept/C0529334
+UMLS,C0530779,NMDA receptor A1,https://uts.nlm.nih.gov/uts/umls/concept/C0530779
+UMLS,C0532728,"PTPRN2 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C0532728
+UMLS,C0535872,"IFNA2 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C0535872
+UMLS,C0598988,Nuclear Pore Complex,https://uts.nlm.nih.gov/uts/umls/concept/C0598988
+UMLS,C0599297,Glomerular Basement Membrane,https://uts.nlm.nih.gov/uts/umls/concept/C0599297
+UMLS,C0599990,Blood group p phenotype (finding),https://uts.nlm.nih.gov/uts/umls/concept/C0599990
+UMLS,C0606869,Eukaryotic Initiation Factor-2B,https://uts.nlm.nih.gov/uts/umls/concept/C0606869
+UMLS,C0608437,"CYP2C9 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C0608437
+UMLS,C0611285,"APP protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C0611285
+UMLS,C0626645,"ITPR1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C0626645
+UMLS,C0652711,amphiphysin I,https://uts.nlm.nih.gov/uts/umls/concept/C0652711
+UMLS,C0659407,threonyl tRNA synthetase kinase,https://uts.nlm.nih.gov/uts/umls/concept/C0659407
+UMLS,C0667268,voltage-dependent calcium channel (P-Q type),https://uts.nlm.nih.gov/uts/umls/concept/C0667268
+UMLS,C0672520,"RO60 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C0672520
+UMLS,C0676832,"SEPTIN7 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C0676832
+UMLS,C0677607,Hashimoto Disease,https://uts.nlm.nih.gov/uts/umls/concept/C0677607
+UMLS,C0682610,Enterocytes,https://uts.nlm.nih.gov/uts/umls/concept/C0682610
+UMLS,C0724584,"coagulation factor IX, human",https://uts.nlm.nih.gov/uts/umls/concept/C0724584
+UMLS,C0753882,"GPS1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C0753882
+UMLS,C0758772,"MAG protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C0758772
+UMLS,C0761756,"LGI1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C0761756
+UMLS,C0764888,Ma1 antigen,https://uts.nlm.nih.gov/uts/umls/concept/C0764888
+UMLS,C0766577,adenylate kinase 5,https://uts.nlm.nih.gov/uts/umls/concept/C0766577
+UMLS,C0767862,laminin-6,https://uts.nlm.nih.gov/uts/umls/concept/C0767862
+UMLS,C0814023,Voltage-Gated Potassium Channel,https://uts.nlm.nih.gov/uts/umls/concept/C0814023
+UMLS,C0887867,Cell Membrane Structures,https://uts.nlm.nih.gov/uts/umls/concept/C0887867
+UMLS,C0893173,"PSME3 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C0893173
+UMLS,C0893390,"Homer Protein Homolog 3, human",https://uts.nlm.nih.gov/uts/umls/concept/C0893390
+UMLS,C0910226,"LAMC2 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C0910226
+UMLS,C0911154,"NOVA1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C0911154
+UMLS,C0914905,NR1 NMDA receptor,https://uts.nlm.nih.gov/uts/umls/concept/C0914905
+UMLS,C0917705,alpha-Actinin,https://uts.nlm.nih.gov/uts/umls/concept/C0917705
+UMLS,C0917729,Ryanodine Receptors,https://uts.nlm.nih.gov/uts/umls/concept/C0917729
+UMLS,C0950877,"GNAL protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C0950877
+UMLS,C0960948,Mi-2 Nucleosome Remodeling and Deacetylase Complex,https://uts.nlm.nih.gov/uts/umls/concept/C0960948
+UMLS,C0961444,"SRRM2 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C0961444
+UMLS,C0961675,"DPYSL5 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C0961675
+UMLS,C0963088,interleukin-23,https://uts.nlm.nih.gov/uts/umls/concept/C0963088
+UMLS,C0966004,"SEPT3 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C0966004
+UMLS,C1099474,NMDA receptor 2B,https://uts.nlm.nih.gov/uts/umls/concept/C1099474
+UMLS,C1120857,"RUVBL2 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1120857
+UMLS,C1121402,Interleukin-12 Subunit p40,https://uts.nlm.nih.gov/uts/umls/concept/C1121402
+UMLS,C1121403,Interleukin-12 Subunit p35,https://uts.nlm.nih.gov/uts/umls/concept/C1121403
+UMLS,C1121863,"SPTBN1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1121863
+UMLS,C1138427,Integrin alphaVbeta3,https://uts.nlm.nih.gov/uts/umls/concept/C1138427
+UMLS,C1143934,"RUVBL1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1143934
+UMLS,C1144026,"EIF2C2 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1144026
+UMLS,C1144101,"ARHGAP10 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1144101
+UMLS,C1144186,"CACNA1A protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1144186
+UMLS,C1144523,"TNRC6A protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1144523
+UMLS,C1167082,ribonuclease MRP complex,https://uts.nlm.nih.gov/uts/umls/concept/C1167082
+UMLS,C1172465,"H2AX protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1172465
+UMLS,C1180307,F-Actin,https://uts.nlm.nih.gov/uts/umls/concept/C1180307
+UMLS,C1181052,Thyroid Gland Follicular Cell,https://uts.nlm.nih.gov/uts/umls/concept/C1181052
+UMLS,C1257727,"DNER protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1257727
+UMLS,C1258810,"laminin 11 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1258810
+UMLS,C1259328,"CNTNAP1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1259328
+UMLS,C1259521,"MAP1B protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1259521
+UMLS,C1306951,"SAE1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1306951
+UMLS,C1306952,"UBA2 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1306952
+UMLS,C1307126,"factor VIII, human",https://uts.nlm.nih.gov/uts/umls/concept/C1307126
+UMLS,C1308614,"TNFRSF11B protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1308614
+UMLS,C1310463,"IFIH1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1310463
+UMLS,C1310468,"RIGI protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1310468
+UMLS,C1311420,carbonic anhydrase VI,https://uts.nlm.nih.gov/uts/umls/concept/C1311420
+UMLS,C1312886,"YBX1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1312886
+UMLS,C1314894,"Col4A3 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1314894
+UMLS,C1317156,Branched chain keto-acid dehydrogenase complex,https://uts.nlm.nih.gov/uts/umls/concept/C1317156
+UMLS,C1325603,Azurophil granule,https://uts.nlm.nih.gov/uts/umls/concept/C1325603
+UMLS,C1325730,ribonuclease P complex,https://uts.nlm.nih.gov/uts/umls/concept/C1325730
+UMLS,C1327377,Protein Carbamylation,https://uts.nlm.nih.gov/uts/umls/concept/C1327377
+UMLS,C1384547,"DSC1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1384547
+UMLS,C1408181,Neuropathy (motor and sensory),https://uts.nlm.nih.gov/uts/umls/concept/C1408181
+UMLS,C1429398,"DLAT protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1429398
+UMLS,C1429413,"ARHGAP26 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1429413
+UMLS,C1429427,"TPO protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1429427
+UMLS,C1429685,"DSG3 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1429685
+UMLS,C1431072,"SEPTIN5 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1431072
+UMLS,C1431692,"TBX19 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1431692
+UMLS,C1432339,"IL17F protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1432339
+UMLS,C1437025,"DST protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1437025
+UMLS,C1437033,"AGO1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1437033
+UMLS,C1438060,"CDR2 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1438060
+UMLS,C1438672,"CNTNAP2 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1438672
+UMLS,C1440702,Histone H2a+H2b,https://uts.nlm.nih.gov/uts/umls/concept/C1440702
+UMLS,C1447097,"CA8 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1447097
+UMLS,C1447723,"USH1C protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1447723
+UMLS,C1447743,"ITM2B protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1447743
+UMLS,C1448834,"F5 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1448834
+UMLS,C1449113,"EDIL3 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1449113
+UMLS,C1449429,"HK1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1449429
+UMLS,C1450246,"Hspa14 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1450246
+UMLS,C1450445,"DACH1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1450445
+UMLS,C1450468,phosphatidylethanolamine,https://uts.nlm.nih.gov/uts/umls/concept/C1450468
+UMLS,C1453440,"TGM3 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1453440
+UMLS,C1453561,"DSC3 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1453561
+UMLS,C1453589,"BPI protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1453589
+UMLS,C1454100,"60S Ribosomal Protein L35a, Human",https://uts.nlm.nih.gov/uts/umls/concept/C1454100
+UMLS,C1454484,"VCL protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1454484
+UMLS,C1454489,"MAPT protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1454489
+UMLS,C1455077,"SOX1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1455077
+UMLS,C1455317,"PPL protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1455317
+UMLS,C1456820,Tumor Necrosis Factor-alpha,https://uts.nlm.nih.gov/uts/umls/concept/C1456820
+UMLS,C1458146,"TOP1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1458146
+UMLS,C1458148,"AMPH protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1458148
+UMLS,C1505203,"HP protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1505203
+UMLS,C1505574,"CENPB protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1505574
+UMLS,C1506239,"CD79A protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1506239
+UMLS,C1519513,Pituitary TSH-Secreting Cells,https://uts.nlm.nih.gov/uts/umls/concept/C1519513
+UMLS,C1522419,"CYP21A2 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1522419
+UMLS,C1522529,Islet Cell,https://uts.nlm.nih.gov/uts/umls/concept/C1522529
+UMLS,C1525451,Basement membrane zone,https://uts.nlm.nih.gov/uts/umls/concept/C1525451
+UMLS,C1527336,Sjogren's Syndrome,https://uts.nlm.nih.gov/uts/umls/concept/C1527336
+UMLS,C1527803,"LAMB3 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1527803
+UMLS,C1527996,"Zinc Transporter 8, Human",https://uts.nlm.nih.gov/uts/umls/concept/C1527996
+UMLS,C1528411,"ZIC4 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1528411
+UMLS,C1529094,"KLHL12 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1529094
+UMLS,C1530202,"GRIN2A protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1530202
+UMLS,C1530817,"FTCD protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1530817
+UMLS,C1531189,"CTNNB1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1531189
+UMLS,C1531209,"DSG1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1531209
+UMLS,C1563373,"LAMP2 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1563373
+UMLS,C1564378,"Complement C3 Convertase, Classical Pathway",https://uts.nlm.nih.gov/uts/umls/concept/C1564378
+UMLS,C1565410,"AQP4 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1565410
+UMLS,C1565414,"AQP5 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1565414
+UMLS,C1566186,"KCNA4 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1566186
+UMLS,C1566598,"TPH1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1566598
+UMLS,C1567075,"CTSG protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1567075
+UMLS,C1567086,"RNPC3 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1567086
+UMLS,C1568423,"LAMC1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1568423
+UMLS,C1570487,"MYH7 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1570487
+UMLS,C1570649,"PNMA2 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1570649
+UMLS,C1579593,Complement C5 Convertases,https://uts.nlm.nih.gov/uts/umls/concept/C1579593
+UMLS,C1608823,"LAMB2 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1608823
+UMLS,C1608824,"LAMA5 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1608824
+UMLS,C1610744,"NFASC protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1610744
+UMLS,C1610745,"Gdi1 protein, rat",https://uts.nlm.nih.gov/uts/umls/concept/C1610745
+UMLS,C1611457,"DPP6 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1611457
+UMLS,C1612280,"RPLP2 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1612280
+UMLS,C1620276,"RPLP1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1620276
+UMLS,C1621867,"CNTN1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1621867
+UMLS,C1666235,,https://uts.nlm.nih.gov/uts/umls/concept/C1666235
+UMLS,C1670125,"PLA2R1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1670125
+UMLS,C1685094,"ZCCHC8 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1685094
+UMLS,C1698349,"Brsk2 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1698349
+UMLS,C1698754,"IL6 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1698754
+UMLS,C1698756,"CXCL8 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1698756
+UMLS,C1700092,"EDC4 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1700092
+UMLS,C1700909,"IL22 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1700909
+UMLS,C1701790,"IL17A protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1701790
+UMLS,C1702044,"IL2 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1702044
+UMLS,C1702088,"IL5 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1702088
+UMLS,C1704336,Skeletal Myocytes,https://uts.nlm.nih.gov/uts/umls/concept/C1704336
+UMLS,C1707524,Corticotroph,https://uts.nlm.nih.gov/uts/umls/concept/C1707524
+UMLS,C1708248,Gonadotrophs,https://uts.nlm.nih.gov/uts/umls/concept/C1708248
+UMLS,C1718807,H2a-H2b DNA,https://uts.nlm.nih.gov/uts/umls/concept/C1718807
+UMLS,C1721135,"NPM1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1721135
+UMLS,C1722829,"TRIM21 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1722829
+UMLS,C1723449,"TRIM33 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1723449
+UMLS,C1737996,"SEZ6L2 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1737996
+UMLS,C1738772,"GABRA1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1738772
+UMLS,C1740226,"LAMA3 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1740226
+UMLS,C1740821,Slowly progressive insulin dependent diabetes,https://uts.nlm.nih.gov/uts/umls/concept/C1740821
+UMLS,C1741295,"RPLP0 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1741295
+UMLS,C1742765,"GRIA2 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1742765
+UMLS,C1742839,"GRIA1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1742839
+UMLS,C1817248,laminin-5 complex,https://uts.nlm.nih.gov/uts/umls/concept/C1817248
+UMLS,C1817249,laminin-6 complex,https://uts.nlm.nih.gov/uts/umls/concept/C1817249
+UMLS,C1828448,Paraneoplastic encephalitis,https://uts.nlm.nih.gov/uts/umls/concept/C1828448
+UMLS,C1869379,"CAMK2A protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1869379
+UMLS,C1869555,"GABRB3 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1869555
+UMLS,C1870923,"BP180 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1870923
+UMLS,C1959616,Phosphatidylcholines,https://uts.nlm.nih.gov/uts/umls/concept/C1959616
+UMLS,C1999767,"CA6 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1999767
+UMLS,C2000774,"GAD2 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C2000774
+UMLS,C2000778,"gad1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C2000778
+UMLS,C2364020,alpha-Enolase,https://uts.nlm.nih.gov/uts/umls/concept/C2364020
+UMLS,C2599880,Mutated citrullinated vimentin,https://uts.nlm.nih.gov/uts/umls/concept/C2599880
+UMLS,C2599967,Smith extractable nuclear B,https://uts.nlm.nih.gov/uts/umls/concept/C2599967
+UMLS,C2599968,Smith extractable nuclear D,https://uts.nlm.nih.gov/uts/umls/concept/C2599968
+UMLS,C2607115,"TGM6 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C2607115
+UMLS,C2711053,Non-celiac gluten sensitivity,https://uts.nlm.nih.gov/uts/umls/concept/C2711053
+UMLS,C2742918,"AK5 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C2742918
+UMLS,C2743340,"AGTR1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C2743340
+UMLS,C2745341,"THSD7A protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C2745341
+UMLS,C2932458,"ADRB1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C2932458
+UMLS,C2934995,"TRIM9 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C2934995
+UMLS,C2975999,"HMGCR protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C2975999
+UMLS,C2976459,"NUP62 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C2976459
+UMLS,C2979805,"factor XIII, human",https://uts.nlm.nih.gov/uts/umls/concept/C2979805
+UMLS,C3179452,ELAV-Like Protein 2,https://uts.nlm.nih.gov/uts/umls/concept/C3179452
+UMLS,C3179453,ELAV-Like Protein 3,https://uts.nlm.nih.gov/uts/umls/concept/C3179453
+UMLS,C3180177,"mitochondrial ferritin, human",https://uts.nlm.nih.gov/uts/umls/concept/C3180177
+UMLS,C3203657,Autoimmune retinopathy,https://uts.nlm.nih.gov/uts/umls/concept/C3203657
+UMLS,C3253748,"BICD2 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C3253748
+UMLS,C3273455,"Rho GTPase-Activating Protein 26, Human",https://uts.nlm.nih.gov/uts/umls/concept/C3273455
+UMLS,C3273595,"Septin-5, Human",https://uts.nlm.nih.gov/uts/umls/concept/C3273595
+UMLS,C3476424,Promyelocytic leukemia protein,https://uts.nlm.nih.gov/uts/umls/concept/C3476424
+UMLS,C3489977,"VIL1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C3489977
+UMLS,C3491507,"EXOSC9 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C3491507
+UMLS,C3539602,"60 kDa Heat Shock Protein, Mitochondrial",https://uts.nlm.nih.gov/uts/umls/concept/C3539602
+UMLS,C3542912,Calcium/Calmodulin-Dependent Protein Kinase Type II Subunit Alpha,https://uts.nlm.nih.gov/uts/umls/concept/C3542912
+UMLS,C3544335,Contrast encephalopathy,https://uts.nlm.nih.gov/uts/umls/concept/C3544335
+UMLS,C3640207,Histone H3.1,https://uts.nlm.nih.gov/uts/umls/concept/C3640207
+UMLS,C3652465,Interferon,https://uts.nlm.nih.gov/uts/umls/concept/C3652465
+UMLS,C3657495,"KLHL11 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C3657495
+UMLS,C3659270,"DRD2 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C3659270
+UMLS,C3711530,"DRD1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C3711530
+UMLS,C3711735,"GRM5 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C3711735
+UMLS,C3711784,"TTN protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C3711784
+UMLS,C3811710,"Kininogen-1, human",https://uts.nlm.nih.gov/uts/umls/concept/C3811710
+UMLS,C3812182,"Collagen Alpha-1(VII) Chain, Human",https://uts.nlm.nih.gov/uts/umls/concept/C3812182
+UMLS,C3812252,"MORC Family CW-Type Zinc Finger Protein 3, human",https://uts.nlm.nih.gov/uts/umls/concept/C3812252
+UMLS,C3816733,Neurexin-3,https://uts.nlm.nih.gov/uts/umls/concept/C3816733
+UMLS,C3853694,"Platelet-Derived Growth Factor Receptor Alpha, human",https://uts.nlm.nih.gov/uts/umls/concept/C3853694
+UMLS,C3853695,"Platelet-Derived Growth Factor Receptor Beta, Human",https://uts.nlm.nih.gov/uts/umls/concept/C3853695
+UMLS,C3853729,"Endothelin-1 Receptor, Human",https://uts.nlm.nih.gov/uts/umls/concept/C3853729
+UMLS,C3883793,"IgLON5 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C3883793
+UMLS,C3887639,Autoimmune gastritis,https://uts.nlm.nih.gov/uts/umls/concept/C3887639
+UMLS,C3887685,"Cytochrome P450 2D6, human",https://uts.nlm.nih.gov/uts/umls/concept/C3887685
+UMLS,C3889630,"Pro-Opiomelanocortin, human",https://uts.nlm.nih.gov/uts/umls/concept/C3889630
+UMLS,C3893648,collagen type VII anchoring fibril,https://uts.nlm.nih.gov/uts/umls/concept/C3893648
+UMLS,C4019440,Zinc transporter 8,https://uts.nlm.nih.gov/uts/umls/concept/C4019440
+UMLS,C4038445,Salivary gland protein 1,https://uts.nlm.nih.gov/uts/umls/concept/C4038445
+UMLS,C4038476,HLA-DP & DQ & DR (class II),https://uts.nlm.nih.gov/uts/umls/concept/C4038476
+UMLS,C4041793,"CDR2L antigen, human",https://uts.nlm.nih.gov/uts/umls/concept/C4041793
+UMLS,C4042618,"DDC protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C4042618
+UMLS,C4046049,Anti-PIT-1 Antibody Syndrome,https://uts.nlm.nih.gov/uts/umls/concept/C4046049
+UMLS,C4048686,"Annexin A5, human",https://uts.nlm.nih.gov/uts/umls/concept/C4048686
+UMLS,C4049898,"Protein LSM14 Homolog A, human",https://uts.nlm.nih.gov/uts/umls/concept/C4049898
+UMLS,C4082295,"Metabotropic Glutamate Receptor 1, human",https://uts.nlm.nih.gov/uts/umls/concept/C4082295
+UMLS,C4085692,podocyte foot,https://uts.nlm.nih.gov/uts/umls/concept/C4085692
+UMLS,C4247895,Smooth muscle fiber group,https://uts.nlm.nih.gov/uts/umls/concept/C4247895
+UMLS,C4255520,ADAMTS13 Protein,https://uts.nlm.nih.gov/uts/umls/concept/C4255520
+UMLS,C4272978,diabetes with diabetic macular edema,https://uts.nlm.nih.gov/uts/umls/concept/C4272978
+UMLS,C4279386,"lamin C protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C4279386
+UMLS,C4281722,"Interferon Omega-1, human",https://uts.nlm.nih.gov/uts/umls/concept/C4281722
+UMLS,C4285067,"Dihydrolipoyllysine-Residue Succinyltransferase Component of 2-Oxoglutarate Dehydrogenase Complex, Mitochondrial",https://uts.nlm.nih.gov/uts/umls/concept/C4285067
+UMLS,C4300363,Mi-2 alpha,https://uts.nlm.nih.gov/uts/umls/concept/C4300363
+UMLS,C4308154,"HOMER3 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C4308154
+UMLS,C4308339,"Perilipin-1, Human",https://uts.nlm.nih.gov/uts/umls/concept/C4308339
+UMLS,C4316931,"Tumstatin, human",https://uts.nlm.nih.gov/uts/umls/concept/C4316931
+UMLS,C4319959,Small Nuclear Ribonucleoprotein Sm D3,https://uts.nlm.nih.gov/uts/umls/concept/C4319959
+UMLS,C4324397,Immune-mediated neuropathy,https://uts.nlm.nih.gov/uts/umls/concept/C4324397
+UMLS,C4484254,SUMO-Activating Enzyme,https://uts.nlm.nih.gov/uts/umls/concept/C4484254
+UMLS,C4521279,"Pituitary-Specific Positive Transcription Factor 1, human",https://uts.nlm.nih.gov/uts/umls/concept/C4521279
+UMLS,C4549598,"CENPA protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C4549598
+UMLS,C4551701,"Neutrophil Elastase, human",https://uts.nlm.nih.gov/uts/umls/concept/C4551701
+UMLS,C4553073,Lamin A,https://uts.nlm.nih.gov/uts/umls/concept/C4553073
+UMLS,C4553380,"Beta-2-Glycoprotein 1, human",https://uts.nlm.nih.gov/uts/umls/concept/C4553380
+UMLS,C4721402,"INS protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C4721402
+UMLS,C4724366,"Insulinoma-Associated Protein 2, human",https://uts.nlm.nih.gov/uts/umls/concept/C4724366
+UMLS,C4727791,H3.1 K27M Variant,https://uts.nlm.nih.gov/uts/umls/concept/C4727791
+UMLS,C4728127,Chronic allergic rhinosinusitis,https://uts.nlm.nih.gov/uts/umls/concept/C4728127
+UMLS,C4742498,"MKI67 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C4742498
+UMLS,C4742805,"GFAP protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C4742805
+UMLS,C4742896,"MPO protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C4742896
+UMLS,C4743412,"Ryanodine Receptor 1, Human",https://uts.nlm.nih.gov/uts/umls/concept/C4743412
+UMLS,C5196572,"VIM protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C5196572
+UMLS,C5196589,Carbonic Anhydrase 2,https://uts.nlm.nih.gov/uts/umls/concept/C5196589
+UMLS,C5197246,"CSF2 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C5197246
+UMLS,C5197496,"TRIM67 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C5197496
+UMLS,C5202686,Histone H2B Type 1-B,https://uts.nlm.nih.gov/uts/umls/concept/C5202686
+UMLS,C5202968,Histone H1.5,https://uts.nlm.nih.gov/uts/umls/concept/C5202968
+UMLS,C5203670,COVID-19 Virus Disease,https://uts.nlm.nih.gov/uts/umls/concept/C5203670
+UMLS,C5212815,Cytosolic 5'-nucleotidase 1A,https://uts.nlm.nih.gov/uts/umls/concept/C5212815
+UMLS,C5226118,"FLG protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C5226118
+UMLS,C5226221,"TSHR protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C5226221
+UMLS,C5226432,"EDNRA protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C5226432
+UMLS,C5236099,CD74 Protein Variant,https://uts.nlm.nih.gov/uts/umls/concept/C5236099
+UMLS,C5243951,Autoimmune blistering disease,https://uts.nlm.nih.gov/uts/umls/concept/C5243951
+UMLS,C5426637,Citrullinated alpha enolase peptide 1,https://uts.nlm.nih.gov/uts/umls/concept/C5426637
+UMLS,C5433427,"GLRA1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C5433427
+UMLS,C5433525,"ACE2 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C5433525
+UMLS,C5435660,TYPE 1 DIABETES MELLITUS 1,https://uts.nlm.nih.gov/uts/umls/concept/C5435660
+UMLS,C5441589,"Histone H4, human",https://uts.nlm.nih.gov/uts/umls/concept/C5441589
+UMLS,C5441619,Azurocidin,https://uts.nlm.nih.gov/uts/umls/concept/C5441619
+UMLS,C5441682,"F7 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C5441682
+UMLS,C5441693,"CYP11A1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C5441693
+UMLS,C5441720,"PLG protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C5441720
+UMLS,C5441772,"GPHN protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C5441772
+UMLS,C5444761,Protein Glutamine gamma Glutamyltransferase 2,https://uts.nlm.nih.gov/uts/umls/concept/C5444761
+UMLS,C5445273,"Nuclear Autoantigen Sp-100, Human",https://uts.nlm.nih.gov/uts/umls/concept/C5445273
+UMLS,C5552804,"F10 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C5552804
+UMLS,C5564555,"GRM1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C5564555
+UMLS,C5565118,"TGM2 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C5565118
+UMLS,C5575283,"Carbonic Anhydrase 1 (enzyme), Human",https://uts.nlm.nih.gov/uts/umls/concept/C5575283
+UMLS,C5671289,Autoimmune Encephalitis,https://uts.nlm.nih.gov/uts/umls/concept/C5671289
+UMLS,C5769564,Autoimmune myelopathy,https://uts.nlm.nih.gov/uts/umls/concept/C5769564
+UMLS,C5769574,Autoimmune sensory neuropathy,https://uts.nlm.nih.gov/uts/umls/concept/C5769574
+UMLS,C5773085,"SPTA1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C5773085
+UMLS,C5786917,Islet Cell Autoantigen,https://uts.nlm.nih.gov/uts/umls/concept/C5786917
+UMLS,C5825532,restrictive allograft dysfunction,https://uts.nlm.nih.gov/uts/umls/concept/C5825532
+UMLS,C5828374,Neurexins,https://uts.nlm.nih.gov/uts/umls/concept/C5828374
+UMLS,C5828784,"LAD1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C5828784
+UMLS,C5848286,Mi-2 beta,https://uts.nlm.nih.gov/uts/umls/concept/C5848286
+UMLS,C5848763,Tripartite motif containing 46,https://uts.nlm.nih.gov/uts/umls/concept/C5848763
+UMLS,C5848971,"PNMA1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C5848971
+UMLS,C5856777,Liver Kidney Microsomal Antigens,https://uts.nlm.nih.gov/uts/umls/concept/C5856777
+ORPHA,101958,Primary adrenal insufficiency,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=101958
+ORPHA,102,Multiple system atrophy,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=102
+ORPHA,103919,Autoimmune pancreatitis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=103919
+ORPHA,1159,Progressive pseudorheumatoid dysplasia,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=1159
+ORPHA,1183,Opsoclonus-myoclonus syndrome,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=1183
+ORPHA,1304,Brucellosis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=1304
+ORPHA,140896,Severe acute respiratory syndrome,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=140896
+ORPHA,156152,Anti-neutrophil cytoplasmic antibody-associated vasculitis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=156152
+ORPHA,163525,Subacute cutaneous lupus erythematosus,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=163525
+ORPHA,1656,Dermatitis herpetiformis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=1656
+ORPHA,171,Primary sclerosing cholangitis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=171
+ORPHA,182095,Interstitial lung disease,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=182095
+ORPHA,1855,Spondyloenchondrodysplasia,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=1855
+ORPHA,186,Primary biliary cholangitis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=186
+ORPHA,1929,Rasmussen subacute encephalitis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=1929
+ORPHA,199241,Pulmonary capillary hemangiomatosis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=199241
+ORPHA,199296,Congenital isolated ACTH deficiency,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=199296
+ORPHA,2032,Idiopathic pulmonary fibrosis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2032
+ORPHA,204,Sporadic Creutzfeldt-Jakob disease,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=204
+ORPHA,206569,Immune-mediated necrotizing myopathy,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=206569
+ORPHA,206572,Overlap myositis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=206572
+ORPHA,207028,Cerebellar ataxia with peripheral neuropathy,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=207028
+ORPHA,2103,Guillain-Barré syndrome,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2103
+ORPHA,2134,Atypical hemolytic uremic syndrome,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2134
+ORPHA,2137,Autoimmune hepatitis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2137
+ORPHA,217253,NMDA receptor encephalitis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=217253
+ORPHA,221,Dermatomyositis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=221
+ORPHA,227982,Autoimmune polyendocrinopathy type 3,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=227982
+ORPHA,227990,Autoimmune polyendocrinopathy type 4,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=227990
+ORPHA,228426,Syndromic multisystem autoimmune disease due to Itch deficiency,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=228426
+ORPHA,2298,Insulin-resistance syndrome type B,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2298
+ORPHA,231111,Drug-induced lupus erythematosus,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=231111
+ORPHA,2331,Kawasaki disease,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2331
+ORPHA,243377,NON RARE IN EUROPE: Diabetes mellitus type 1,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=243377
+ORPHA,247234,Sporadic adult-onset ataxia of unknown etiology,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=247234
+ORPHA,248308,Rare hemorrhagic disorder,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=248308
+ORPHA,254361,Plectin-related limb-girdle muscular dystrophy R17,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=254361
+ORPHA,2573,Moyamoya disease,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2573
+ORPHA,2688,Adult idiopathic neutropenia,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2688
+ORPHA,276058,Genetic neurodegenerative disease with dementia,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=276058
+ORPHA,277,Severe combined immunodeficiency due to adenosine deaminase deficiency,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=277
+ORPHA,284130,NON RARE IN EUROPE: Rheumatoid arthritis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=284130
+ORPHA,289390,Primary Sjögren disease,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=289390
+ORPHA,2932,Chronic inflammatory demyelinating polyneuropathy,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2932
+ORPHA,3002,Immune thrombocytopenia,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=3002
+ORPHA,306431,Adult-onset immunodeficiency with anti-interferon-gamma autoantibodies,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=306431
+ORPHA,306731,Sydenham chorea,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=306731
+ORPHA,3143,Autoimmune polyendocrinopathy type 2,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=3143
+ORPHA,3198,Stiff person spectrum disorder,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=3198
+ORPHA,3261,Autoimmune lymphoproliferative syndrome,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=3261
+ORPHA,329918,C3 glomerulopathy,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=329918
+ORPHA,331,Congenital factor XIII deficiency,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=331
+ORPHA,3386,American trypanosomiasis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=3386
+ORPHA,3453,Autoimmune polyendocrinopathy type 1,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=3453
+ORPHA,36258,Buerger disease,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=36258
+ORPHA,36386,Hereditary sensory and autonomic neuropathy type 1,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=36386
+ORPHA,36388,Paraneoplastic neurologic syndrome,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=36388
+ORPHA,36426,Stevens-Johnson syndrome,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=36426
+ORPHA,36913,Autoimmune hypoparathyroidism,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=36913
+ORPHA,37042,Immune dysregulation-polyendocrinopathy-enteropathy-X-linked syndrome,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=37042
+ORPHA,375,Anti-glomerular basement membrane disease,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=375
+ORPHA,391,Classic Hodgkin lymphoma,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=391
+ORPHA,391487,STAT1-related autoimmune enteropathy and endocrinopathy-susceptibility to chronic infections syndrome,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=391487
+ORPHA,399,Huntington disease,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=399
+ORPHA,411593,Insulin autoimmune syndrome,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=411593
+ORPHA,420789,Autoimmune encephalopathy with parasomnia and obstructive sleep apnea,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=420789
+ORPHA,43393,Lambert-Eaton myasthenic syndrome,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=43393
+ORPHA,439167,Placental insufficiency,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=439167
+ORPHA,439175,Pediatric arterial ischemic stroke,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=439175
+ORPHA,443811,PGM3-CDG,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=443811
+ORPHA,449395,IgG4-related kidney disease,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=449395
+ORPHA,449400,IgG4-related aortitis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=449400
+ORPHA,449427,IgG4-related pachymeningitis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=449427
+ORPHA,454710,Anti-p200 pemphigoid,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=454710
+ORPHA,464343,Catastrophic antiphospholipid syndrome,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=464343
+ORPHA,464370,Neonatal alloimmune neutropenia,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=464370
+ORPHA,46486,Mucous membrane pemphigoid,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=46486
+ORPHA,46487,Epidermolysis bullosa acquisita,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=46487
+ORPHA,46488,Linear IgA dermatosis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=46488
+ORPHA,48377,Subcorneal pustular dermatosis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=48377
+ORPHA,48435,Postinfectious vasculitis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=48435
+ORPHA,486,Autosomal dominant severe congenital neutropenia,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=486
+ORPHA,49041,IgG4-related retroperitoneal fibrosis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=49041
+ORPHA,522037,Primary autoimmune enteropathy,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=522037
+ORPHA,525731,Pediatric-onset Graves disease,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=525731
+ORPHA,536,Systemic lupus erythematosus,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=536
+ORPHA,542643,Livedoid vasculopathy,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=542643
+ORPHA,54370,Primary membranoproliferative glomerulonephritis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=54370
+ORPHA,555,NON RARE IN EUROPE: Celiac disease,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=555
+ORPHA,562639,Primary biliary cholangitis/primary sclerosing cholangitis and autoimmune hepatitis overlap syndrome,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=562639
+ORPHA,563576,Autoimmune hepatitis type 1,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=563576
+ORPHA,563581,Autoimmune hepatitis type 2,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=563581
+ORPHA,589,Myasthenia gravis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589
+ORPHA,590,Congenital myasthenic syndrome,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=590
+ORPHA,592850,Neuromyelitis optica spectrum disorder with anti-AQP4 antibodies,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=592850
+ORPHA,599495,Acquired factor VII deficiency,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=599495
+ORPHA,60,Alpha-1-antitrypsin deficiency,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=60
+ORPHA,611,Inclusion body myositis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=611
+ORPHA,622014,Autoimmune encephalitis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=622014
+ORPHA,623615,Autoimmune limbic encephalitis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=623615
+ORPHA,623626,Paraneoplastic cerebellar degeneration,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=623626
+ORPHA,623638,Immune-mediated cerebellar ataxia,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=623638
+ORPHA,624259,Non-specific autoimmune cerebellar ataxia with characteristic antibodies,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=624259
+ORPHA,63455,Paraneoplastic pemphigus,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=63455
+ORPHA,639,Polyneuropathy associated with IgM monoclonal gammopathy with anti-MAG,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=639
+ORPHA,641,Multifocal motor neuropathy,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=641
+ORPHA,641350,Immunotherapy induced hypophysitis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=641350
+ORPHA,645617,Amyopathic dermatomyositis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=645617
+ORPHA,64743,Hepatoportal sclerosis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=64743
+ORPHA,64744,IgG4-related thyroid disease,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=64744
+ORPHA,66624,PANDAS,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=66624
+ORPHA,703,Bullous pemphigoid,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=703
+ORPHA,704,Pemphigus vulgaris,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=704
+ORPHA,70578,Adult acute respiratory distress syndrome,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=70578
+ORPHA,70591,Chronic thromboembolic pulmonary hypertension,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=70591
+ORPHA,71211,Neuromyelitis optica spectrum disorder,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=71211
+ORPHA,71275,Rh deficiency syndrome,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=71275
+ORPHA,71505,Cancer-associated retinopathy,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=71505
+ORPHA,732,Polymyositis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=732
+ORPHA,747,Autoimmune pulmonary alveolar proteinosis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=747
+ORPHA,781,Q fever,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=781
+ORPHA,79078,IgG4-related dacryoadenitis and sialadenitis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=79078
+ORPHA,79086,Acquired generalized lipodystrophy,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=79086
+ORPHA,79099,Interstitial granulomatous dermatitis with arthritis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=79099
+ORPHA,79138,Bickerstaff brainstem encephalitis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=79138
+ORPHA,79481,Pemphigus foliaceus,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=79481
+ORPHA,79669,Autoimmune bullous skin disease,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=79669
+ORPHA,797,Sarcoidosis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=797
+ORPHA,80,Antiphospholipid syndrome,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=80
+ORPHA,801,Scleroderma,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=801
+ORPHA,802,NON RARE IN EUROPE: Multiple sclerosis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=802
+ORPHA,809,Mixed connective tissue disease,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=809
+ORPHA,81,Antisynthetase syndrome,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=81
+ORPHA,820,Sneddon syndrome,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=820
+ORPHA,825,NON RARE IN EUROPE: Ankylosing spondylitis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=825
+ORPHA,83467,Morvan syndrome,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=83467
+ORPHA,83597,Acute disseminated encephalomyelitis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=83597
+ORPHA,84142,Isaacs syndrome,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=84142
+ORPHA,85138,Addison disease,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=85138
+ORPHA,85435,Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=85435
+ORPHA,85458,Cerebral Amyloid Angiopathy,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=85458
+ORPHA,90033,"Autoimmune hemolytic anemia, warm type",https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=90033
+ORPHA,90035,Paroxysmal cold hemoglobinuria,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=90035
+ORPHA,90060,Diffuse alveolar hemorrhage,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=90060
+ORPHA,90280,Chilblain lupus,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=90280
+ORPHA,90283,Lupus erythematosus tumidus,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=90283
+ORPHA,90290,CREST syndrome,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=90290
+ORPHA,90291,Systemic sclerosis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=90291
+ORPHA,91414,Pilomatrixoma,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=91414
+ORPHA,93126,Pauci-immune glomerulonephritis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=93126
+ORPHA,93552,Pediatric systemic lupus erythematosus,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=93552
+ORPHA,93585,Immune-mediated thrombotic thrombocytopenic purpura,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=93585
+ORPHA,95506,Primary hypophysitis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=95506
+ORPHA,95512,Adenohypophysitis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=95512
+ORPHA,95715,Congenital hypothyroidism due to transplacental passage of TSH-binding inhibitory antibodies,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=95715
+ORPHA,95719,Thyroid hemiagenesis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=95719
+ORPHA,97275,Encephalitis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=97275
+ORPHA,97560,Primary membranous glomerulonephritis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=97560
+ORPHA,97563,Pauci-immune glomerulonephritis with ANCA,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=97563
+ORPHA,98300,Idiopathic interstitial pneumonia,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=98300
+ORPHA,98375,Autoimmune hemolytic anemia,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=98375
+ORPHA,98482,Idiopathic inflammatory myopathy,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=98482
+ORPHA,98835,Acute undifferentiated leukemia,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=98835
+ORPHA,98878,Hemophilia A,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=98878
+ORPHA,98879,Hemophilia B,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=98879
+ORPHA,98919,Miller Fisher syndrome,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=98919
+ORPHA,99147,Acquired von Willebrand syndrome,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=99147
+ORPHA,99867,Thymoma,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=99867
+ORPHA,99922,Ocular cicatricial pemphigoid,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=99922
+ORPHA,99931,Idiopathic pulmonary hemosiderosis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=99931
+ORPHA,99977,Squamous cell carcinoma of the esophagus,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=99977
+ChEBI,CHEBI:134541,phosphatidylserine 16:0/18:1,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:134541
+ChEBI,CHEBI:16337,phosphatidic acid,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16337
+ChEBI,CHEBI:18318,galactosylceramide sulfate,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:18318
+ChEBI,CHEBI:191904,GM4(d18:1/16:0),https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:191904
+ChEBI,CHEBI:26739,sphingolipid,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:26739
+ChEBI,CHEBI:28494,cardiolipin,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:28494
+ChEBI,CHEBI:28874,phosphatidylinositol,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:28874
+ChEBI,CHEBI:28892,ganglioside,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:28892
+ChEBI,CHEBI:4705,double-stranded DNA,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:4705
+ChEBI,CHEBI:60327,ganglioside GM2 (18:0),https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:60327
+ChEBI,CHEBI:60523,phosphatidylglycerol(1-),https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:60523
+ChEBI,CHEBI:60913,ganglioside GT1b,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:60913
+ChEBI,CHEBI:61048,ganglioside GM1,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:61048
+ChEBI,CHEBI:64482,phosphatidylcholine,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:64482
+ChEBI,CHEBI:78445,alpha-N-acetylneuraminosyl-(2->3)-beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminyl-(1->4)-[alpha-N-acetylneuraminosyl-(2->3)]-beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1')-N-acylsphingosine(2-),https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:78445
+ChEBI,CHEBI:78447,alpha-Neu5Ac-(2->8)-alpha-Neu5Ac-(2->3)-beta-Gal-(1->3)-beta-GalNAc-(1->4)-[alpha-Neu5Ac-(2->3)]-beta-Gal-(1->4)-beta-Glc-(1<->1')-Cer(3-),https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:78447
+ChEBI,CHEBI:78455,alpha-Neu5Ac-(2->8)-alpha-Neu5Ac-(2->3)-beta-Gal-(1->3)-beta-GalNAc-(1->4)-[alpha-Neu5Ac-(2->8)-alpha-Neu5Ac-(2->3)]-beta-Gal-(1->4)-beta-Glc-(1<->1')-Cer(d18:1)(4-),https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:78455
+ChEBI,CHEBI:84118,ganglioside GM3,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:84118
+ChEBI,CHEBI:87785,beta-Gal-(1->3)-beta-GalNAc-(1->4)-[alpha-Neu5Ac-(2->8)-alpha-Neu5Ac-(2->3)]-beta-Gal-(1->4)-beta-Glc-(1<->1')-Cer(2-),https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:87785
+LOINC,LP102315-1,PM-SCL-100 Ab,https://loinc.org/LP102315-1
+LOINC,LP102618-8,Aquaporin 4 water channel Ab,https://loinc.org/LP102618-8
+LOINC,LP113605-2,Liver kidney microsomal 2 Ab,https://loinc.org/LP113605-2
+LOINC,LP113682-1,DNA double strand Ab.IgM,https://loinc.org/LP113682-1
+LOINC,LP113966-8,Pituitary Ab,https://loinc.org/LP113966-8
+LOINC,LP113980-9,Muscle specific receptor tyrosine kinase Ab.IgG,https://loinc.org/LP113980-9
+LOINC,LP135594-2,Heat shock protein 60 Ab,https://loinc.org/LP135594-2
+LOINC,LP135731-0,Enterocyte Ab.IgG,https://loinc.org/LP135731-0
+LOINC,LP139951-0,Ma1 Ab,https://loinc.org/LP139951-0
+LOINC,LP14300-5,C3 nephritic factor,https://loinc.org/LP14300-5
+LOINC,LP157205-8,PM-SCL-75 Ab,https://loinc.org/LP157205-8
+LOINC,LP157208-2,Platelet-derived growth factor receptor Ab,https://loinc.org/LP157208-2
+LOINC,LP157213-2,Centromere protein A Ab,https://loinc.org/LP157213-2
+LOINC,LP16006-6,Lupus anticoagulant,https://loinc.org/LP16006-6
+LOINC,LP16679-0,Cold agglutinin,https://loinc.org/LP16679-0
+LOINC,LP16738-4,Rheumatoid factor,https://loinc.org/LP16738-4
+LOINC,LP172674-6,Phospholipase A2 receptor Ab.IgG,https://loinc.org/LP172674-6
+LOINC,LP17724-3,Neutrophil cytoplasmic Ab.classic,https://loinc.org/LP17724-3
+LOINC,LP17725-0,Neutrophil cytoplasmic Ab.perinuclear,https://loinc.org/LP17725-0
+LOINC,LP17850-6,Rheumatoid factor IgM,https://loinc.org/LP17850-6
+LOINC,LP189700-0,Parotid secretory protein Ab.IgM,https://loinc.org/LP189700-0
+LOINC,LP189706-7,Carbonic anhydrase 6 Ab.IgM,https://loinc.org/LP189706-7
+LOINC,LP200571-0,N-methyl-D-aspartate receptor Ab.IgG,https://loinc.org/LP200571-0
+LOINC,LP200572-8,N-methyl-D-aspartate receptor Ab,https://loinc.org/LP200572-8
+LOINC,LP201204-7,RNA polymerase III Ab.IgG,https://loinc.org/LP201204-7
+LOINC,LP20752-9,Nuclear Ab,https://loinc.org/LP20752-9
+LOINC,LP208568-8,Carbonic anhydrase 2 Ab,https://loinc.org/LP208568-8
+LOINC,LP21197-6,Phospholipid Ab,https://loinc.org/LP21197-6
+LOINC,LP21200-8,Direct antiglobulin test,https://loinc.org/LP21200-8
+LOINC,LP21333-7,Cardiolipin Ab,https://loinc.org/LP21333-7
+LOINC,LP220339-8,Nuclear Ab.IgG pattern.multiple nuclear dots,https://loinc.org/LP220339-8
+LOINC,LP220363-8,3-Hydroxy-3-Methylglutaryl-coenzyme A reductase Ab,https://loinc.org/LP220363-8
+LOINC,LP220368-7,SUMO-activating enzyme subunit 1 Ab,https://loinc.org/LP220368-7
+LOINC,LP220369-5,SUMO-activating enzyme subunit 2 Ab,https://loinc.org/LP220369-5
+LOINC,LP220404-0,MDA5 Ab,https://loinc.org/LP220404-0
+LOINC,LP220408-1,Titin Ab,https://loinc.org/LP220408-1
+LOINC,LP222122-6,Dopamine receptor D1 Ab,https://loinc.org/LP222122-6
+LOINC,LP228216-0,Cyclic citrullinated peptide Ab.IgA,https://loinc.org/LP228216-0
+LOINC,LP228217-8,Cyclic citrullinated peptide Ab.IgA+IgG,https://loinc.org/LP228217-8
+LOINC,LP230192-9,Glutamate decarboxylase Ab,https://loinc.org/LP230192-9
+LOINC,LP230324-8,Mi-2 beta Ab,https://loinc.org/LP230324-8
+LOINC,LP230327-1,Mi-2 alpha Ab,https://loinc.org/LP230327-1
+LOINC,LP230510-2,Glutamate decarboxylase 65 Ab.IgG,https://loinc.org/LP230510-2
+LOINC,LP230511-0,MDA5 Ab.IgG,https://loinc.org/LP230511-0
+LOINC,LP231891-5,Myelin oligodendrocyte glycoprotein Ab,https://loinc.org/LP231891-5
+LOINC,LP231892-3,Myelin oligodendrocyte glycoprotein Ab.IgG,https://loinc.org/LP231892-3
+LOINC,LP232476-4,Liver cytosol Ab.IgG,https://loinc.org/LP232476-4
+LOINC,LP247735-6,Mitochondria Ab.IgG,https://loinc.org/LP247735-6
+LOINC,LP266571-1,p53 Ab,https://loinc.org/LP266571-1
+LOINC,LP268267-4,Myelin oligodendrocyte glycoprotein Ab.IgG1,https://loinc.org/LP268267-4
+LOINC,LP28760-4,Platelet Ab,https://loinc.org/LP28760-4
+LOINC,LP31536-3,Rheumatoid factor IgA,https://loinc.org/LP31536-3
+LOINC,LP31537-1,Rheumatoid factor IgG,https://loinc.org/LP31537-1
+LOINC,LP34191-4,Neutrophil cytoplasmic Ab.atypical,https://loinc.org/LP34191-4
+LOINC,LP36918-8,21-hydroxylase Ab,https://loinc.org/LP36918-8
+LOINC,LP36947-7,Acetylcholine receptor Ab,https://loinc.org/LP36947-7
+LOINC,LP37039-2,Amphiphysin Ab,https://loinc.org/LP37039-2
+LOINC,LP37207-5,Bactericidal permeability increasing protein Ab,https://loinc.org/LP37207-5
+LOINC,LP37264-6,Beta 2 glycoprotein 1 Ab,https://loinc.org/LP37264-6
+LOINC,LP37265-3,Beta 2 glycoprotein 1 Ab.IgA,https://loinc.org/LP37265-3
+LOINC,LP37266-1,Beta 2 glycoprotein 1 Ab.IgG,https://loinc.org/LP37266-1
+LOINC,LP37267-9,Beta 2 glycoprotein 1 Ab.IgM,https://loinc.org/LP37267-9
+LOINC,LP37536-7,Cardiolipin Ab.IgA,https://loinc.org/LP37536-7
+LOINC,LP37537-5,Cardiolipin Ab.IgG,https://loinc.org/LP37537-5
+LOINC,LP37538-3,Cardiolipin Ab.IgM,https://loinc.org/LP37538-3
+LOINC,LP37577-1,Centromere Ab,https://loinc.org/LP37577-1
+LOINC,LP37578-9,Centromere Ab.IgG,https://loinc.org/LP37578-9
+LOINC,LP37725-6,Coagulation factor VIII Ab,https://loinc.org/LP37725-6
+LOINC,LP37859-3,Cyclic citrullinated peptide Ab,https://loinc.org/LP37859-3
+LOINC,LP37860-1,Cyclic citrullinated peptide Ab.IgG,https://loinc.org/LP37860-1
+LOINC,LP37925-2,Desmoglein 1 Ab,https://loinc.org/LP37925-2
+LOINC,LP37926-0,Desmoglein 3 Ab,https://loinc.org/LP37926-0
+LOINC,LP37936-9,DNA double strand Ab,https://loinc.org/LP37936-9
+LOINC,LP37937-7,DNA double strand Ab.IgG,https://loinc.org/LP37937-7
+LOINC,LP37949-2,Donath Landsteiner Ab,https://loinc.org/LP37949-2
+LOINC,LP38097-9,Erythrocyte Ab,https://loinc.org/LP38097-9
+LOINC,LP38121-7,Extractable nuclear Ab,https://loinc.org/LP38121-7
+LOINC,LP38243-9,Gliadin Ab,https://loinc.org/LP38243-9
+LOINC,LP38248-8,Glomerular basement membrane Ab.IgG,https://loinc.org/LP38248-8
+LOINC,LP38249-6,Glomerular basement membrane Ab,https://loinc.org/LP38249-6
+LOINC,LP38251-2,Glutamate decarboxylase 65 Ab,https://loinc.org/LP38251-2
+LOINC,LP38402-1,Histone Ab,https://loinc.org/LP38402-1
+LOINC,LP38697-6,Insulin Ab,https://loinc.org/LP38697-6
+LOINC,LP38702-4,Insulin receptor Ab,https://loinc.org/LP38702-4
+LOINC,LP38708-1,Interferon beta Ab,https://loinc.org/LP38708-1
+LOINC,LP38711-5,Intrinsic factor Ab,https://loinc.org/LP38711-5
+LOINC,LP38765-1,Ku Ab,https://loinc.org/LP38765-1
+LOINC,LP38957-4,Liver cytosol Ab,https://loinc.org/LP38957-4
+LOINC,LP38958-2,Liver kidney microsomal Ab,https://loinc.org/LP38958-2
+LOINC,LP38959-0,Liver kidney microsomal 1 Ab,https://loinc.org/LP38959-0
+LOINC,LP38960-8,Liver kidney microsomal 1 Ab.IgG,https://loinc.org/LP38960-8
+LOINC,LP39015-0,Mi-2 Ab,https://loinc.org/LP39015-0
+LOINC,LP39022-6,Mitochondria Ab,https://loinc.org/LP39022-6
+LOINC,LP39023-4,Mitochondria M2 Ab,https://loinc.org/LP39023-4
+LOINC,LP39024-2,Mitochondria M2 Ab.IgG,https://loinc.org/LP39024-2
+LOINC,LP39057-2,Muscle specific receptor tyrosine kinase Ab,https://loinc.org/LP39057-2
+LOINC,LP39124-0,Myelin associated glycoprotein Ab,https://loinc.org/LP39124-0
+LOINC,LP39126-5,Myelin associated glycoprotein Ab.IgG,https://loinc.org/LP39126-5
+LOINC,LP39127-3,Myelin associated glycoprotein Ab.IgM,https://loinc.org/LP39127-3
+LOINC,LP39135-6,Myeloperoxidase Ab,https://loinc.org/LP39135-6
+LOINC,LP39136-4,Myocardium Ab,https://loinc.org/LP39136-4
+LOINC,LP39188-5,Aquaporin 4 water channel Ab.IgG,https://loinc.org/LP39188-5
+LOINC,LP39190-1,Neuronal Ab,https://loinc.org/LP39190-1
+LOINC,LP39196-8,Neuronal nuclear type 3 Ab,https://loinc.org/LP39196-8
+LOINC,LP39197-6,Neutrophil Ab,https://loinc.org/LP39197-6
+LOINC,LP39198-4,Neutrophil Ab.IgA,https://loinc.org/LP39198-4
+LOINC,LP39199-2,Neutrophil Ab.IgG,https://loinc.org/LP39199-2
+LOINC,LP39200-8,Neutrophil Ab.IgM,https://loinc.org/LP39200-8
+LOINC,LP39202-4,Neutrophil cytoplasmic Ab,https://loinc.org/LP39202-4
+LOINC,LP39203-2,Neutrophil cytoplasmic Ab.IgA,https://loinc.org/LP39203-2
+LOINC,LP39204-0,Neutrophil cytoplasmic Ab.IgG,https://loinc.org/LP39204-0
+LOINC,LP39205-7,Neutrophil cytoplasmic Ab.IgM,https://loinc.org/LP39205-7
+LOINC,LP39214-9,Nuclear Ab.IgG,https://loinc.org/LP39214-9
+LOINC,LP39265-1,Pancreatic islet Ab,https://loinc.org/LP39265-1
+LOINC,LP39306-3,Parietal cell Ab,https://loinc.org/LP39306-3
+LOINC,LP39384-0,Phospholipid Ab.IgA,https://loinc.org/LP39384-0
+LOINC,LP39385-7,Phospholipid Ab.IgG,https://loinc.org/LP39385-7
+LOINC,LP39386-5,Phospholipid Ab.IgM,https://loinc.org/LP39386-5
+LOINC,LP39428-5,Platelet Ab.IgA,https://loinc.org/LP39428-5
+LOINC,LP39429-3,Platelet Ab.IgG,https://loinc.org/LP39429-3
+LOINC,LP39430-1,Platelet Ab.IgM,https://loinc.org/LP39430-1
+LOINC,LP39491-3,Proteinase 3 Ab,https://loinc.org/LP39491-3
+LOINC,LP39493-9,Prothrombin Ab,https://loinc.org/LP39493-9
+LOINC,LP39494-7,Prothrombin IgG,https://loinc.org/LP39494-7
+LOINC,LP39495-4,Prothrombin IgM,https://loinc.org/LP39495-4
+LOINC,LP39554-8,Reticulin Ab,https://loinc.org/LP39554-8
+LOINC,LP39721-3,SCL-70 extractable nuclear Ab,https://loinc.org/LP39721-3
+LOINC,LP39722-1,SCL-70 extractable nuclear Ab.IgG,https://loinc.org/LP39722-1
+LOINC,LP39745-2,Signal recognition particle Ab,https://loinc.org/LP39745-2
+LOINC,LP39754-4,Sjogrens syndrome-B extractable nuclear Ab,https://loinc.org/LP39754-4
+LOINC,LP39755-1,Sjogrens syndrome-B extractable nuclear Ab.IgG,https://loinc.org/LP39755-1
+LOINC,LP39757-7,Smith extractable nuclear Ab,https://loinc.org/LP39757-7
+LOINC,LP39758-5,Smith extractable nuclear Ab.IgG,https://loinc.org/LP39758-5
+LOINC,LP39761-9,Smooth muscle Ab,https://loinc.org/LP39761-9
+LOINC,LP39762-7,Smooth muscle Ab.IgG,https://loinc.org/LP39762-7
+LOINC,LP39782-5,Spermatozoa Ab,https://loinc.org/LP39782-5
+LOINC,LP39933-4,Sulfatide Ab,https://loinc.org/LP39933-4
+LOINC,LP39996-1,Thyroglobulin Ab,https://loinc.org/LP39996-1
+LOINC,LP39997-9,Thyroglobulin Ab.IgM,https://loinc.org/LP39997-9
+LOINC,LP40001-7,Thyroperoxidase Ab,https://loinc.org/LP40001-7
+LOINC,LP40002-5,Thyroperoxidase Ab.IgG,https://loinc.org/LP40002-5
+LOINC,LP40003-3,Thyroperoxidase Ab.IgM,https://loinc.org/LP40003-3
+LOINC,LP40012-4,Tissue transglutaminase Ab,https://loinc.org/LP40012-4
+LOINC,LP40090-0,U1 small nuclear ribonucleoprotein Ab,https://loinc.org/LP40090-0
+LOINC,LP40092-6,U2 small nuclear ribonucleoprotein Ab,https://loinc.org/LP40092-6
+LOINC,LP40151-0,Voltage-gated calcium channel Ab,https://loinc.org/LP40151-0
+LOINC,LP40152-8,Voltage-gated calcium channel Ab.IgG,https://loinc.org/LP40152-8
+LOINC,LP40155-1,Voltage-gated potassium channel Ab,https://loinc.org/LP40155-1
+LOINC,LP40331-8,Myelin associated glycoprotein Ab.IgA,https://loinc.org/LP40331-8
+LOINC,LP410866-0,Thrombospondin type I domain-containing 7A Ab,https://loinc.org/LP410866-0
+LOINC,LP416114-9,Collagen type VII Ab.IgG,https://loinc.org/LP416114-9
+LOINC,LP417806-9,Glutamate decarboxylase 65 Ab.IgG+IgM,https://loinc.org/LP417806-9
+LOINC,LP420112-7,17 alpha-Hydroxylase Ab,https://loinc.org/LP420112-7
+LOINC,LP420426-1,Citrullinated alpha enolase peptide 1 Ab,https://loinc.org/LP420426-1
+LOINC,LP420467-5,Cytosolic 5'-nucleotidase 1A Ab,https://loinc.org/LP420467-5
+LOINC,LP422441-8,Fodrin.alpha subunit Ab.IgG,https://loinc.org/LP422441-8
+LOINC,LP422442-6,Fodrin.alpha subunit Ab.IgA,https://loinc.org/LP422442-6
+LOINC,LP422454-1,Smooth nuclear envelope nuclear Ab pattern,https://loinc.org/LP422454-1
+LOINC,LP422534-0,Acetylcholine receptor binding Ab.IgG+IgM,https://loinc.org/LP422534-0
+LOINC,LP426336-6,Ryanodine receptor Ab,https://loinc.org/LP426336-6
+LOINC,LP430416-0,Kelch-like protein 11 Ab.IgG,https://loinc.org/LP430416-0
+LOINC,LP434533-8,Contactin-associated protein 1 Ab.IgG,https://loinc.org/LP434533-8
+LOINC,LP434538-7,Septin-7 Ab,https://loinc.org/LP434538-7
+LOINC,LP435811-7,Ma2 Antibody,https://loinc.org/LP435811-7
+LOINC,LP444061-8,Neurofascin-140 Ab,https://loinc.org/LP444061-8
+LOINC,LP446012-9,Neutrophil cytoplasmic Ab.perinuclear.IgG,https://loinc.org/LP446012-9
+LOINC,LP446013-7,Neutrophil cytoplasmic Ab.perinuclear.IgA,https://loinc.org/LP446013-7
+LOINC,LP448335-2,Asialoglycoprotein receptor Ab.IgG,https://loinc.org/LP448335-2
+LOINC,LP64910-0,Interferon alpha Ab,https://loinc.org/LP64910-0
+LOINC,LP64911-8,Neutrophil cytoplasmic Ab.perinuclear.atypical,https://loinc.org/LP64911-8
+LOINC,LP66602-1,Ganglioside Ab.IgG,https://loinc.org/LP66602-1
+LOINC,LP66603-9,Ganglioside Ab.IgM,https://loinc.org/LP66603-9
+LOINC,LP66702-9,Ganglioside Ab,https://loinc.org/LP66702-9
+LOINC,LP71470-6,RNA polymerase III Ab,https://loinc.org/LP71470-6
+LOINC,LP71684-2,Centromere protein B Ab,https://loinc.org/LP71684-2
+LOINC,LP71689-1,Azurocidin Ab,https://loinc.org/LP71689-1
+LOINC,LP71694-1,Lysosome Ab,https://loinc.org/LP71694-1
+LOINC,LP71695-8,Mutated citrullinated vimentin Ab,https://loinc.org/LP71695-8
+LOINC,LP71699-0,Soluble liver Ab,https://loinc.org/LP71699-0
+LOINC,LP71700-6,sp100 Ab,https://loinc.org/LP71700-6
+LOINC,LP71753-5,Nuclear Ab pattern.multiple nuclear dots,https://loinc.org/LP71753-5
+LOINC,LP71757-6,Nuclear pore protein gp210 Ab,https://loinc.org/LP71757-6
+LOINC,LP71770-9,Vinculin Ab,https://loinc.org/LP71770-9
+LOINC,LP71772-5,Lactoferrin Ab,https://loinc.org/LP71772-5
+LOINC,LP89242-9,Ki Ab,https://loinc.org/LP89242-9
+LOINC,LP94252-1,Asialoglycoprotein receptor Ab,https://loinc.org/LP94252-1
+LOINC,LP96155-4,Thyroglobulin Ab.IgG,https://loinc.org/LP96155-4

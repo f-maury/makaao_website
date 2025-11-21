@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Google Tag Manager -->
+  <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-NTLRKKHC');
+  </script>
+  <!-- End Google Tag Manager -->
+  <!-- Clarity tracking code -->
+  <script>
+    (function(c,l,a,r,i,t,y){
+      c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+      t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i+"?ref=bwt";
+      y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "ru7irv95sz");
+  </script>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="autoantibodies list, autoantibodies index, autoantibodies mapping, autoantibodies database, knowledge graph, ontology of autoantibodies, autoantibodies, antibodies, autoimmune diseases, autoimmunity">
+  <meta name="author" content="Fabien Maury">
+  <title>MAKAAO – Index of Human Autoantibodies</title>
+
+  <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.13.4/css/dataTables.bootstrap4.min.css">
+  <link rel="icon" href="pictures/favicon.png" type="image/png">
+
+  <style>
+  :root{
+    --banner-h: clamp(120px, 20vw, 220px);
+  }
+  body { font-family: 'Roboto', sans-serif; }
+  #intro1, #intro2 { font-size: 1rem; font-weight: 400; line-height: 1.5; margin-bottom: 1rem; }
+  h1 { text-align: center; }
+  #table-container table { font-size: 0.9rem; }
+  #table-container td ul { margin: 0; padding-left: 1.25rem; }
+
+  /* Make the table fill the container with no horizontal scroll */
+  #table-container .dataTables_wrapper { width: 100% !important; }
+  #table-container table { width: 100% !important; table-layout: fixed; }
+  #table-container th, #table-container td { white-space: normal !important; word-break: break-word; overflow-wrap: anywhere; }
+  #table-container td a { word-break: break-word; overflow-wrap: anywhere; }
+
+  /* Wider container on large displays */
+  @media (min-width:1200px){
+    .container.container-wide{ max-width: 1320px; }
+  }
+  @media (min-width:1600px){
+    .container.container-wide{ max-width: 1440px; }
+  }
+
+  /* Generic list styling elsewhere */
+  #table-container td li { margin: 0; line-height: 1.25; color: #212529; }
+  #table-container td li:nth-child(even) { color: #6c757d; }
+  #table-container td li small { color: inherit; }
+  #table-container td li small a { text-decoration: none; }
+  #table-container td li small a:hover,
+  #table-container td li small a:focus { text-decoration: underline; }
+
+  /* Related diseases: underline links on hover */
+  #table-container td.rel-disease a:hover,
+  #table-container td.rel-disease a:focus { text-decoration: underline !important; }
+
+  /* 'See more…' appearance */
+  .see-more{
+    font-weight:700;
+    color:#073607;
+    text-decoration:none;
+  }
+  .see-more:hover,
+  .see-more:focus{
+    color:#0c660c;
+    text-decoration:underline;
+  }
+
+  /* Banner wrapper adds spacing above and below */
+  .banner-wrap{
+    padding-top: 40px;
+    padding-bottom: 28px;
+  }
+
+  /* Two-image banner, same content width as table (.container) */
+  .banner-pair{
+    display: flex;
+    height: var(--banner-h);
+  }
+  .banner-pair a{
+    flex: 1 1 50%;
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  .banner-pair a img{
+    max-height: 100%;
+    max-width: 100%;
+    height: 100%;
+    width: auto;
+    object-fit: contain;
+    display: block;
+  }
+
+  /* Phone layout: stack images */
+  @media (max-width: 575.98px){
+    .banner-pair{
+      flex-direction: column;
+      height: auto;
+      gap: 8px;
+    }
+    .banner-pair a{
+      width: 100%;
+      height: 150px;
+    }
+  }
+  </style>
+
+</head>
+<body>
+  <noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NTLRKKHC"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript>
+
+  <header class="bg-white">
+    <div class="container container-wide banner-wrap">
+      <div class="banner-pair">
+        <a href="https://makaao.inria.fr">
+          <img src="pictures/makaao_logo_2.png"  alt="MAKAAO home">
+        </a>
+        <a href="https://www.filieresmaladiesrares.fr/">
+          <img src="pictures/funding.png"        alt="Filières Maladies Rares">
+        </a>
+      </div>
+
+      <div id="button_bar" class="d-flex flex-wrap mb-3 mt-2">
+        <a href="https://makaao.inria.fr" class="btn btn-primary mr-2 mb-2">Home</a>
+        <a href="https://makaao.inria.fr/tree.html" class="btn btn-primary mr-2 mb-2">Autoantibody Tree</a>
+        <a href="https://makaao.inria.fr/sparql.html" class="btn btn-primary mr-2 mb-2">SPARQL</a>
+        <a href="https://makaao.inria.fr/download.html" class="btn btn-primary mr-2 mb-2">Download</a>
+        <a href="https://makaao.inria.fr/contact.html" class="btn btn-primary mr-2 mb-2">Contact</a>
+        <a href="https://makaao.inria.fr/about.html" class="btn btn-primary mr-2 mb-2">About</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="container container-wide py-4">
+    <section class="mb-4">
+      <p id="intro1">
+        MAKAAO is an index of <b>autoantibodies</b> and their <b>targets</b>, associated <b>diseases</b> and lab tests.
+        MAKAAO stands for MApping Knowledge about Autoimmune diseases, Autoantibodies, and Other clinical signs.
+        You can search MAKAAO online with the following search box, or download it locally
+      </p>
+      <p id="intro2">
+        Sort columns with the arrows, filter with the search box, or download the table.
+      </p>
+    </section>
+
+    <div class="row justify-content-center mb-3">
+      <div id="search-container" class="col-12 col-md-6"></div>
+    </div>
+    <div class="row justify-content-center mb-3">
+      <div id="info-container" class="col-12 col-md-6 text-center"></div>
+    </div>
+
+    <!-- removed .table-responsive to prevent horizontal scrollbar -->
+    <div class="mb-5">
+      <div id="table-container"></div>
+    </div>
+
+    <section>
+      <p>
+        Project by
+        <a href="https://www.institutimagine.org/en/users/maud-de-dieuleveult">Maud de Dieuleveult</a>
+        (Institut Imagine) and
+        <a href="https://members.loria.fr/ACoulet/">Adrien Coulet</a>
+        (Inria Paris, HeKA). Ongoing PhD by
+        <a href="https://heka.gitlabpages.inria.fr/team/members/maury.html">Fabien Maury</a>,
+        funded by FSMR BRAIN-TEAM &amp; Filnemus.
+      </p>
+      <p>This website is a work in progress and may change.</p>
+    </section>
+  </main>
+
+  <footer class="bg-light text-center py-4">
+    <img src="pictures/footer.png" alt="Partner logos" class="img-fluid w-100 mb-2">
+  </footer>
+
+  <!-- JS dependencies (deferred) -->
+  <script defer src="https://code.jquery.com/jquery-3.6.0.min.js" crossorigin="anonymous"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+  <script defer src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+  <script defer src="https://cdn.datatables.net/1.13.4/js/dataTables.bootstrap4.min.js"></script>
+  <script defer src="js/jquery.csv.min.js"></script>
+  <script defer src="js/csv_to_html_table.js"></script>
+
+  <script>
+  // --- helpers ---
+  function splitItems(cell) {
+    if (!cell) return [];
+    return cell.split(/[\r\n]+|\|/).map(s => s.trim()).filter(Boolean);
+  }
+  function escapeHtml(s){
+    if (!s) return "";
+    const map = { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" };
+    return String(s).replace(/[&<>"']/g, m => map[m]);
+  }
+
+  // fallback URLs
+  function uniprotFallbackUrl(id){ return "https://www.uniprot.org/uniprotkb/" + encodeURIComponent(id); }
+  function umlsFallbackUrl(id){ return "https://uts.nlm.nih.gov/uts/umls/concept/" + encodeURIComponent(id); }
+  function orphaFallbackUrl(id){ return "https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=" + encodeURIComponent(id); }
+
+  // Row-specific href with slug support
+  function hrefForAabFromRow(row) {
+    const aab = row && row[0] ? String(row[0]).trim() : "";
+    if (!aab) return '#';
+    const iri  = 'http://makaao.inria.fr/kg/aab_' + aab;
+    const slug = (window.__slugMap || {})[iri];
+    return slug ? ('/db/' + slug + '.html')
+                : ('https://makaao.inria.fr/db/aab_' + encodeURIComponent(aab) + '.html');
+  }
+
+  // Cap a list of <li> strings at MAX, then append bold "See more…"
+  function capListHtml(liArray, href, MAX=10){
+    const out = liArray.slice(0, MAX);
+    if (liArray.length > MAX) {
+      out.push(`<li><a class="see-more" href="${href}">See more…</a></li>`);
+    }
+    return `<ul>${out.join("")}</ul>`;
+  }
+
+  // Targets: "Name (CODE)" with link on CODE
+  function renderNameAndCode(rawCode, source, maps) {
+    const id = rawCode.replace(/^UP:/, '').replace(/^CUI:/, '');
+    let entry, url;
+    if (source === 'UniProt') {
+      entry = maps.uni.get(id);
+      url = (entry && entry.url) || uniprotFallbackUrl(id);
+    } else {
+      entry = maps.umls.get(id);
+      url = (entry && entry.url) || umlsFallbackUrl(id);
+    }
+    const name = entry && entry.name ? escapeHtml(entry.name) + " " : "";
+    return `${name}<small>(<a href="${url}" target="_blank">${escapeHtml(rawCode)}</a>)</small>`;
+  }
+
+  // Diseases: "Name (PREFIX:ID)" with link on the ID
+  function renderDisease(raw, maps){
+    if (!raw) return "";
+    const parts = raw.split(':');
+    if (parts.length < 2) return escapeHtml(raw);
+    const prefix = parts[0].toUpperCase();
+    const val = parts.slice(1).join(':');
+    if (prefix === "ORPHA") {
+      const e = maps.orpha.get(val);
+      const url = (e && e.url) || orphaFallbackUrl(val);
+      const name = (e && e.name) ? escapeHtml(e.name) + " " : "";
+      return `${name}<small>(<a href="${url}" target="_blank">${escapeHtml(raw)}</a>)</small>`;
+    }
+    if (prefix === "CUI") {
+      const e = maps.umls.get(val);
+      const url = (e && e.url) || umlsFallbackUrl(val);
+      const name = (e && e.name) ? escapeHtml(e.name) + " " : "";
+      return `${name}<small>(<a href="${url}" target="_blank">${escapeHtml(raw)}</a>)</small>`;
+    }
+    if (prefix === "OMIM")
+      return `<small>(</small><a href="https://omim.org/entry/${encodeURIComponent(val)}" target="_blank">${escapeHtml(raw)}</a><small>)</small>`;
+    if (prefix === "SCTID")
+      return `<small>(</small><a href="http://snomed.info/sct/${encodeURIComponent(val)}" target="_blank">${escapeHtml(raw)}</a><small>)</small>`;
+    return escapeHtml(raw);
+  }
+
+  // Combined Target column: UniProt (col 10) + UMLS (col 12) with cap
+  function make_target_ids_combined(maps){
+    return function(cell, row){
+      if (!Array.isArray(row)) return escapeHtml(cell || "");
+      const uni = splitItems(row[10] || "").map(c => `<li>${renderNameAndCode(c, 'UniProt', maps)}</li>`);
+      const uml = splitItems(row[12] || "").map(c => `<li>${renderNameAndCode(c, 'UMLS', maps)}</li>`);
+      const items = [...uni, ...uml];
+      if (!items.length) return "";
+      const href = hrefForAabFromRow(row);
+      return capListHtml(items, href, 10);
+    }
+  }
+
+  // LOINC column with cap
+  function make_loinc_renderer(){
+    return function(cell, row){
+      const ids = splitItems(row[16] || "");
+      const names = splitItems(row[17] || "");
+      const n = Math.max(ids.length, names.length);
+      const lis = [];
+      for (let i = 0; i < n; i++){
+        const id = ids[i] || "";
+        if (!id) continue;
+        const name = names[i] || id;
+        const url = "https://loinc.org/" + encodeURIComponent(id) + "/";
+        lis.push(`<li>${escapeHtml(name)} <small>(<a href="${url}" target="_blank">${escapeHtml(id)}</a>)</small></li>`);
+      }
+      if (!lis.length) return "";
+      const href = hrefForAabFromRow(row);
+      return capListHtml(lis, href, 10);
+    };
+  }
+
+  // HPO IDs after Autoantibody name
+  function renderHpoList(cell){
+    const ids = splitItems(cell || "").filter(x => /^HP:\w+/.test(x));
+    if (!ids.length) return "";
+    const links = ids.map(hp => {
+      const url = 'https://hpo.jax.org/app/browse/term/' + encodeURIComponent(hp);
+      return `<a href="${url}">${escapeHtml(hp)}</a>`;
+    });
+    return ` <small>(${links.join(', ')})</small>`;
+  }
+
+  // Per-item coloring for Related diseases
+  function colorizeRelatedDiseaseItems($root){
+    const bases = ['#037f60', '#035a44'];  // significantly darker than the originals
+    const links = ['#038162', '#035c47']; 
+    $root.find('td.rel-disease ul').each(function(){
+      $(this).children('li').each(function(i){
+        const base = bases[i % 2], link = links[i % 2];
+        if ($(this).find('a.see-more').length) return;
+        $(this).attr('style', 'color:'+base+' !important;');
+        $(this).find('small').attr('style', 'color:'+base+' !important;');
+        $(this).find('a').attr('style', 'color:'+link+' !important; text-decoration:none;');
+      });
+    });
+  }
+
+  // cache of max non-empty rows
+  let NON_EMPTY_MAX = null;
+
+  document.addEventListener('DOMContentLoaded', function () {
+    $.when(
+      $.get('data/code_names.csv'),
+      $.getJSON('db/slug_map.json')
+    ).done(function(mappingCsvResp, slugMapResp){
+      const mappingCsv = mappingCsvResp[0];
+      window.__slugMap = slugMapResp[0] || {};
+
+      // Hide empty rows
+      $.fn.dataTable.ext.search.push(function(settings, data){
+        for (let i = 0; i < data.length; i++) {
+          if (String(data[i] || '').replace(/<[^>]*>/g, '').trim() !== '') return true;
+        }
+        return false;
+      });
+
+      // Build maps from code_names.csv
+      const rows = $.csv.toObjects(mappingCsv);
+      const maps = { uni: new Map(), umls: new Map(), orpha: new Map() };
+      rows.forEach(r => {
+        const src = (r.source || "").trim().toLowerCase();
+        const id  = (r.id || "").trim();
+        if (!id) return;
+        if (src === "uniprot")                       maps.uni.set(id,   {name:r.name||"", url:r.url||uniprotFallbackUrl(id)});
+        else if (src === "umls")                     maps.umls.set(id,  {name:r.name||"", url:r.url||umlsFallbackUrl(id)});
+        else if (src === "orphanet" || src === "orpha")
+                                                    maps.orpha.set(id, {name:r.name||"", url:r.url||orphaFallbackUrl(id)});
+      });
+
+      // Related diseases with cap
+      function related_disease_link(cell, row) {
+        if (!cell) return "";
+        const all = splitItems(cell).map(raw => renderDisease(raw, maps)).filter(Boolean);
+        if (!all.length) return "";
+        const lis = all.map(x => `<li>${x}</li>`);
+        const href = hrefForAabFromRow(row);
+        return capListHtml(lis, href, 10);
+      }
+
+      CsvToHtmlTable.init({
+        csv_path: 'data/makaao_core.csv',
+        element: 'table-container',
+        allow_download: true,
+        download_button: 'download-button',
+        csv_options: { separator: ',', delimiter: '"' },
+        datatables_options: {
+          paging: false,
+          autoWidth: false,            // prevent oversized computed widths
+          columnDefs: [
+            { targets: 3,  title: 'Autoantibody', className: 'col-aab' },
+            { targets: 10, title: 'Target' },
+            { targets: 14, title: 'Related diseases', className: 'rel-disease' },
+            { targets: 17, title: 'LOINC' },
+            { targets: [0,1,2,4,5,6,7,8,9,11,12,13,15,16], visible: false }
+          ],
+          createdRow: function(row, data) {
+            var href = hrefForAabFromRow(data);
+            var $nameCell = $('td', row).eq(0);
+            var nameText = $nameCell.text();
+            var hpoHtml = (data[2] ? renderHpoList(data[2]) : '');
+            $nameCell.html('<strong><a href="' + href + '">' + escapeHtml(nameText) + '</a></strong>' + hpoHtml);
+          },
+
+          drawCallback: function(settings){
+            var $tbody = $('#'+settings.sTableId+' tbody');
+            colorizeRelatedDiseaseItems($tbody);
+          },
+          infoCallback: function (settings, start, end, max, total) {
+            if (NON_EMPTY_MAX === null) NON_EMPTY_MAX = total; // first draw = non-empty max
+            return 'Showing ' + total + ' out of ' + NON_EMPTY_MAX;
+          },
+          initComplete: function(settings){
+            var w = $('#' + settings.sTableId + '_wrapper');
+            var f = w.find('.dataTables_filter').detach();
+            $('#search-container').append(f.find('input').addClass('form-control').attr('placeholder','example: "lupus", or "anti-aqp4"'));
+            var i = w.find('.dataTables_info').detach();
+            $('#info-container').append(i);
+            colorizeRelatedDiseaseItems($('#'+settings.sTableId+' tbody'));
+          }
+        },
+        custom_formatting: [
+          [10, make_target_ids_combined(maps)], // Target (capped)
+          [14, related_disease_link],           // Related diseases (capped)
+          [17, make_loinc_renderer()]           // LOINC (capped)
+        ]
+      });
+    });
+  });
+  </script>
+
+  <!-- GoatCounter analytics -->
+  <script data-goatcounter="https://traffic-monitor.goatcounter.com/count"
+          async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>
