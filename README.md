@@ -9,11 +9,15 @@
    pip install -r requirements.txt
    ```
 4. To initialize container:
-  ```bash
-  docker-compose up -d
-  ```
+   ```bash
+   docker-compose up -d
+   ```
 5. To turn off and restart:
-  ```bash
-  docker-compose stop
-  docker-compose start
-  ```
+   ```bash
+   docker-compose stop
+   docker-compose start
+   ```
+6. To remove container and its data:
+   ```bash
+   docker-compose down -v
+   ```
