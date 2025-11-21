@@ -24,12 +24,3 @@ services:
     container_name: php-fpm
     volumes:
       - ./website:/var/www/html:ro
-
-  scheduler:
-    build:
-      context: .
-      dockerfile: Dockerfile.scheduler
-    container_name: updater-cron
-    restart: unless-stopped
-    volumes:
-      - ./website/data:/data
