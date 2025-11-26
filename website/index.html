@@ -13,7 +13,7 @@
   <!-- Clarity tracking code -->
   <script>
     (function(c,l,a,r,i,t,y){
-      c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+      c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)}};
       t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i+"?ref=bwt";
       y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "ru7irv95sz");
@@ -25,6 +25,17 @@
   <meta name="description" content="autoantibodies list, autoantibodies index, autoantibodies mapping, autoantibodies database, knowledge graph, ontology of autoantibodies, autoantibodies, antibodies, autoimmune diseases, autoimmunity">
   <meta name="author" content="Fabien Maury">
   <title>MAKAAO – Index of Human Autoantibodies</title>
+
+  <!-- Preconnect to common JS/CDN hosts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://code.jquery.com">
+  <link rel="preconnect" href="https://cdn.jsdelivr.net">
+  <link rel="preconnect" href="https://cdn.datatables.net">
+
+  <!-- Preload main data and mappings -->
+  <link rel="preload" href="data/makaao_core.csv" as="fetch" crossorigin="anonymous">
+  <link rel="preload" href="data/code_names.csv" as="fetch" crossorigin="anonymous">
+  <link rel="preload" href="db/slug_map.json" as="fetch" crossorigin="anonymous">
 
   <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" crossorigin="anonymous">
@@ -154,8 +165,8 @@
   <main class="container container-wide py-4">
     <section class="mb-4">
       <p id="intro1">
-        MAKAAO is an index of <b>autoantibodies</b> and their <b>targets</b>, associated <b>diseases</b> and lab tests.
-        MAKAAO stands for MApping Knowledge about Autoimmune diseases, Autoantibodies, and Other clinical signs.
+        MAKAAO is a list of <b>autoantibodies</b> and their <b>targets</b>, associated <b>diseases</b> and lab tests.<br>
+        MAKAAO stands for MApping Knowledge about Autoimmune diseases, Autoantibodies, and Other clinical signs.<br>
         You can search MAKAAO online with the following search box, or download it locally
       </p>
       <p id="intro2">
@@ -172,6 +183,9 @@
 
     <!-- removed .table-responsive to prevent horizontal scrollbar -->
     <div class="mb-5">
+      <div id="table-loading" class="text-center text-muted my-4">
+        Loading table…
+      </div>
       <div id="table-container"></div>
     </div>
 
@@ -185,7 +199,7 @@
         <a href="https://heka.gitlabpages.inria.fr/team/members/maury.html">Fabien Maury</a>,
         funded by FSMR BRAIN-TEAM &amp; Filnemus.
       </p>
-      <p>This website is a work in progress and may change.</p>
+      <p>This website is a work in progress and may change in the future.</p>
     </section>
   </main>
 
@@ -236,6 +250,9 @@
     }
     return `<ul>${out.join("")}</ul>`;
   }
+
+  // Global mapping caches (filled asynchronously)
+  const maps = { uni: new Map(), umls: new Map(), orpha: new Map() };
 
   // Targets: "Name (CODE)" with link on CODE
   function renderNameAndCode(rawCode, source, maps) {
@@ -325,7 +342,7 @@
   // Per-item coloring for Related diseases
   function colorizeRelatedDiseaseItems($root){
     const bases = ['#037f60', '#035a44'];  // significantly darker than the originals
-    const links = ['#038162', '#035c47']; 
+    const links = ['#038162', '#035c47'];
     $root.find('td.rel-disease ul').each(function(){
       $(this).children('li').each(function(i){
         const base = bases[i % 2], link = links[i % 2];
@@ -339,93 +356,118 @@
 
   // cache of max non-empty rows
   let NON_EMPTY_MAX = null;
+  // DataTables API instance (set in initComplete)
+  let MAKAAO_DT_API = null;
 
   document.addEventListener('DOMContentLoaded', function () {
-    $.when(
-      $.get('data/code_names.csv'),
-      $.getJSON('db/slug_map.json')
-    ).done(function(mappingCsvResp, slugMapResp){
+    // Hide empty rows
+    $.fn.dataTable.ext.search.push(function(settings, data){
+      for (let i = 0; i < data.length; i++) {
+        if (String(data[i] || '').replace(/<[^>]*>/g, '').trim() !== '') return true;
+      }
+      return false;
+    });
+
+    // Start mapping + slug-map loads in parallel with table CSV
+    const mappingReq = $.get('data/code_names.csv');
+    const slugMapReq = $.getJSON('db/slug_map.json');
+
+    // Related diseases with cap (uses global maps)
+    function related_disease_link(cell, row) {
+      if (!cell) return "";
+      const all = splitItems(cell).map(raw => renderDisease(raw, maps)).filter(Boolean);
+      if (!all.length) return "";
+      const lis = all.map(x => `<li>${x}</li>`);
+      const href = hrefForAabFromRow(row);
+      return capListHtml(lis, href, 10);
+    }
+
+    // Build the table immediately (CSV starts loading now)
+    CsvToHtmlTable.init({
+      csv_path: 'data/makaao_core.csv',
+      element: 'table-container',
+      allow_download: true,
+      download_button: 'download-button',
+      csv_options: { separator: ',', delimiter: '"' },
+      datatables_options: {
+        paging: false,
+        autoWidth: false,            // prevent oversized computed widths
+        deferRender: true,           // speed up initial draw where possible
+        // default sort: alphabetical by Autoantibody column (index 3)
+        order: [[3, 'asc']],
+        columnDefs: [
+          { targets: 3,  title: 'Autoantibody', className: 'col-aab' },
+          { targets: 10, title: 'Target' },
+          { targets: 14, title: 'Related diseases', className: 'rel-disease' },
+          { targets: 17, title: 'LOINC' },
+          { targets: [0,1,2,4,5,6,7,8,9,11,12,13,15,16], visible: false }
+        ],
+        createdRow: function(row, data) {
+          var href = hrefForAabFromRow(data);
+          var $nameCell = $('td', row).eq(0);
+          var nameText = $nameCell.text();
+          var hpoHtml = (data[2] ? renderHpoList(data[2]) : '');
+          $nameCell.html('<strong><a href="' + href + '">' + escapeHtml(nameText) + '</a></strong>' + hpoHtml);
+        },
+
+        drawCallback: function(settings){
+          var $tbody = $('#'+settings.sTableId+' tbody');
+          colorizeRelatedDiseaseItems($tbody);
+        },
+        infoCallback: function (settings, start, end, max, total) {
+          if (NON_EMPTY_MAX === null) NON_EMPTY_MAX = total; // first draw = non-empty max
+          return 'Showing ' + total + ' out of ' + NON_EMPTY_MAX;
+        },
+        initComplete: function(settings){
+          // Save API for later redraw when mappings arrive
+          if (this.api) {
+            MAKAAO_DT_API = this.api();
+          }
+
+          // Remove loading message once table is ready
+          $('#table-loading').remove();
+
+          var w = $('#' + settings.sTableId + '_wrapper');
+          var f = w.find('.dataTables_filter').detach();
+          $('#search-container').append(
+            f.find('input')
+             .addClass('form-control')
+             .attr('placeholder','Search example: "lupus", or "anti-aqp4"')
+          );
+          var i = w.find('.dataTables_info').detach();
+          $('#info-container').append(i);
+          colorizeRelatedDiseaseItems($('#'+settings.sTableId+' tbody'));
+        }
+      },
+      custom_formatting: [
+        [10, make_target_ids_combined(maps)], // Target (capped, names filled when maps ready)
+        [14, related_disease_link],           // Related diseases (capped, names filled when maps ready)
+        [17, make_loinc_renderer()]           // LOINC (capped)
+      ]
+    });
+
+    // When mappings + slug-map are ready, fill caches and redraw once
+    $.when(mappingReq, slugMapReq).done(function(mappingCsvResp, slugMapResp){
       const mappingCsv = mappingCsvResp[0];
       window.__slugMap = slugMapResp[0] || {};
 
-      // Hide empty rows
-      $.fn.dataTable.ext.search.push(function(settings, data){
-        for (let i = 0; i < data.length; i++) {
-          if (String(data[i] || '').replace(/<[^>]*>/g, '').trim() !== '') return true;
-        }
-        return false;
-      });
-
-      // Build maps from code_names.csv
       const rows = $.csv.toObjects(mappingCsv);
-      const maps = { uni: new Map(), umls: new Map(), orpha: new Map() };
       rows.forEach(r => {
         const src = (r.source || "").trim().toLowerCase();
         const id  = (r.id || "").trim();
         if (!id) return;
-        if (src === "uniprot")                       maps.uni.set(id,   {name:r.name||"", url:r.url||uniprotFallbackUrl(id)});
-        else if (src === "umls")                     maps.umls.set(id,  {name:r.name||"", url:r.url||umlsFallbackUrl(id)});
+        if (src === "uniprot")
+          maps.uni.set(id,   {name:r.name||"", url:r.url||uniprotFallbackUrl(id)});
+        else if (src === "umls")
+          maps.umls.set(id,  {name:r.name||"", url:r.url||umlsFallbackUrl(id)});
         else if (src === "orphanet" || src === "orpha")
-                                                    maps.orpha.set(id, {name:r.name||"", url:r.url||orphaFallbackUrl(id)});
+          maps.orpha.set(id, {name:r.name||"", url:r.url||orphaFallbackUrl(id)});
       });
 
-      // Related diseases with cap
-      function related_disease_link(cell, row) {
-        if (!cell) return "";
-        const all = splitItems(cell).map(raw => renderDisease(raw, maps)).filter(Boolean);
-        if (!all.length) return "";
-        const lis = all.map(x => `<li>${x}</li>`);
-        const href = hrefForAabFromRow(row);
-        return capListHtml(lis, href, 10);
+      // If table is already initialized, force a redraw so names/links appear
+      if (MAKAAO_DT_API) {
+        MAKAAO_DT_API.rows().invalidate().draw();
       }
-
-      CsvToHtmlTable.init({
-        csv_path: 'data/makaao_core.csv',
-        element: 'table-container',
-        allow_download: true,
-        download_button: 'download-button',
-        csv_options: { separator: ',', delimiter: '"' },
-        datatables_options: {
-          paging: false,
-          autoWidth: false,            // prevent oversized computed widths
-          columnDefs: [
-            { targets: 3,  title: 'Autoantibody', className: 'col-aab' },
-            { targets: 10, title: 'Target' },
-            { targets: 14, title: 'Related diseases', className: 'rel-disease' },
-            { targets: 17, title: 'LOINC' },
-            { targets: [0,1,2,4,5,6,7,8,9,11,12,13,15,16], visible: false }
-          ],
-          createdRow: function(row, data) {
-            var href = hrefForAabFromRow(data);
-            var $nameCell = $('td', row).eq(0);
-            var nameText = $nameCell.text();
-            var hpoHtml = (data[2] ? renderHpoList(data[2]) : '');
-            $nameCell.html('<strong><a href="' + href + '">' + escapeHtml(nameText) + '</a></strong>' + hpoHtml);
-          },
-
-          drawCallback: function(settings){
-            var $tbody = $('#'+settings.sTableId+' tbody');
-            colorizeRelatedDiseaseItems($tbody);
-          },
-          infoCallback: function (settings, start, end, max, total) {
-            if (NON_EMPTY_MAX === null) NON_EMPTY_MAX = total; // first draw = non-empty max
-            return 'Showing ' + total + ' out of ' + NON_EMPTY_MAX;
-          },
-          initComplete: function(settings){
-            var w = $('#' + settings.sTableId + '_wrapper');
-            var f = w.find('.dataTables_filter').detach();
-            $('#search-container').append(f.find('input').addClass('form-control').attr('placeholder','example: "lupus", or "anti-aqp4"'));
-            var i = w.find('.dataTables_info').detach();
-            $('#info-container').append(i);
-            colorizeRelatedDiseaseItems($('#'+settings.sTableId+' tbody'));
-          }
-        },
-        custom_formatting: [
-          [10, make_target_ids_combined(maps)], // Target (capped)
-          [14, related_disease_link],           // Related diseases (capped)
-          [17, make_loinc_renderer()]           // LOINC (capped)
-        ]
-      });
     });
   });
   </script>

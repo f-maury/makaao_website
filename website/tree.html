@@ -81,7 +81,7 @@
       }
     }
 
-    /* Tree styles (kept from original) */
+    /* Tree styles */
     #myUL {
       list-style: none;
       margin: 1rem auto 2rem;
@@ -108,6 +108,13 @@
     .center-me { text-align: center; }
     a { color:#06c; text-decoration:none; }
     a:hover { text-decoration:underline; }
+
+    /* Highlight for search hit */
+    .caret-label.search-hit {
+      background-color: #fff3cd;
+      border-radius: 4px;
+      padding: 0 2px;
+    }
   </style>
 </head>
 <body>
@@ -142,6 +149,17 @@
     <p class="center-me">
       Below is an unfoldable hierarchical tree, showing each autoantibody in our database, grouped by category.
     </p>
+
+    <!-- Search box -->
+    <div class="row justify-content-center mb-3">
+      <div class="col-12 col-md-6">
+        <input id="tree-search" type="search" class="form-control"
+               placeholder='example: "lupus", or "anti-aqp4"'>
+        <small id="tree-search-status"
+               class="form-text text-muted text-center mt-1"></small>
+      </div>
+    </div>
+
     <ul id="myUL"></ul>
   </main>
 
@@ -236,6 +254,22 @@
           });
         });
 
+        // Sort children alphabetically by node name at each level
+        function sortChildren() {
+          Object.values(tree).forEach(node => {
+            if (Array.isArray(node.children) && node.children.length > 1) {
+              node.children.sort((a, b) => {
+                const na = (tree[a] && tree[a].name ? tree[a].name : '').toLowerCase();
+                const nb = (tree[b] && tree[b].name ? tree[b].name : '').toLowerCase();
+                if (na < nb) return -1;
+                if (na > nb) return 1;
+                return 0;
+              });
+            }
+          });
+        }
+        sortChildren();
+
         function hrefForAab(aab) {
           const iri  = 'http://makaao.inria.fr/db/aab_' + aab + '.html';
           const slug = slugMap[iri];
@@ -316,6 +350,83 @@
           const nested = caretHead.nextElementSibling;
           if (nested) nested.classList.toggle('active');
         });
+
+        // --- Search box: unfold first matching branch ---
+        const searchInput = document.getElementById('tree-search');
+        const statusEl = document.getElementById('tree-search-status');
+
+        function clearSearchHighlight() {
+          container.querySelectorAll('.search-hit').forEach(el => {
+            el.classList.remove('search-hit');
+          });
+        }
+
+        function openBranchForLi(li) {
+          let node = li;
+          while (node && node.id !== 'myUL') {
+            if (node.tagName === 'LI') {
+              const caret = node.querySelector(':scope > .caret');
+              if (caret) {
+                caret.classList.add('caret-down');
+                const nested = caret.nextElementSibling;
+                if (nested && nested.classList) {
+                  nested.classList.add('active');
+                }
+              }
+            }
+            node = node.parentElement;
+          }
+        }
+
+        function searchTree(query) {
+          clearSearchHighlight();
+          if (!statusEl) return;
+
+          const q = String(query || '').trim().toLowerCase();
+          if (!q) {
+            statusEl.textContent = '';
+            return;
+          }
+
+          const labels = container.querySelectorAll('.caret-label');
+          let foundSpan = null;
+          for (const span of labels) {
+            const text = span.textContent.toLowerCase();
+            if (text.indexOf(q) !== -1) {
+              foundSpan = span;
+              break;
+            }
+          }
+
+          if (!foundSpan) {
+            statusEl.textContent = 'No match found.';
+            return;
+          }
+
+          const li = foundSpan.closest('li');
+          if (!li) {
+            statusEl.textContent = 'No match found.';
+            return;
+          }
+
+          // Open all ancestor branches so the match is visible
+          openBranchForLi(li);
+          foundSpan.classList.add('search-hit');
+
+          // Scroll AFTER layout has been updated by the unfolding
+          requestAnimationFrame(() => {
+            li.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          });
+
+          statusEl.textContent = 'Showing first match.';
+        }
+
+        if (searchInput) {
+          searchInput.addEventListener('input', function() {
+            searchTree(this.value);
+          });
+        }
+        // ------------------------------------------------
       }).catch(console.error);
     });
   </script>
