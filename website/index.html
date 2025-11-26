@@ -393,8 +393,11 @@
         paging: false,
         autoWidth: false,            // prevent oversized computed widths
         deferRender: true,           // speed up initial draw where possible
+<<<<<<< HEAD
         // default sort: alphabetical by Autoantibody column (index 3)
         order: [[3, 'asc']],
+=======
+>>>>>>> origin/main
         columnDefs: [
           { targets: 3,  title: 'Autoantibody', className: 'col-aab' },
           { targets: 10, title: 'Target' },
@@ -432,7 +435,11 @@
           $('#search-container').append(
             f.find('input')
              .addClass('form-control')
+<<<<<<< HEAD
              .attr('placeholder','Search example: "lupus", or "anti-aqp4"')
+=======
+             .attr('placeholder','example: "lupus", or "anti-aqp4"')
+>>>>>>> origin/main
           );
           var i = w.find('.dataTables_info').detach();
           $('#info-container').append(i);

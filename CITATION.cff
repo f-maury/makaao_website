@@ -1,0 +1,28 @@
+# Citation File Format https://doi.org/FILL_HERE
+cff-version: "1.0.0"
+title: "MAKAAO website"
+date-released: "2025-11-21"
+doi: "FILL_HERE"
+url: "https://makaao.inria.fr"
+repository-code: "https://github.com/f-maury/MAKAAO_website"
+license: "MIT"
+message: "If you use this software, please cite it using the metadata from this file."
+abstract: >
+  This is the MAKAAO website, an online knowledge base for autoantibodies and autoimmune diseases.
+keywords:
+  - ontology
+  - knowledge graph
+  - autoimmunity
+  - autoantibodies
+  - autoimmune disease
+  - website
+authors:
+  - family-names: "Maury"
+    given-names: "Fabien"
+    orcid: "0000-0003-2854-0167"
+  - family-names: "Coulet"
+    given-names: "Adrien"
+    orcid: "0000-0002-1466-062X"
+  - family-names: "de Dieuleveult"
+    given-names: "Maud"
+    orcid: "0000-0002-3387-1836"
