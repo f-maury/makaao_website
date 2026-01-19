@@ -3,7 +3,7 @@ website/db/
 
 # Big data files that should not be in git
 website/data/LOINC_*.ttl
-website/data/makaao_*.rdf
+website/data/makaao*.rdf
 website/data/makaao*.csv
 
 # Local scripts / temp data
