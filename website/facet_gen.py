@@ -542,17 +542,17 @@ def render_page(
     t_sources_lists: List[List[str]] = []
 
     up_codes = split_pipes(row.get("uniprot_id", ""))
-    up_srcs  = split_sources_per_item(row.get("uniprot_source", ""), len(up_codes))
+    up_srcs = split_sources_per_item(row.get("uniprot_source", ""), len(up_codes))
     t_codes += up_codes
     t_sources_lists += up_srcs
 
     cui_codes = split_pipes(row.get("umls_id", ""))
-    cui_srcs  = split_sources_per_item(row.get("umls_source", ""), len(cui_codes))
+    cui_srcs = split_sources_per_item(row.get("umls_source", ""), len(cui_codes))
     t_codes += cui_codes
     t_sources_lists += cui_srcs
 
     che_codes = split_pipes(row.get("chebi_id", ""))
-    che_srcs  = split_sources_per_item(row.get("chebi_source", ""), len(che_codes))
+    che_srcs = split_sources_per_item(row.get("chebi_source", ""), len(che_codes))
     t_codes += che_codes
     t_sources_lists += che_srcs
 
@@ -560,7 +560,7 @@ def render_page(
 
     # Diseases
     d_codes = split_pipes(row.get("disease_id", ""))
-    d_srcs  = split_sources_per_item(row.get("disease_source", ""), len(d_codes))
+    d_srcs = split_sources_per_item(row.get("disease_source", ""), len(d_codes))
     diseases_html = render_items_with_sources(d_codes, d_srcs, names_map)
 
     # Parents
@@ -589,6 +589,44 @@ def render_page(
 
     # LOINC section
     loinc_html = render_loinc_tests_section(row, loinc_map, loinc_labels)
+
+    # -------- Cross-references: HPO ----------
+    raw_hpo = split_pipes(row.get("hpo_id", "") or row.get("hpo", ""))
+    hpo_ids: List[str] = []
+    seen_hpo = set()
+    for x in raw_hpo:
+        t = (x or "").strip().upper().replace("_", ":")
+        t = re.sub(r"^HPO:", "HP:", t)
+        m = re.fullmatch(r"HP:(\d+)", t)
+        if m:
+            t = f"HP:{m.group(1).zfill(7)}"
+        elif re.fullmatch(r"\d{7}", t):
+            t = f"HP:{t}"
+        elif not re.fullmatch(r"HP:\d{7}", t):
+            continue
+
+        if t not in seen_hpo:
+            seen_hpo.add(t)
+            hpo_ids.append(t)
+
+    if hpo_ids:
+        hpo_lis = "".join(
+            f'<li><a target="_blank" href="{esc(f"https://hpo.jax.org/browse/term/{hid}")}">{esc(hid)}</a></li>'
+            for hid in hpo_ids
+        )
+        hpo_html = f"""
+        <section class="mb-4">
+          <h3 class="section-title">HPO</h3>
+          <div class="card"><div class="card-body list-small"><ul>{hpo_lis}</ul></div></div>
+        </section>
+        """
+    else:
+        hpo_html = """
+        <section class="mb-4">
+          <h3 class="section-title">HPO</h3>
+          <div class="card"><div class="card-body"><p>-</p></div></div>
+        </section>
+        """
 
     kg_uri = f"{BASE_KG}/aab_{aid}"
     kg_html = f'<p>{esc(title)} (<a target="_blank" href="{esc(kg_uri)}">MAK:AAB_{aid}</a>)</p>'
@@ -625,15 +663,23 @@ def render_page(
       </div>
     </section>
 
-    {loinc_html}
-
     <section class="mb-4">
-      <h3 class="section-title">Corresponding item in MAKAAO knowledge base</h3>
-      <div class="card"><div class="card-body">{kg_html}</div></div>
+      <h2 class="section-title">Cross-references</h2>
+
+      {hpo_html}
+
+      <section class="mb-4">
+        <h3 class="section-title">Corresponding item in MAKAAO knowledge base</h3>
+        <div class="card"><div class="card-body">{kg_html}</div></div>
+      </section>
+
+      {loinc_html}
     </section>
   </main>
 """
     return head + body + HTML_TAIL
+
+
 
 # --------- Main ----------
 def main():
