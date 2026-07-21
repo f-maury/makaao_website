@@ -5,53 +5,53 @@
   xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-  <!-- Homepage -->
+  <!-- Home page -->
   <url>
-    <loc>https://makaao.inria.fr/</loc>
-    <lastmod>2025-11-18</lastmod>
+    <loc>https://makaao.inria.fr</loc>
+    <lastmod>2026-01-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.00</priority>
   </url>
 
-  <!-- Tree -->
+  <!-- SPARQL page -->
+  <url>
+    <loc>https://makaao.inria.fr/virtuoso/sparql.html</loc>
+    <lastmod>2026-01-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
+  </url>
+
+
+  <!-- Tree page -->
   <url>
     <loc>https://makaao.inria.fr/tree.html</loc>
-    <lastmod>2025-11-18</lastmod>
+    <lastmod>2026-01-20</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.50</priority>
+    <priority>0.80</priority>
   </url>
 
-  <!-- SPARQL endpoint -->
-  <url>
-    <loc>https://makaao.inria.fr/sparql.html</loc>
-    <lastmod>2025-11-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.50</priority>
-  </url>
-
-  <!-- Download -->
+  <!-- Download page -->
   <url>
     <loc>https://makaao.inria.fr/download.html</loc>
-    <lastmod>2025-11-18</lastmod>
+    <lastmod>2026-01-20</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.50</priority>
+    <priority>0.75</priority>
   </url>
 
   <!-- Contact page -->
   <url>
     <loc>https://makaao.inria.fr/contact.html</loc>
-    <lastmod>2025-11-18</lastmod>
+    <lastmod>2026-01-20</lastmod>
     <changefreq>yearly</changefreq>
-    <priority>0.80</priority>
+    <priority>0.50</priority>
   </url>
 
   <!-- About page -->
   <url>
     <loc>https://makaao.inria.fr/about.html</loc>
-    <lastmod>2025-11-18</lastmod>
+    <lastmod>2026-01-20</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.30</priority>
+    <priority>0.70</priority>
   </url>
 
 </urlset>
-

@@ -6,7 +6,6 @@ from pathlib import Path
 from typing import List, Dict, Tuple, Optional
 from string import Template
 from collections import defaultdict
-from urllib.parse import urlencode
 
 #
 makaao_csv_path = "./data/makaao_core.csv"  # AAb table
@@ -418,8 +417,7 @@ HTML_HEAD = Template("""<!DOCTYPE html>
       --banner-h: clamp(120px, 20vw, 220px);
     }
     body { font-family: 'Roboto', sans-serif; }
-    h1 { text-align:center; font-weight:700; margin:0; }
-    .entry-title-row { display:flex; justify-content:center; align-items:center; gap:.75rem; flex-wrap:wrap; }
+    h1 { text-align:center; font-weight:700; }
     .syns { text-align:center; color:#6c757d; margin-top:-.25rem; }
     .section-title { margin-bottom:.5rem; }
     .card-body ul { margin:0; }
@@ -633,19 +631,10 @@ def render_page(
     kg_uri = f"{BASE_KG}/aab_{aid}"
     kg_html = f'<p>{esc(title)} (<a target="_blank" href="{esc(kg_uri)}">MAK:AAB_{aid}</a>)</p>'
 
-    suggest_query = urlencode({
-        "entry_name": title,
-        "aab_id": aid,
-    })
-    suggest_url = f"/contact.html?{suggest_query}"
-
     head = HTML_HEAD.substitute(meta_desc=esc(meta_desc), title=esc(title))
     body = f"""
   <main class="container container-wide py-4">
-    <div class="entry-title-row mb-2">
-      <h1>{esc(title)}</h1>
-      <a class="btn btn-danger btn-sm" href="{esc(suggest_url)}">Suggest change</a>
-    </div>
+    <h1 class="mb-2">{esc(title)}</h1>
     {syn_html}
 
     <section class="mb-4">
