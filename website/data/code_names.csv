@@ -107,7 +107,7 @@ UniProt,P11712,Cytochrome P450 2C9,https://www.uniprot.org/uniprotkb/P11712
 UniProt,P12081,"Histidine--tRNA ligase, cytoplasmic",https://www.uniprot.org/uniprotkb/P12081
 UniProt,P12259,Coagulation factor V,https://www.uniprot.org/uniprotkb/P12259
 UniProt,P12883,Myosin-7,https://www.uniprot.org/uniprotkb/P12883
-UniProt,P12956,X-ray repair cross-complementing protein 6,https://www.uniprot.org/uniprotkb/P12956
+UniProt,P12956,DNA repair protein Ku70,https://www.uniprot.org/uniprotkb/P12956
 UniProt,P13473,Lysosome-associated membrane glycoprotein 2,https://www.uniprot.org/uniprotkb/P13473
 UniProt,P14136,Glial fibrillary acidic protein,https://www.uniprot.org/uniprotkb/P14136
 UniProt,P14416,D(2) dopamine receptor,https://www.uniprot.org/uniprotkb/P14416
@@ -133,6 +133,7 @@ UniProt,P21728,D(1A) dopamine receptor,https://www.uniprot.org/uniprotkb/P21728
 UniProt,P21817,Ryanodine receptor 1,https://www.uniprot.org/uniprotkb/P21817
 UniProt,P21980,Protein-glutamine gamma-glutamyltransferase 2,https://www.uniprot.org/uniprotkb/P21980
 UniProt,P22087,rRNA 2'-O-methyltransferase fibrillarin,https://www.uniprot.org/uniprotkb/P22087
+UniProt,P22301,Interleukin-10,https://www.uniprot.org/uniprotkb/P22301
 UniProt,P22459,Potassium voltage-gated channel subfamily A member 4,https://www.uniprot.org/uniprotkb/P22459
 UniProt,P22607,Fibroblast growth factor receptor 3,https://www.uniprot.org/uniprotkb/P22607
 UniProt,P23280,Carbonic anhydrase 6,https://www.uniprot.org/uniprotkb/P23280
@@ -209,6 +210,7 @@ UniProt,Q13255,Metabotropic glutamate receptor 1,https://www.uniprot.org/uniprot
 UniProt,Q13751,Laminin subunit beta-3,https://www.uniprot.org/uniprotkb/Q13751
 UniProt,Q13753,Laminin subunit gamma-2,https://www.uniprot.org/uniprotkb/Q13753
 UniProt,Q13813,"Spectrin alpha chain, non-erythrocytic 1",https://www.uniprot.org/uniprotkb/Q13813
+UniProt,Q14213,Interleukin-27 subunit beta,https://www.uniprot.org/uniprotkb/Q14213
 UniProt,Q14574,Desmocollin-3,https://www.uniprot.org/uniprotkb/Q14574
 UniProt,Q14576,ELAV-like protein 3,https://www.uniprot.org/uniprotkb/Q14576
 UniProt,Q14643,"Inositol 1,4,5-trisphosphate-gated calcium channel ITPR1",https://www.uniprot.org/uniprotkb/Q14643
@@ -233,6 +235,7 @@ UniProt,Q8N9L1,Zinc finger protein ZIC 4,https://www.uniprot.org/uniprotkb/Q8N9L
 UniProt,Q8ND56,Protein LSM14 homolog A,https://www.uniprot.org/uniprotkb/Q8ND56
 UniProt,Q8ND90,Paraneoplastic antigen Ma1,https://www.uniprot.org/uniprotkb/Q8ND90
 UniProt,Q8NDV7,Trinucleotide repeat-containing gene 6A protein,https://www.uniprot.org/uniprotkb/Q8NDV7
+UniProt,Q8NEV9,Interleukin-27 subunit alpha,https://www.uniprot.org/uniprotkb/Q8NEV9
 UniProt,Q8NFT8,Delta and Notch-like epidermal growth factor-related receptor,https://www.uniprot.org/uniprotkb/Q8NFT8
 UniProt,Q8TD16,Protein bicaudal D homolog 2,https://www.uniprot.org/uniprotkb/Q8TD16
 UniProt,Q8TEM1,Nuclear pore membrane glycoprotein 210,https://www.uniprot.org/uniprotkb/Q8TEM1
@@ -299,6 +302,7 @@ UMLS,C0005789,Blood Coagulation Factor,https://uts.nlm.nih.gov/uts/umls/concept/
 UMLS,C0005821,Blood Platelets,https://uts.nlm.nih.gov/uts/umls/concept/C0005821
 UMLS,C0006685,Calcium Channel,https://uts.nlm.nih.gov/uts/umls/concept/C0006685
 UMLS,C0006826,Malignant Neoplasms,https://uts.nlm.nih.gov/uts/umls/concept/C0006826
+UMLS,C0006848,Mucocutaneous candidiasis,https://uts.nlm.nih.gov/uts/umls/concept/C0006848
 UMLS,C0007033,Carbonic Anhydrase I,https://uts.nlm.nih.gov/uts/umls/concept/C0007033
 UMLS,C0007034,Carbonic Anhydrase II,https://uts.nlm.nih.gov/uts/umls/concept/C0007034
 UMLS,C0007188,Cardiolipins,https://uts.nlm.nih.gov/uts/umls/concept/C0007188
@@ -319,6 +323,7 @@ UMLS,C0011633,Dermatomyositis,https://uts.nlm.nih.gov/uts/umls/concept/C0011633
 UMLS,C0011854,"Diabetes Mellitus, Insulin-Dependent",https://uts.nlm.nih.gov/uts/umls/concept/C0011854
 UMLS,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent",https://uts.nlm.nih.gov/uts/umls/concept/C0011860
 UMLS,C0014175,Endometriosis,https://uts.nlm.nih.gov/uts/umls/concept/C0014175
+UMLS,C0014644,Epstein-Barr virus,https://uts.nlm.nih.gov/uts/umls/concept/C0014644
 UMLS,C0014742,Erythema Multiforme,https://uts.nlm.nih.gov/uts/umls/concept/C0014742
 UMLS,C0014792,Erythrocytes,https://uts.nlm.nih.gov/uts/umls/concept/C0014792
 UMLS,C0015522,Factor XI,https://uts.nlm.nih.gov/uts/umls/concept/C0015522
@@ -360,6 +365,8 @@ UMLS,C0023884,Liver,https://uts.nlm.nih.gov/uts/umls/concept/C0023884
 UMLS,C0024143,Lupus Nephritis,https://uts.nlm.nih.gov/uts/umls/concept/C0024143
 UMLS,C0024537,"Malaria, Vivax",https://uts.nlm.nih.gov/uts/umls/concept/C0024537
 UMLS,C0026237,Mitochondria,https://uts.nlm.nih.gov/uts/umls/concept/C0026237
+UMLS,C0026769,Multiple Sclerosis,https://uts.nlm.nih.gov/uts/umls/concept/C0026769
+UMLS,C0026918,Mycobacterium Infections,https://uts.nlm.nih.gov/uts/umls/concept/C0026918
 UMLS,C0026975,Myelitis,https://uts.nlm.nih.gov/uts/umls/concept/C0026975
 UMLS,C0027121,Myositis,https://uts.nlm.nih.gov/uts/umls/concept/C0027121
 UMLS,C0027869,Neuromuscular Junction,https://uts.nlm.nih.gov/uts/umls/concept/C0027869
@@ -386,6 +393,7 @@ UMLS,C0034143,Purkinje Cells,https://uts.nlm.nih.gov/uts/umls/concept/C0034143
 UMLS,C0034667,Ranvier's Nodes,https://uts.nlm.nih.gov/uts/umls/concept/C0034667
 UMLS,C0034807,GABA-A Receptor,https://uts.nlm.nih.gov/uts/umls/concept/C0034807
 UMLS,C0034818,Insulin Receptor,https://uts.nlm.nih.gov/uts/umls/concept/C0034818
+UMLS,C0034826,Muscarinic Acetylcholine Receptor,https://uts.nlm.nih.gov/uts/umls/concept/C0034826
 UMLS,C0034830,Nicotinic Receptors,https://uts.nlm.nih.gov/uts/umls/concept/C0034830
 UMLS,C0034844,Thyrotropin Receptor,https://uts.nlm.nih.gov/uts/umls/concept/C0034844
 UMLS,C0035285,Reticulin,https://uts.nlm.nih.gov/uts/umls/concept/C0035285
@@ -394,6 +402,8 @@ UMLS,C0036098,Salivary Glands,https://uts.nlm.nih.gov/uts/umls/concept/C0036098
 UMLS,C0036225,Sarcomeres,https://uts.nlm.nih.gov/uts/umls/concept/C0036225
 UMLS,C0036341,Schizophrenia,https://uts.nlm.nih.gov/uts/umls/concept/C0036341
 UMLS,C0037900,Sphingolipids,https://uts.nlm.nih.gov/uts/umls/concept/C0037900
+UMLS,C0038013,Ankylosing spondylitis,https://uts.nlm.nih.gov/uts/umls/concept/C0038013
+UMLS,C0038160,Staphylococcal Infections,https://uts.nlm.nih.gov/uts/umls/concept/C0038160
 UMLS,C0038302,Steroid 17-alpha-Hydroxylase,https://uts.nlm.nih.gov/uts/umls/concept/C0038302
 UMLS,C0038727,Sulfoglycosphingolipids,https://uts.nlm.nih.gov/uts/umls/concept/C0038727
 UMLS,C0039263,Takayasu Arteritis,https://uts.nlm.nih.gov/uts/umls/concept/C0039263
@@ -425,6 +435,7 @@ UMLS,C0069428,Oligodendrocyte-Myelin Glycoprotein,https://uts.nlm.nih.gov/uts/um
 UMLS,C0070121,"BPIFA2 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C0070121
 UMLS,C0071766,H(+)-K(+)-Exchanging ATPase,https://uts.nlm.nih.gov/uts/umls/concept/C0071766
 UMLS,C0075129,SS-A antigen,https://uts.nlm.nih.gov/uts/umls/concept/C0075129
+UMLS,C0075530,sulfate-3-glucuronyl paragloboside,https://uts.nlm.nih.gov/uts/umls/concept/C0075530
 UMLS,C0077299,GT1a-ganglioside,https://uts.nlm.nih.gov/uts/umls/concept/C0077299
 UMLS,C0079189,cytokine,https://uts.nlm.nih.gov/uts/umls/concept/C0079189
 UMLS,C0079460,Granulocyte-Macrophage Colony-Stimulating Factor,https://uts.nlm.nih.gov/uts/umls/concept/C0079460
@@ -468,6 +479,7 @@ UMLS,C0258665,laminin gamma 1,https://uts.nlm.nih.gov/uts/umls/concept/C0258665
 UMLS,C0264939,Systemic Vasculitis,https://uts.nlm.nih.gov/uts/umls/concept/C0264939
 UMLS,C0267642,Childhood celiac disease,https://uts.nlm.nih.gov/uts/umls/concept/C0267642
 UMLS,C0268274,"Gangliosidoses, GM2",https://uts.nlm.nih.gov/uts/umls/concept/C0268274
+UMLS,C0272210,Mononucleosis syndrome,https://uts.nlm.nih.gov/uts/umls/concept/C0272210
 UMLS,C0282554,chemokine,https://uts.nlm.nih.gov/uts/umls/concept/C0282554
 UMLS,C0286249,LKM-1,https://uts.nlm.nih.gov/uts/umls/concept/C0286249
 UMLS,C0288263,L-Type Calcium Channels,https://uts.nlm.nih.gov/uts/umls/concept/C0288263
@@ -504,7 +516,7 @@ UMLS,C0724584,"coagulation factor IX, human",https://uts.nlm.nih.gov/uts/umls/co
 UMLS,C0753882,"GPS1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C0753882
 UMLS,C0758772,"MAG protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C0758772
 UMLS,C0761756,"LGI1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C0761756
-UMLS,C0764888,Ma1 antigen,https://uts.nlm.nih.gov/uts/umls/concept/C0764888
+UMLS,C0764888,,https://uts.nlm.nih.gov/uts/umls/concept/C0764888
 UMLS,C0766577,adenylate kinase 5,https://uts.nlm.nih.gov/uts/umls/concept/C0766577
 UMLS,C0767862,laminin-6,https://uts.nlm.nih.gov/uts/umls/concept/C0767862
 UMLS,C0814023,Voltage-Gated Potassium Channel,https://uts.nlm.nih.gov/uts/umls/concept/C0814023
@@ -541,6 +553,7 @@ UMLS,C1257727,"DNER protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C12
 UMLS,C1258810,"laminin 11 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1258810
 UMLS,C1259328,"CNTNAP1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1259328
 UMLS,C1259521,"MAP1B protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1259521
+UMLS,C1265234,Nontuberculous Mycobacteria,https://uts.nlm.nih.gov/uts/umls/concept/C1265234
 UMLS,C1306951,"SAE1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1306951
 UMLS,C1306952,"UBA2 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1306952
 UMLS,C1307126,"factor VIII, human",https://uts.nlm.nih.gov/uts/umls/concept/C1307126
@@ -577,10 +590,11 @@ UMLS,C1449429,"HK1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C144
 UMLS,C1450246,"Hspa14 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1450246
 UMLS,C1450445,"DACH1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1450445
 UMLS,C1450468,phosphatidylethanolamine,https://uts.nlm.nih.gov/uts/umls/concept/C1450468
+UMLS,C1451319,NR2B protein (1292-1308),https://uts.nlm.nih.gov/uts/umls/concept/C1451319
 UMLS,C1453440,"TGM3 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1453440
 UMLS,C1453561,"DSC3 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1453561
 UMLS,C1453589,"BPI protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1453589
-UMLS,C1454100,"60S Ribosomal Protein L35a, Human",https://uts.nlm.nih.gov/uts/umls/concept/C1454100
+UMLS,C1454100,"RPL35A protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1454100
 UMLS,C1454484,"VCL protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1454484
 UMLS,C1454489,"MAPT protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1454489
 UMLS,C1455077,"SOX1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C1455077
@@ -694,11 +708,11 @@ UMLS,C3711530,"DRD1 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C37
 UMLS,C3711735,"GRM5 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C3711735
 UMLS,C3711784,"TTN protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C3711784
 UMLS,C3811710,"Kininogen-1, human",https://uts.nlm.nih.gov/uts/umls/concept/C3811710
-UMLS,C3812182,"Collagen Alpha-1(VII) Chain, Human",https://uts.nlm.nih.gov/uts/umls/concept/C3812182
+UMLS,C3812182,,https://uts.nlm.nih.gov/uts/umls/concept/C3812182
 UMLS,C3812252,"MORC Family CW-Type Zinc Finger Protein 3, human",https://uts.nlm.nih.gov/uts/umls/concept/C3812252
 UMLS,C3816733,Neurexin-3,https://uts.nlm.nih.gov/uts/umls/concept/C3816733
-UMLS,C3853694,"Platelet-Derived Growth Factor Receptor Alpha, human",https://uts.nlm.nih.gov/uts/umls/concept/C3853694
-UMLS,C3853695,"Platelet-Derived Growth Factor Receptor Beta, Human",https://uts.nlm.nih.gov/uts/umls/concept/C3853695
+UMLS,C3853694,"PDGFRA protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C3853694
+UMLS,C3853695,,https://uts.nlm.nih.gov/uts/umls/concept/C3853695
 UMLS,C3853729,"Endothelin-1 Receptor, Human",https://uts.nlm.nih.gov/uts/umls/concept/C3853729
 UMLS,C3883793,"IgLON5 protein, human",https://uts.nlm.nih.gov/uts/umls/concept/C3883793
 UMLS,C3887639,Autoimmune gastritis,https://uts.nlm.nih.gov/uts/umls/concept/C3887639
@@ -796,7 +810,7 @@ ORPHA,171,Primary sclerosing cholangitis,https://www.orpha.net/consor/cgi-bin/OC
 ORPHA,182095,Interstitial lung disease,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=182095
 ORPHA,1855,Spondyloenchondrodysplasia,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=1855
 ORPHA,186,Primary biliary cholangitis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=186
-ORPHA,1929,Rasmussen subacute encephalitis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=1929
+ORPHA,1929,Rasmussen syndrome,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=1929
 ORPHA,199241,Pulmonary capillary hemangiomatosis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=199241
 ORPHA,199296,Congenital isolated ACTH deficiency,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=199296
 ORPHA,2032,Idiopathic pulmonary fibrosis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2032
@@ -804,6 +818,7 @@ ORPHA,204,Sporadic Creutzfeldt-Jakob disease,https://www.orpha.net/consor/cgi-bi
 ORPHA,206569,Immune-mediated necrotizing myopathy,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=206569
 ORPHA,206572,Overlap myositis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=206572
 ORPHA,207028,Cerebellar ataxia with peripheral neuropathy,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=207028
+ORPHA,208989,Non-paraneoplastic sensory ganglionopathy,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=208989
 ORPHA,2103,Guillain-Barré syndrome,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2103
 ORPHA,2134,Atypical hemolytic uremic syndrome,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2134
 ORPHA,2137,Autoimmune hepatitis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2137
@@ -815,15 +830,13 @@ ORPHA,228426,Syndromic multisystem autoimmune disease due to Itch deficiency,htt
 ORPHA,2298,Insulin-resistance syndrome type B,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2298
 ORPHA,231111,Drug-induced lupus erythematosus,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=231111
 ORPHA,2331,Kawasaki disease,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2331
-ORPHA,243377,NON RARE IN EUROPE: Diabetes mellitus type 1,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=243377
 ORPHA,247234,Sporadic adult-onset ataxia of unknown etiology,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=247234
 ORPHA,248308,Rare hemorrhagic disorder,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=248308
 ORPHA,254361,Plectin-related limb-girdle muscular dystrophy R17,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=254361
 ORPHA,2573,Moyamoya disease,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2573
 ORPHA,2688,Adult idiopathic neutropenia,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2688
 ORPHA,276058,Genetic neurodegenerative disease with dementia,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=276058
-ORPHA,277,Severe combined immunodeficiency due to adenosine deaminase deficiency,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=277
-ORPHA,284130,NON RARE IN EUROPE: Rheumatoid arthritis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=284130
+ORPHA,277,T-B-NK- severe combined immunodeficiency due to adenosine deaminase deficiency,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=277
 ORPHA,289390,Primary Sjögren disease,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=289390
 ORPHA,2932,Chronic inflammatory demyelinating polyneuropathy,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2932
 ORPHA,3002,Immune thrombocytopenia,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=3002
@@ -870,7 +883,6 @@ ORPHA,525731,Pediatric-onset Graves disease,https://www.orpha.net/consor/cgi-bin
 ORPHA,536,Systemic lupus erythematosus,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=536
 ORPHA,542643,Livedoid vasculopathy,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=542643
 ORPHA,54370,Primary membranoproliferative glomerulonephritis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=54370
-ORPHA,555,NON RARE IN EUROPE: Celiac disease,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=555
 ORPHA,562639,Primary biliary cholangitis/primary sclerosing cholangitis and autoimmune hepatitis overlap syndrome,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=562639
 ORPHA,563576,Autoimmune hepatitis type 1,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=563576
 ORPHA,563581,Autoimmune hepatitis type 2,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=563581
@@ -901,6 +913,7 @@ ORPHA,71211,Neuromyelitis optica spectrum disorder,https://www.orpha.net/consor/
 ORPHA,71275,Rh deficiency syndrome,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=71275
 ORPHA,71505,Cancer-associated retinopathy,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=71505
 ORPHA,732,Polymyositis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=732
+ORPHA,736,Palmoplantar porokeratosis of Mantoux,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=736
 ORPHA,747,Autoimmune pulmonary alveolar proteinosis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=747
 ORPHA,781,Q fever,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=781
 ORPHA,79078,IgG4-related dacryoadenitis and sialadenitis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=79078
@@ -912,17 +925,15 @@ ORPHA,79669,Autoimmune bullous skin disease,https://www.orpha.net/consor/cgi-bin
 ORPHA,797,Sarcoidosis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=797
 ORPHA,80,Antiphospholipid syndrome,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=80
 ORPHA,801,Scleroderma,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=801
-ORPHA,802,NON RARE IN EUROPE: Multiple sclerosis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=802
 ORPHA,809,Mixed connective tissue disease,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=809
 ORPHA,81,Antisynthetase syndrome,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=81
 ORPHA,820,Sneddon syndrome,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=820
-ORPHA,825,NON RARE IN EUROPE: Ankylosing spondylitis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=825
 ORPHA,83467,Morvan syndrome,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=83467
 ORPHA,83597,Acute disseminated encephalomyelitis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=83597
 ORPHA,84142,Isaacs syndrome,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=84142
 ORPHA,85138,Addison disease,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=85138
 ORPHA,85435,Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=85435
-ORPHA,85458,Cerebral Amyloid Angiopathy,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=85458
+ORPHA,85458,Hereditary cerebral amyloid angiopathy,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=85458
 ORPHA,90033,"Autoimmune hemolytic anemia, warm type",https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=90033
 ORPHA,90035,Paroxysmal cold hemoglobinuria,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=90035
 ORPHA,90060,Diffuse alveolar hemorrhage,https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=90060
@@ -972,190 +983,539 @@ ChEBI,CHEBI:78447,alpha-Neu5Ac-(2->8)-alpha-Neu5Ac-(2->3)-beta-Gal-(1->3)-beta-G
 ChEBI,CHEBI:78455,alpha-Neu5Ac-(2->8)-alpha-Neu5Ac-(2->3)-beta-Gal-(1->3)-beta-GalNAc-(1->4)-[alpha-Neu5Ac-(2->8)-alpha-Neu5Ac-(2->3)]-beta-Gal-(1->4)-beta-Glc-(1<->1')-Cer(d18:1)(4-),https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:78455
 ChEBI,CHEBI:84118,ganglioside GM3,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:84118
 ChEBI,CHEBI:87785,beta-Gal-(1->3)-beta-GalNAc-(1->4)-[alpha-Neu5Ac-(2->8)-alpha-Neu5Ac-(2->3)]-beta-Gal-(1->4)-beta-Glc-(1<->1')-Cer(2-),https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:87785
+LOINC,LP100750-1,Ganglioside GD2 Ab,https://loinc.org/LP100750-1
+LOINC,LP101184-2,Intrinsic factor IgG,https://loinc.org/LP101184-2
+LOINC,LP101501-7,Interferon.beta 1a Ab,https://loinc.org/LP101501-7
+LOINC,LP101502-5,Interferon.beta 1b Ab,https://loinc.org/LP101502-5
+LOINC,LP102314-4,PM-SCL-100 IgG,https://loinc.org/LP102314-4
 LOINC,LP102315-1,PM-SCL-100 Ab,https://loinc.org/LP102315-1
 LOINC,LP102618-8,Aquaporin 4 water channel Ab,https://loinc.org/LP102618-8
 LOINC,LP113605-2,Liver kidney microsomal 2 Ab,https://loinc.org/LP113605-2
-LOINC,LP113682-1,DNA double strand Ab.IgM,https://loinc.org/LP113682-1
+LOINC,LP113606-0,Mitochondria M5 Ab,https://loinc.org/LP113606-0
+LOINC,LP113682-1,DNA double strand IgM,https://loinc.org/LP113682-1
 LOINC,LP113966-8,Pituitary Ab,https://loinc.org/LP113966-8
-LOINC,LP113980-9,Muscle specific receptor tyrosine kinase Ab.IgG,https://loinc.org/LP113980-9
+LOINC,LP113980-9,Muscle specific receptor tyrosine kinase IgG,https://loinc.org/LP113980-9
+LOINC,LP119501-7,Ku Ab,https://loinc.org/LP119501-7
+LOINC,LP135474-7,Ribonucleoprotein extractable nuclear 63kD Ab,https://loinc.org/LP135474-7
 LOINC,LP135594-2,Heat shock protein 60 Ab,https://loinc.org/LP135594-2
-LOINC,LP135731-0,Enterocyte Ab.IgG,https://loinc.org/LP135731-0
+LOINC,LP135731-0,Enterocyte IgG,https://loinc.org/LP135731-0
+LOINC,LP135732-8,Enterocyte IgA,https://loinc.org/LP135732-8
+LOINC,LP135734-4,Enterocyte IgM,https://loinc.org/LP135734-4
+LOINC,LP135735-1,Enterocyte Ab,https://loinc.org/LP135735-1
 LOINC,LP139951-0,Ma1 Ab,https://loinc.org/LP139951-0
 LOINC,LP14300-5,C3 nephritic factor,https://loinc.org/LP14300-5
+LOINC,LP145563-5,Neuronal nuclear type 2 IgG,https://loinc.org/LP145563-5
+LOINC,LP145982-7,Islet cell 512 IgG,https://loinc.org/LP145982-7
+LOINC,LP146027-0,Sjogrens syndrome-A extractable nuclear 52kD IgG,https://loinc.org/LP146027-0
+LOINC,LP148130-0,Insulin human IgE,https://loinc.org/LP148130-0
+LOINC,LP157106-8,Amphiphysin IgG,https://loinc.org/LP157106-8
+LOINC,LP157203-3,Th-To IgG,https://loinc.org/LP157203-3
+LOINC,LP157204-1,Th-To Ab,https://loinc.org/LP157204-1
 LOINC,LP157205-8,PM-SCL-75 Ab,https://loinc.org/LP157205-8
+LOINC,LP157206-6,PM-SCL-75 IgG,https://loinc.org/LP157206-6
+LOINC,LP157207-4,Platelet-derived growth factor receptor IgG,https://loinc.org/LP157207-4
 LOINC,LP157208-2,Platelet-derived growth factor receptor Ab,https://loinc.org/LP157208-2
+LOINC,LP157209-0,RNA polymerase III RP155 IgG,https://loinc.org/LP157209-0
+LOINC,LP157210-8,RNA polymerase III RP11 IgG,https://loinc.org/LP157210-8
+LOINC,LP157211-6,RNA polymerase III RP11 Ab,https://loinc.org/LP157211-6
+LOINC,LP157212-4,Centromere protein A IgG,https://loinc.org/LP157212-4
 LOINC,LP157213-2,Centromere protein A Ab,https://loinc.org/LP157213-2
+LOINC,LP157219-9,RNA polymerase III RP155 Ab,https://loinc.org/LP157219-9
+LOINC,LP157235-5,Mitochondria M2-3E IgG,https://loinc.org/LP157235-5
+LOINC,LP157236-3,Mitochondria M2-3E Ab,https://loinc.org/LP157236-3
+LOINC,LP157736-2,CV2 IgG,https://loinc.org/LP157736-2
 LOINC,LP16006-6,Lupus anticoagulant,https://loinc.org/LP16006-6
 LOINC,LP16679-0,Cold agglutinin,https://loinc.org/LP16679-0
 LOINC,LP16738-4,Rheumatoid factor,https://loinc.org/LP16738-4
-LOINC,LP172674-6,Phospholipase A2 receptor Ab.IgG,https://loinc.org/LP172674-6
+LOINC,LP172674-6,Phospholipase A2 receptor IgG,https://loinc.org/LP172674-6
+LOINC,LP172675-3,Phospholipase A2 receptor Ab,https://loinc.org/LP172675-3
 LOINC,LP17724-3,Neutrophil cytoplasmic Ab.classic,https://loinc.org/LP17724-3
 LOINC,LP17725-0,Neutrophil cytoplasmic Ab.perinuclear,https://loinc.org/LP17725-0
 LOINC,LP17850-6,Rheumatoid factor IgM,https://loinc.org/LP17850-6
-LOINC,LP189700-0,Parotid secretory protein Ab.IgM,https://loinc.org/LP189700-0
-LOINC,LP189706-7,Carbonic anhydrase 6 Ab.IgM,https://loinc.org/LP189706-7
-LOINC,LP200571-0,N-methyl-D-aspartate receptor Ab.IgG,https://loinc.org/LP200571-0
+LOINC,LP18261-5,C4 nephritic factor,https://loinc.org/LP18261-5
+LOINC,LP185384-7,Cold agglutinin panel,https://loinc.org/LP185384-7
+LOINC,LP189700-0,Parotid secretory protein IgM,https://loinc.org/LP189700-0
+LOINC,LP189701-8,Parotid secretory protein IgG,https://loinc.org/LP189701-8
+LOINC,LP189702-6,Parotid secretory protein IgA,https://loinc.org/LP189702-6
+LOINC,LP189703-4,Salivary gland protein 1 IgA,https://loinc.org/LP189703-4
+LOINC,LP189704-2,Salivary gland protein 1 IgG,https://loinc.org/LP189704-2
+LOINC,LP189705-9,Salivary gland protein 1 IgM,https://loinc.org/LP189705-9
+LOINC,LP189706-7,Carbonic anhydrase 6 IgM,https://loinc.org/LP189706-7
+LOINC,LP189707-5,Carbonic anhydrase 6 IgG,https://loinc.org/LP189707-5
+LOINC,LP189708-3,Carbonic anhydrase 6 IgA,https://loinc.org/LP189708-3
+LOINC,LP19174-9,Nuclear Ab.histone reactive,https://loinc.org/LP19174-9
+LOINC,LP193952-1,HLA-DR IgG,https://loinc.org/LP193952-1
+LOINC,LP193953-9,HLA-DP IgG,https://loinc.org/LP193953-9
+LOINC,LP193954-7,HLA-C IgG,https://loinc.org/LP193954-7
+LOINC,LP193955-4,HLA-B IgG,https://loinc.org/LP193955-4
+LOINC,LP193956-2,HLA-A IgG,https://loinc.org/LP193956-2
+LOINC,LP193959-6,Zinc transporter 8 Ab,https://loinc.org/LP193959-6
+LOINC,LP193961-2,HLA-DQ IgG,https://loinc.org/LP193961-2
+LOINC,LP199549-9,Soluble liver IgG,https://loinc.org/LP199549-9
+LOINC,LP200571-0,N-methyl-D-aspartate receptor IgG,https://loinc.org/LP200571-0
 LOINC,LP200572-8,N-methyl-D-aspartate receptor Ab,https://loinc.org/LP200572-8
-LOINC,LP201204-7,RNA polymerase III Ab.IgG,https://loinc.org/LP201204-7
+LOINC,LP201204-7,RNA polymerase III IgG,https://loinc.org/LP201204-7
 LOINC,LP20752-9,Nuclear Ab,https://loinc.org/LP20752-9
 LOINC,LP208568-8,Carbonic anhydrase 2 Ab,https://loinc.org/LP208568-8
 LOINC,LP21197-6,Phospholipid Ab,https://loinc.org/LP21197-6
 LOINC,LP21200-8,Direct antiglobulin test,https://loinc.org/LP21200-8
 LOINC,LP21333-7,Cardiolipin Ab,https://loinc.org/LP21333-7
-LOINC,LP220339-8,Nuclear Ab.IgG pattern.multiple nuclear dots,https://loinc.org/LP220339-8
+LOINC,LP213587-1,U1 small nuclear ribonucleoprotein 70kD IgG,https://loinc.org/LP213587-1
+LOINC,LP220339-8,Multiple nuclear dots nuclear IgG pattern,https://loinc.org/LP220339-8
+LOINC,LP220356-2,Ha Ab,https://loinc.org/LP220356-2
+LOINC,LP220357-0,Ks Ab,https://loinc.org/LP220357-0
+LOINC,LP220360-4,Zo Ab,https://loinc.org/LP220360-4
+LOINC,LP220362-0,Mj Ab,https://loinc.org/LP220362-0
 LOINC,LP220363-8,3-Hydroxy-3-Methylglutaryl-coenzyme A reductase Ab,https://loinc.org/LP220363-8
 LOINC,LP220368-7,SUMO-activating enzyme subunit 1 Ab,https://loinc.org/LP220368-7
 LOINC,LP220369-5,SUMO-activating enzyme subunit 2 Ab,https://loinc.org/LP220369-5
 LOINC,LP220404-0,MDA5 Ab,https://loinc.org/LP220404-0
 LOINC,LP220408-1,Titin Ab,https://loinc.org/LP220408-1
+LOINC,LP220414-9,TIF1-gamma Ab,https://loinc.org/LP220414-9
+LOINC,LP222087-1,Gliadin IgE,https://loinc.org/LP222087-1
 LOINC,LP222122-6,Dopamine receptor D1 Ab,https://loinc.org/LP222122-6
+LOINC,LP222123-4,Dopamine receptor D2 Ab,https://loinc.org/LP222123-4
+LOINC,LP222253-9,Titin IgG,https://loinc.org/LP222253-9
 LOINC,LP228216-0,Cyclic citrullinated peptide Ab.IgA,https://loinc.org/LP228216-0
 LOINC,LP228217-8,Cyclic citrullinated peptide Ab.IgA+IgG,https://loinc.org/LP228217-8
+LOINC,LP228504-9,Ganglioside GD1a Ab.IgG+IgM,https://loinc.org/LP228504-9
+LOINC,LP228505-6,Ganglioside GD1b Ab.IgG+IgM,https://loinc.org/LP228505-6
+LOINC,LP228506-4,Ganglioside GD2 Ab.IgG+IgM,https://loinc.org/LP228506-4
+LOINC,LP228507-2,Ganglioside GD3 Ab.IgG+IgM,https://loinc.org/LP228507-2
+LOINC,LP228508-0,Ganglioside GM2 Ab.IgG+IgM,https://loinc.org/LP228508-0
+LOINC,LP228509-8,Ganglioside GM3 Ab.IgG+IgM,https://loinc.org/LP228509-8
+LOINC,LP228510-6,Ganglioside GM4 Ab.IgG+IgM,https://loinc.org/LP228510-6
+LOINC,LP228511-4,Ganglioside GQ1b Ab.IgG+IgM,https://loinc.org/LP228511-4
+LOINC,LP228512-2,Ganglioside GT1a Ab.IgG+IgM,https://loinc.org/LP228512-2
+LOINC,LP228513-0,Ganglioside GT1b Ab.IgG+IgM,https://loinc.org/LP228513-0
+LOINC,LP229184-9,Pancreatic islet cell Ab pattern,https://loinc.org/LP229184-9
 LOINC,LP230192-9,Glutamate decarboxylase Ab,https://loinc.org/LP230192-9
+LOINC,LP230274-5,3-Hydroxy-3-Methylglutaryl-coenzyme A reductase IgG,https://loinc.org/LP230274-5
+LOINC,LP230275-2,SUMO-activating enzyme subunit 1 IgG,https://loinc.org/LP230275-2
+LOINC,LP230276-0,Mj IgG,https://loinc.org/LP230276-0
 LOINC,LP230324-8,Mi-2 beta Ab,https://loinc.org/LP230324-8
+LOINC,LP230325-5,Mi-2 beta IgG,https://loinc.org/LP230325-5
 LOINC,LP230327-1,Mi-2 alpha Ab,https://loinc.org/LP230327-1
-LOINC,LP230510-2,Glutamate decarboxylase 65 Ab.IgG,https://loinc.org/LP230510-2
-LOINC,LP230511-0,MDA5 Ab.IgG,https://loinc.org/LP230511-0
+LOINC,LP230328-9,Mi-2 alpha IgG,https://loinc.org/LP230328-9
+LOINC,LP230510-2,Glutamate decarboxylase 65 IgG,https://loinc.org/LP230510-2
+LOINC,LP230511-0,MDA5 IgG,https://loinc.org/LP230511-0
+LOINC,LP230512-8,TIF1-gamma IgG,https://loinc.org/LP230512-8
 LOINC,LP231891-5,Myelin oligodendrocyte glycoprotein Ab,https://loinc.org/LP231891-5
-LOINC,LP231892-3,Myelin oligodendrocyte glycoprotein Ab.IgG,https://loinc.org/LP231892-3
-LOINC,LP232476-4,Liver cytosol Ab.IgG,https://loinc.org/LP232476-4
-LOINC,LP247735-6,Mitochondria Ab.IgG,https://loinc.org/LP247735-6
+LOINC,LP231892-3,Myelin oligodendrocyte glycoprotein IgG,https://loinc.org/LP231892-3
+LOINC,LP232459-0,Glial nuclear type 1 IgG,https://loinc.org/LP232459-0
+LOINC,LP232460-8,Dipeptidyl aminopeptidase-like protein 6,https://loinc.org/LP232460-8
+LOINC,LP232461-6,Dipeptidyl aminopeptidase-like protein 6 IgG,https://loinc.org/LP232461-6
+LOINC,LP232465-7,Contactin-associated protein 2 Ab,https://loinc.org/LP232465-7
+LOINC,LP232467-3,Leucine-rich glioma-inactivated protein 1 Ab,https://loinc.org/LP232467-3
+LOINC,LP232471-5,Smith extractable nuclear D IgG,https://loinc.org/LP232471-5
+LOINC,LP232472-3,Signal recognition particle IgG,https://loinc.org/LP232472-3
+LOINC,LP232473-1,Nuclear pore protein gp210 IgG,https://loinc.org/LP232473-1
+LOINC,LP232474-9,PL-7 IgG,https://loinc.org/LP232474-9
+LOINC,LP232476-4,Liver cytosol IgG,https://loinc.org/LP232476-4
+LOINC,LP232477-2,Ku IgG,https://loinc.org/LP232477-2
+LOINC,LP232481-4,Neutrophil membrane IgM,https://loinc.org/LP232481-4
+LOINC,LP232482-2,Neutrophil membrane.IgG,https://loinc.org/LP232482-2
+LOINC,LP241877-2,NMDAR subunit 1 Ab,https://loinc.org/LP241877-2
+LOINC,LP241878-0,AMPAR 1 Ab,https://loinc.org/LP241878-0
+LOINC,LP241879-8,sp100 IgG,https://loinc.org/LP241879-8
+LOINC,LP247731-5,Centromere protein B IgG,https://loinc.org/LP247731-5
+LOINC,LP247732-3,Fibrillarin IgG,https://loinc.org/LP247732-3
+LOINC,LP247734-9,PCNA extractable nuclear IgG,https://loinc.org/LP247734-9
+LOINC,LP247735-6,Mitochondria IgG,https://loinc.org/LP247735-6
+LOINC,LP247737-2,Dopamine receptor D1 IgG,https://loinc.org/LP247737-2
+LOINC,LP247738-0,Dopamine receptor D2 long IgG,https://loinc.org/LP247738-0
 LOINC,LP266571-1,p53 Ab,https://loinc.org/LP266571-1
-LOINC,LP268267-4,Myelin oligodendrocyte glycoprotein Ab.IgG1,https://loinc.org/LP268267-4
+LOINC,LP268267-4,MOG Ab.IgG1,https://loinc.org/LP268267-4
+LOINC,LP286073-4,Ganglioside GD1a Ab.IgG/Ganglioside GD1a Ab.IgM,https://loinc.org/LP286073-4
+LOINC,LP286074-2,Ganglioside GD1b Ab.IgG/Ganglioside GD1b Ab.IgM,https://loinc.org/LP286074-2
+LOINC,LP286075-9,Ganglioside GM1 Ab.IgG/Ganglioside GM1 Ab.IgM,https://loinc.org/LP286075-9
+LOINC,LP286076-7,Ganglioside GM2 Ab.IgG/Ganglioside GM2 Ab.IgM,https://loinc.org/LP286076-7
+LOINC,LP286077-5,Ganglioside GQ1b Ab.IgG/Ganglioside GQ1b Ab.IgM,https://loinc.org/LP286077-5
+LOINC,LP286990-9,Ribosomal P protein Ab,https://loinc.org/LP286990-9
 LOINC,LP28760-4,Platelet Ab,https://loinc.org/LP28760-4
+LOINC,LP29187-9,Neutrophil cytoplasmic Ab.classic.atypical,https://loinc.org/LP29187-9
+LOINC,LP309826-8,Acetylcholine receptor blocking Ab/Acetylcholine Ab.total,https://loinc.org/LP309826-8
+LOINC,LP309827-6,Acetylcholine receptor modulation Ab/Acetylcholine,https://loinc.org/LP309827-6
+LOINC,LP309839-1,Platelet associated Ab.IgG/Platelet associated Ab.IgM,https://loinc.org/LP309839-1
 LOINC,LP31536-3,Rheumatoid factor IgA,https://loinc.org/LP31536-3
 LOINC,LP31537-1,Rheumatoid factor IgG,https://loinc.org/LP31537-1
+LOINC,LP31972-0,Acetylcholine Ab.total,https://loinc.org/LP31972-0
 LOINC,LP34191-4,Neutrophil cytoplasmic Ab.atypical,https://loinc.org/LP34191-4
 LOINC,LP36918-8,21-hydroxylase Ab,https://loinc.org/LP36918-8
 LOINC,LP36947-7,Acetylcholine receptor Ab,https://loinc.org/LP36947-7
+LOINC,LP36948-5,Acetylcholine receptor binding Ab,https://loinc.org/LP36948-5
+LOINC,LP36949-3,Acetylcholine receptor blocking Ab,https://loinc.org/LP36949-3
+LOINC,LP36950-1,Acetylcholine receptor ganglionic neuronal Ab,https://loinc.org/LP36950-1
+LOINC,LP36951-9,Acetylcholine receptor modulation Ab,https://loinc.org/LP36951-9
+LOINC,LP36962-6,Actin smooth muscle IgG,https://loinc.org/LP36962-6
+LOINC,LP36963-4,Actin smooth muscle Ab,https://loinc.org/LP36963-4
 LOINC,LP37039-2,Amphiphysin Ab,https://loinc.org/LP37039-2
+LOINC,LP37065-7,Annexin V IgG,https://loinc.org/LP37065-7
+LOINC,LP37066-5,Annexin V Ab,https://loinc.org/LP37066-5
+LOINC,LP37067-3,Annexin V IgM,https://loinc.org/LP37067-3
+LOINC,LP37206-7,Bactericidal Permeability-Increasing Protein IgG,https://loinc.org/LP37206-7
 LOINC,LP37207-5,Bactericidal permeability increasing protein Ab,https://loinc.org/LP37207-5
+LOINC,LP37238-0,Basement membrane zone BP180 Ab,https://loinc.org/LP37238-0
 LOINC,LP37264-6,Beta 2 glycoprotein 1 Ab,https://loinc.org/LP37264-6
-LOINC,LP37265-3,Beta 2 glycoprotein 1 Ab.IgA,https://loinc.org/LP37265-3
-LOINC,LP37266-1,Beta 2 glycoprotein 1 Ab.IgG,https://loinc.org/LP37266-1
-LOINC,LP37267-9,Beta 2 glycoprotein 1 Ab.IgM,https://loinc.org/LP37267-9
-LOINC,LP37536-7,Cardiolipin Ab.IgA,https://loinc.org/LP37536-7
-LOINC,LP37537-5,Cardiolipin Ab.IgG,https://loinc.org/LP37537-5
-LOINC,LP37538-3,Cardiolipin Ab.IgM,https://loinc.org/LP37538-3
+LOINC,LP37265-3,Beta 2 glycoprotein 1 IgA,https://loinc.org/LP37265-3
+LOINC,LP37266-1,Beta 2 glycoprotein 1 IgG,https://loinc.org/LP37266-1
+LOINC,LP37267-9,Beta 2 glycoprotein 1 IgM,https://loinc.org/LP37267-9
+LOINC,LP37536-7,Cardiolipin IgA,https://loinc.org/LP37536-7
+LOINC,LP37537-5,Cardiolipin IgG,https://loinc.org/LP37537-5
+LOINC,LP37538-3,Cardiolipin IgM,https://loinc.org/LP37538-3
 LOINC,LP37577-1,Centromere Ab,https://loinc.org/LP37577-1
-LOINC,LP37578-9,Centromere Ab.IgG,https://loinc.org/LP37578-9
+LOINC,LP37578-9,Centromere IgG,https://loinc.org/LP37578-9
 LOINC,LP37725-6,Coagulation factor VIII Ab,https://loinc.org/LP37725-6
+LOINC,LP37774-4,Complement C1q Ab,https://loinc.org/LP37774-4
+LOINC,LP37857-7,CV2 Ab,https://loinc.org/LP37857-7
 LOINC,LP37859-3,Cyclic citrullinated peptide Ab,https://loinc.org/LP37859-3
-LOINC,LP37860-1,Cyclic citrullinated peptide Ab.IgG,https://loinc.org/LP37860-1
+LOINC,LP37860-1,Cyclic citrullinated peptide IgG,https://loinc.org/LP37860-1
 LOINC,LP37925-2,Desmoglein 1 Ab,https://loinc.org/LP37925-2
 LOINC,LP37926-0,Desmoglein 3 Ab,https://loinc.org/LP37926-0
 LOINC,LP37936-9,DNA double strand Ab,https://loinc.org/LP37936-9
-LOINC,LP37937-7,DNA double strand Ab.IgG,https://loinc.org/LP37937-7
+LOINC,LP37937-7,DNA double strand IgG,https://loinc.org/LP37937-7
 LOINC,LP37949-2,Donath Landsteiner Ab,https://loinc.org/LP37949-2
+LOINC,LP38019-3,Ej Ab,https://loinc.org/LP38019-3
+LOINC,LP38025-0,Endomysium Ab,https://loinc.org/LP38025-0
+LOINC,LP38026-8,Endomysium IgA,https://loinc.org/LP38026-8
+LOINC,LP38027-6,Endomysium IgG,https://loinc.org/LP38027-6
 LOINC,LP38097-9,Erythrocyte Ab,https://loinc.org/LP38097-9
 LOINC,LP38121-7,Extractable nuclear Ab,https://loinc.org/LP38121-7
+LOINC,LP38219-9,Ganglioside GD1a Ab,https://loinc.org/LP38219-9
+LOINC,LP38220-7,Ganglioside GD1a IgG,https://loinc.org/LP38220-7
+LOINC,LP38221-5,Ganglioside GD1a IgM,https://loinc.org/LP38221-5
+LOINC,LP38222-3,Ganglioside GD1b Ab,https://loinc.org/LP38222-3
+LOINC,LP38223-1,Ganglioside GD1b IgG,https://loinc.org/LP38223-1
+LOINC,LP38224-9,Ganglioside GD1b IgM,https://loinc.org/LP38224-9
+LOINC,LP38225-6,Ganglioside GM1 IgG,https://loinc.org/LP38225-6
+LOINC,LP38226-4,Ganglioside GM1 Ab,https://loinc.org/LP38226-4
+LOINC,LP38227-2,Ganglioside GM1 IgM,https://loinc.org/LP38227-2
+LOINC,LP38228-0,Ganglioside GM1b IgG,https://loinc.org/LP38228-0
+LOINC,LP38229-8,Ganglioside GM1b Ab,https://loinc.org/LP38229-8
+LOINC,LP38230-6,Ganglioside GM1b IgM,https://loinc.org/LP38230-6
+LOINC,LP38231-4,Ganglioside GQ1b Ab,https://loinc.org/LP38231-4
 LOINC,LP38243-9,Gliadin Ab,https://loinc.org/LP38243-9
-LOINC,LP38248-8,Glomerular basement membrane Ab.IgG,https://loinc.org/LP38248-8
+LOINC,LP38244-7,Gliadin IgA,https://loinc.org/LP38244-7
+LOINC,LP38245-4,Gliadin IgG,https://loinc.org/LP38245-4
+LOINC,LP38246-2,Gliadin IgM,https://loinc.org/LP38246-2
+LOINC,LP38248-8,Glomerular basement membrane IgG,https://loinc.org/LP38248-8
 LOINC,LP38249-6,Glomerular basement membrane Ab,https://loinc.org/LP38249-6
 LOINC,LP38251-2,Glutamate decarboxylase 65 Ab,https://loinc.org/LP38251-2
 LOINC,LP38402-1,Histone Ab,https://loinc.org/LP38402-1
+LOINC,LP38403-9,Histone IgG,https://loinc.org/LP38403-9
 LOINC,LP38697-6,Insulin Ab,https://loinc.org/LP38697-6
+LOINC,LP38700-8,Insulin human Ab,https://loinc.org/LP38700-8
 LOINC,LP38702-4,Insulin receptor Ab,https://loinc.org/LP38702-4
 LOINC,LP38708-1,Interferon beta Ab,https://loinc.org/LP38708-1
+LOINC,LP38709-9,Interferon beta IgG,https://loinc.org/LP38709-9
+LOINC,LP38710-7,Interferon.beta 1 Ab,https://loinc.org/LP38710-7
 LOINC,LP38711-5,Intrinsic factor Ab,https://loinc.org/LP38711-5
+LOINC,LP38717-2,Islet cell 512 Ab,https://loinc.org/LP38717-2
+LOINC,LP38741-2,Jo-1 extractable nuclear Ab,https://loinc.org/LP38741-2
+LOINC,LP38742-0,Jo-1 extractable nuclear IgG,https://loinc.org/LP38742-0
 LOINC,LP38765-1,Ku Ab,https://loinc.org/LP38765-1
 LOINC,LP38957-4,Liver cytosol Ab,https://loinc.org/LP38957-4
 LOINC,LP38958-2,Liver kidney microsomal Ab,https://loinc.org/LP38958-2
 LOINC,LP38959-0,Liver kidney microsomal 1 Ab,https://loinc.org/LP38959-0
-LOINC,LP38960-8,Liver kidney microsomal 1 Ab.IgG,https://loinc.org/LP38960-8
+LOINC,LP38960-8,Liver Kidney Microsomal 1 IgG,https://loinc.org/LP38960-8
 LOINC,LP39015-0,Mi-2 Ab,https://loinc.org/LP39015-0
 LOINC,LP39022-6,Mitochondria Ab,https://loinc.org/LP39022-6
 LOINC,LP39023-4,Mitochondria M2 Ab,https://loinc.org/LP39023-4
-LOINC,LP39024-2,Mitochondria M2 Ab.IgG,https://loinc.org/LP39024-2
+LOINC,LP39024-2,Mitochondria M2 IgG,https://loinc.org/LP39024-2
+LOINC,LP39025-9,Mitochondria M4 Ab,https://loinc.org/LP39025-9
+LOINC,LP39026-7,Mitochondria M9 Ab,https://loinc.org/LP39026-7
+LOINC,LP39036-6,Ganglioside GM1 IgA,https://loinc.org/LP39036-6
 LOINC,LP39057-2,Muscle specific receptor tyrosine kinase Ab,https://loinc.org/LP39057-2
 LOINC,LP39124-0,Myelin associated glycoprotein Ab,https://loinc.org/LP39124-0
-LOINC,LP39126-5,Myelin associated glycoprotein Ab.IgG,https://loinc.org/LP39126-5
-LOINC,LP39127-3,Myelin associated glycoprotein Ab.IgM,https://loinc.org/LP39127-3
+LOINC,LP39126-5,Myelin associated glycoprotein IgG,https://loinc.org/LP39126-5
+LOINC,LP39127-3,Myelin associated glycoprotein IgM,https://loinc.org/LP39127-3
 LOINC,LP39135-6,Myeloperoxidase Ab,https://loinc.org/LP39135-6
 LOINC,LP39136-4,Myocardium Ab,https://loinc.org/LP39136-4
-LOINC,LP39188-5,Aquaporin 4 water channel Ab.IgG,https://loinc.org/LP39188-5
+LOINC,LP39188-5,Aquaporin 4 water channel IgG,https://loinc.org/LP39188-5
 LOINC,LP39190-1,Neuronal Ab,https://loinc.org/LP39190-1
+LOINC,LP39191-9,Neuronal Ab IgG,https://loinc.org/LP39191-9
+LOINC,LP39192-7,Neuronal nuclear Ab,https://loinc.org/LP39192-7
+LOINC,LP39193-5,Neuronal Nuclear IgG,https://loinc.org/LP39193-5
+LOINC,LP39194-3,Neuronal nuclear type 1 Ab,https://loinc.org/LP39194-3
+LOINC,LP39195-0,Neuronal nuclear type 2 Ab,https://loinc.org/LP39195-0
 LOINC,LP39196-8,Neuronal nuclear type 3 Ab,https://loinc.org/LP39196-8
 LOINC,LP39197-6,Neutrophil Ab,https://loinc.org/LP39197-6
-LOINC,LP39198-4,Neutrophil Ab.IgA,https://loinc.org/LP39198-4
-LOINC,LP39199-2,Neutrophil Ab.IgG,https://loinc.org/LP39199-2
-LOINC,LP39200-8,Neutrophil Ab.IgM,https://loinc.org/LP39200-8
+LOINC,LP39198-4,Neutrophil IgA,https://loinc.org/LP39198-4
+LOINC,LP39199-2,Neutrophil IgG,https://loinc.org/LP39199-2
+LOINC,LP39200-8,Neutrophil IgM,https://loinc.org/LP39200-8
+LOINC,LP39201-6,Neutrophil associated Ab,https://loinc.org/LP39201-6
 LOINC,LP39202-4,Neutrophil cytoplasmic Ab,https://loinc.org/LP39202-4
-LOINC,LP39203-2,Neutrophil cytoplasmic Ab.IgA,https://loinc.org/LP39203-2
-LOINC,LP39204-0,Neutrophil cytoplasmic Ab.IgG,https://loinc.org/LP39204-0
-LOINC,LP39205-7,Neutrophil cytoplasmic Ab.IgM,https://loinc.org/LP39205-7
-LOINC,LP39214-9,Nuclear Ab.IgG,https://loinc.org/LP39214-9
-LOINC,LP39265-1,Pancreatic islet Ab,https://loinc.org/LP39265-1
+LOINC,LP39203-2,Neutrophil Cytoplasmic IgA,https://loinc.org/LP39203-2
+LOINC,LP39204-0,Neutrophil cytoplasmic IgG,https://loinc.org/LP39204-0
+LOINC,LP39205-7,Neutrophil Cytoplasmic IgM,https://loinc.org/LP39205-7
+LOINC,LP39214-9,Nuclear IgG,https://loinc.org/LP39214-9
+LOINC,LP39215-6,Nuclear mitotic apparatus Ab,https://loinc.org/LP39215-6
+LOINC,LP39216-4,Mitotic spindle apparatus Ab,https://loinc.org/LP39216-4
+LOINC,LP39224-8,OJ Ab,https://loinc.org/LP39224-8
+LOINC,LP39265-1,Pancreatic islet cell Ab,https://loinc.org/LP39265-1
+LOINC,LP39266-9,Pancreatic Islet Cell IgG,https://loinc.org/LP39266-9
 LOINC,LP39306-3,Parietal cell Ab,https://loinc.org/LP39306-3
-LOINC,LP39384-0,Phospholipid Ab.IgA,https://loinc.org/LP39384-0
-LOINC,LP39385-7,Phospholipid Ab.IgG,https://loinc.org/LP39385-7
-LOINC,LP39386-5,Phospholipid Ab.IgM,https://loinc.org/LP39386-5
-LOINC,LP39428-5,Platelet Ab.IgA,https://loinc.org/LP39428-5
-LOINC,LP39429-3,Platelet Ab.IgG,https://loinc.org/LP39429-3
-LOINC,LP39430-1,Platelet Ab.IgM,https://loinc.org/LP39430-1
+LOINC,LP39307-1,Parietal Cell IgG,https://loinc.org/LP39307-1
+LOINC,LP39321-2,PCNA extractable nuclear Ab,https://loinc.org/LP39321-2
+LOINC,LP39360-0,Phosphatidate Ab,https://loinc.org/LP39360-0
+LOINC,LP39365-9,Phosphatidylcholine IgA,https://loinc.org/LP39365-9
+LOINC,LP39366-7,Phosphatidylcholine IgG,https://loinc.org/LP39366-7
+LOINC,LP39367-5,Phosphatidylcholine IgM,https://loinc.org/LP39367-5
+LOINC,LP39372-5,Phosphatidylglycerol IgA,https://loinc.org/LP39372-5
+LOINC,LP39373-3,Phosphatidylglycerol Ab,https://loinc.org/LP39373-3
+LOINC,LP39374-1,Phosphatidylglycerol IgG,https://loinc.org/LP39374-1
+LOINC,LP39375-8,Phosphatidylglycerol IgM,https://loinc.org/LP39375-8
+LOINC,LP39376-6,Phosphatidylinositol Ab,https://loinc.org/LP39376-6
+LOINC,LP39377-4,Phosphatidylinositol IgA,https://loinc.org/LP39377-4
+LOINC,LP39378-2,Phosphatidylinositol IgG,https://loinc.org/LP39378-2
+LOINC,LP39379-0,Phosphatidylinositol IgM,https://loinc.org/LP39379-0
+LOINC,LP39380-8,Phosphatidylserine Ab,https://loinc.org/LP39380-8
+LOINC,LP39381-6,Phosphatidylserine IgA,https://loinc.org/LP39381-6
+LOINC,LP39382-4,Phosphatidylserine IgG,https://loinc.org/LP39382-4
+LOINC,LP39383-2,Phosphatidylserine IgM,https://loinc.org/LP39383-2
+LOINC,LP39384-0,Phospholipid IgA,https://loinc.org/LP39384-0
+LOINC,LP39385-7,Phospholipid IgG,https://loinc.org/LP39385-7
+LOINC,LP39386-5,Phospholipid IgM,https://loinc.org/LP39386-5
+LOINC,LP39400-4,PL-12 Ab,https://loinc.org/LP39400-4
+LOINC,LP39401-2,PL-7 Ab,https://loinc.org/LP39401-2
+LOINC,LP39428-5,Platelet IgA,https://loinc.org/LP39428-5
+LOINC,LP39429-3,Platelet IgG,https://loinc.org/LP39429-3
+LOINC,LP39430-1,Platelet IgM,https://loinc.org/LP39430-1
+LOINC,LP39431-9,Platelet associated Ab,https://loinc.org/LP39431-9
+LOINC,LP39432-7,Platelet Associated IgA,https://loinc.org/LP39432-7
+LOINC,LP39433-5,Platelet Associated IgG,https://loinc.org/LP39433-5
+LOINC,LP39434-3,Platelet Associated IgM,https://loinc.org/LP39434-3
+LOINC,LP39438-4,PM-SCL extractable nuclear Ab,https://loinc.org/LP39438-4
 LOINC,LP39491-3,Proteinase 3 Ab,https://loinc.org/LP39491-3
 LOINC,LP39493-9,Prothrombin Ab,https://loinc.org/LP39493-9
 LOINC,LP39494-7,Prothrombin IgG,https://loinc.org/LP39494-7
 LOINC,LP39495-4,Prothrombin IgM,https://loinc.org/LP39495-4
 LOINC,LP39554-8,Reticulin Ab,https://loinc.org/LP39554-8
+LOINC,LP39555-5,Reticulin IgA,https://loinc.org/LP39555-5
+LOINC,LP39556-3,Reticulin IgG,https://loinc.org/LP39556-3
+LOINC,LP39559-7,Rheumatoid arthritis nuclear Ab,https://loinc.org/LP39559-7
+LOINC,LP39569-6,Ribonucleoprotein extractable nuclear Ab,https://loinc.org/LP39569-6
+LOINC,LP39570-4,Ribonucleoprotein extractable nuclear IgG,https://loinc.org/LP39570-4
+LOINC,LP39572-0,Ribosomal P Ab,https://loinc.org/LP39572-0
+LOINC,LP39574-6,Ribosomal P IgG,https://loinc.org/LP39574-6
+LOINC,LP39619-9,RNA polymerase I+II+III Ab,https://loinc.org/LP39619-9
+LOINC,LP39660-3,Salivary gland Ab,https://loinc.org/LP39660-3
+LOINC,LP39661-1,Salivary Gland IgA,https://loinc.org/LP39661-1
 LOINC,LP39721-3,SCL-70 extractable nuclear Ab,https://loinc.org/LP39721-3
-LOINC,LP39722-1,SCL-70 extractable nuclear Ab.IgG,https://loinc.org/LP39722-1
+LOINC,LP39722-1,SCL-70 extractable nuclear IgG,https://loinc.org/LP39722-1
+LOINC,LP39740-3,Ganglioside GQ1a IgM,https://loinc.org/LP39740-3
+LOINC,LP39741-1,Ganglioside GQ1a Ab,https://loinc.org/LP39741-1
 LOINC,LP39745-2,Signal recognition particle Ab,https://loinc.org/LP39745-2
+LOINC,LP39751-0,Sjogrens syndrome-A extractable nuclear Ab,https://loinc.org/LP39751-0
+LOINC,LP39752-8,Sjogrens syndrome-A extractable Nuclear IgG,https://loinc.org/LP39752-8
+LOINC,LP39753-6,Sjogrens syndrome-A extractable nuclear Ab+Sjogrens syndrome-B extractable nuclear Ab,https://loinc.org/LP39753-6
 LOINC,LP39754-4,Sjogrens syndrome-B extractable nuclear Ab,https://loinc.org/LP39754-4
-LOINC,LP39755-1,Sjogrens syndrome-B extractable nuclear Ab.IgG,https://loinc.org/LP39755-1
+LOINC,LP39755-1,Sjogrens syndrome-B extractable nuclear IgG,https://loinc.org/LP39755-1
 LOINC,LP39757-7,Smith extractable nuclear Ab,https://loinc.org/LP39757-7
-LOINC,LP39758-5,Smith extractable nuclear Ab.IgG,https://loinc.org/LP39758-5
+LOINC,LP39758-5,Smith extractable nuclear IgG,https://loinc.org/LP39758-5
+LOINC,LP39759-3,Smith extractable nuclear Ab+Ribonucleoprotein extractable nuclear Ab,https://loinc.org/LP39759-3
+LOINC,LP39760-1,Smith extractable nuclear Ab+Ribonucleoprotein extractable nuclear IgG,https://loinc.org/LP39760-1
 LOINC,LP39761-9,Smooth muscle Ab,https://loinc.org/LP39761-9
-LOINC,LP39762-7,Smooth muscle Ab.IgG,https://loinc.org/LP39762-7
+LOINC,LP39762-7,Smooth muscle IgG,https://loinc.org/LP39762-7
 LOINC,LP39782-5,Spermatozoa Ab,https://loinc.org/LP39782-5
+LOINC,LP39783-3,Spermatozoa IgALP,https://loinc.org/LP39783-3
+LOINC,LP39784-1,Spermatozoa IgGLP,https://loinc.org/LP39784-1
+LOINC,LP39785-8,Spermatozoa IgMLP,https://loinc.org/LP39785-8
+LOINC,LP39786-6,Sperm Head IgA,https://loinc.org/LP39786-6
+LOINC,LP39787-4,Sperm Head Ab,https://loinc.org/LP39787-4
+LOINC,LP39788-2,Sperm Head IgG,https://loinc.org/LP39788-2
+LOINC,LP39789-0,Sperm Head IgM,https://loinc.org/LP39789-0
+LOINC,LP39790-8,Sperm Midpiece IgA,https://loinc.org/LP39790-8
+LOINC,LP39791-6,Sperm Midpiece Ab,https://loinc.org/LP39791-6
+LOINC,LP39792-4,Sperm Midpiece IgG,https://loinc.org/LP39792-4
+LOINC,LP39793-2,Sperm Midpiece IgM,https://loinc.org/LP39793-2
+LOINC,LP39794-0,Sperm Tail IgA,https://loinc.org/LP39794-0
+LOINC,LP39795-7,Sperm Tail Ab,https://loinc.org/LP39795-7
+LOINC,LP39796-5,Sperm Tail IgG,https://loinc.org/LP39796-5
+LOINC,LP39797-3,Sperm Tail IgM,https://loinc.org/LP39797-3
+LOINC,LP39798-1,Sperm Tail Tip IgA,https://loinc.org/LP39798-1
+LOINC,LP39799-9,Sperm Tail Tip Ab,https://loinc.org/LP39799-9
+LOINC,LP39800-5,Sperm Tail Tip IgG,https://loinc.org/LP39800-5
+LOINC,LP39801-3,Sperm Tail Tip IgM,https://loinc.org/LP39801-3
 LOINC,LP39933-4,Sulfatide Ab,https://loinc.org/LP39933-4
+LOINC,LP39934-2,Sulfatide IgG,https://loinc.org/LP39934-2
+LOINC,LP39935-9,Sulfatide IgG,https://loinc.org/LP39935-9
 LOINC,LP39996-1,Thyroglobulin Ab,https://loinc.org/LP39996-1
-LOINC,LP39997-9,Thyroglobulin Ab.IgM,https://loinc.org/LP39997-9
+LOINC,LP39997-9,Thyroglobulin IgM,https://loinc.org/LP39997-9
+LOINC,LP39999-5,Thyroid colloidal Ab,https://loinc.org/LP39999-5
 LOINC,LP40001-7,Thyroperoxidase Ab,https://loinc.org/LP40001-7
-LOINC,LP40002-5,Thyroperoxidase Ab.IgG,https://loinc.org/LP40002-5
-LOINC,LP40003-3,Thyroperoxidase Ab.IgM,https://loinc.org/LP40003-3
+LOINC,LP40002-5,Thyroperoxidase IgG,https://loinc.org/LP40002-5
+LOINC,LP40003-3,Thyroperoxidase IgM,https://loinc.org/LP40003-3
+LOINC,LP40004-1,Thyrotropin Ab,https://loinc.org/LP40004-1
+LOINC,LP40007-4,Thyrotropin receptor Ab,https://loinc.org/LP40007-4
+LOINC,LP40011-6,Tissue Transglutaminase IgA,https://loinc.org/LP40011-6
 LOINC,LP40012-4,Tissue transglutaminase Ab,https://loinc.org/LP40012-4
+LOINC,LP40013-2,Tissue Transglutaminase IgG,https://loinc.org/LP40013-2
+LOINC,LP40014-0,Tissue Transglutaminase IgM,https://loinc.org/LP40014-0
+LOINC,LP40089-2,U1 Small Nuclear Ribonucleoprotein IgG,https://loinc.org/LP40089-2
 LOINC,LP40090-0,U1 small nuclear ribonucleoprotein Ab,https://loinc.org/LP40090-0
+LOINC,LP40091-8,U2 Small Nuclear Ribonucleoprotein IgG,https://loinc.org/LP40091-8
 LOINC,LP40092-6,U2 small nuclear ribonucleoprotein Ab,https://loinc.org/LP40092-6
+LOINC,LP40097-5,Unidentified extractable nuclear Ab,https://loinc.org/LP40097-5
 LOINC,LP40151-0,Voltage-gated calcium channel Ab,https://loinc.org/LP40151-0
-LOINC,LP40152-8,Voltage-gated calcium channel Ab.IgG,https://loinc.org/LP40152-8
+LOINC,LP40152-8,Voltage-gated calcium channel IgG,https://loinc.org/LP40152-8
+LOINC,LP40153-6,Voltage-gated calcium channel N type binding Ab,https://loinc.org/LP40153-6
+LOINC,LP40154-4,Voltage-gated calcium channel P/Q type binding Ab,https://loinc.org/LP40154-4
 LOINC,LP40155-1,Voltage-gated potassium channel Ab,https://loinc.org/LP40155-1
-LOINC,LP40331-8,Myelin associated glycoprotein Ab.IgA,https://loinc.org/LP40331-8
+LOINC,LP40221-1,Zinc finger protein of the cerebellum 4 Ab,https://loinc.org/LP40221-1
+LOINC,LP40331-8,Myelin associated glycoprotein IgA,https://loinc.org/LP40331-8
+LOINC,LP40425-8,Ganglioside GM1 IgG+IgM,https://loinc.org/LP40425-8
+LOINC,LP40433-2,Spermatozoa IgA+IgG,https://loinc.org/LP40433-2
+LOINC,LP40447-2,Cardiolipin IgA B2GP1 independent,https://loinc.org/LP40447-2
+LOINC,LP40448-0,Cardiolipin IgG B2GP1 independent,https://loinc.org/LP40448-0
+LOINC,LP40449-8,Cardiolipin IgM B2GP1 independent,https://loinc.org/LP40449-8
+LOINC,LP40450-6,Cardiolipin IgM B2GP1 dependent,https://loinc.org/LP40450-6
+LOINC,LP40451-4,Cardiolipin IgG B2GP1 dependent,https://loinc.org/LP40451-4
+LOINC,LP40452-2,Cardiolipin IgA B2GP1 dependent,https://loinc.org/LP40452-2
+LOINC,LP410850-4,Thrombospondin type I domain-containing 7A Ab.IgG,https://loinc.org/LP410850-4
 LOINC,LP410866-0,Thrombospondin type I domain-containing 7A Ab,https://loinc.org/LP410866-0
-LOINC,LP416114-9,Collagen type VII Ab.IgG,https://loinc.org/LP416114-9
+LOINC,LP411533-5,Metabotropic glutamate receptor 1 IgG,https://loinc.org/LP411533-5
+LOINC,LP411534-3,Metabotropic glutamate receptor 1 Ab,https://loinc.org/LP411534-3
+LOINC,LP411550-9,Glial fibrillary acidic protein alpha subunit IgG,https://loinc.org/LP411550-9
+LOINC,LP411691-1,Cytosolic 5'-nucleotidase 1A IgG,https://loinc.org/LP411691-1
+LOINC,LP416114-9,Collagen type VII IgG,https://loinc.org/LP416114-9
+LOINC,LP417359-9,Desmoglein 1 Ab.IgG,https://loinc.org/LP417359-9
+LOINC,LP417360-7,Desmoglein 3 Ab.IgG,https://loinc.org/LP417360-7
+LOINC,LP417802-8,Voltage-gated calcium channel PQ type binding Ab.IgG+IgM,https://loinc.org/LP417802-8
+LOINC,LP417805-1,Neuronal nuclear type 1 Ab.IgG,https://loinc.org/LP417805-1
 LOINC,LP417806-9,Glutamate decarboxylase 65 Ab.IgG+IgM,https://loinc.org/LP417806-9
+LOINC,LP417807-7,Neuronal nuclear type 3 Ab.IgG,https://loinc.org/LP417807-7
+LOINC,LP417834-1,Voltage-gated calcium channel N type binding IgG+IgM,https://loinc.org/LP417834-1
 LOINC,LP420112-7,17 alpha-Hydroxylase Ab,https://loinc.org/LP420112-7
+LOINC,LP420122-6,Glycine receptor Ab,https://loinc.org/LP420122-6
 LOINC,LP420426-1,Citrullinated alpha enolase peptide 1 Ab,https://loinc.org/LP420426-1
 LOINC,LP420467-5,Cytosolic 5'-nucleotidase 1A Ab,https://loinc.org/LP420467-5
-LOINC,LP422441-8,Fodrin.alpha subunit Ab.IgG,https://loinc.org/LP422441-8
-LOINC,LP422442-6,Fodrin.alpha subunit Ab.IgA,https://loinc.org/LP422442-6
+LOINC,LP420677-9,IgLON5 IgG,https://loinc.org/LP420677-9
+LOINC,LP420679-5,IgLON5 Ab,https://loinc.org/LP420679-5
+LOINC,LP420680-3,Rho GTPase-activating protein 26 IgG,https://loinc.org/LP420680-3
+LOINC,LP420681-1,Rho GTPase-activating protein 26 Ab,https://loinc.org/LP420681-1
+LOINC,LP420686-0,Neuronal intermediate filament IgG,https://loinc.org/LP420686-0
+LOINC,LP420687-8,Neuronal intermediate filament Ab,https://loinc.org/LP420687-8
+LOINC,LP420690-2,Neuronal intermediate filament heavy chain Ab,https://loinc.org/LP420690-2
+LOINC,LP420691-0,Neuronal intermediate filament light chain Ab,https://loinc.org/LP420691-0
+LOINC,LP420694-4,"Inositol 1,4,5-trisphosphate receptor type 1 Ab",https://loinc.org/LP420694-4
+LOINC,LP420695-1,Neuronal intermediate filament heavy chain IgG,https://loinc.org/LP420695-1
+LOINC,LP420696-9,Neuronal intermediate filament light chain IgG,https://loinc.org/LP420696-9
+LOINC,LP420697-7,"Inositol 1,4,5-trisphosphate receptor type 1 IgG",https://loinc.org/LP420697-7
+LOINC,LP420709-0,Glycine receptor alpha-1 subunit Ab,https://loinc.org/LP420709-0
+LOINC,LP421294-2,Glycine receptor alpha-1 subunit Ab.IgG,https://loinc.org/LP421294-2
+LOINC,LP422441-8,Fodrin alpha subunit IgG,https://loinc.org/LP422441-8
+LOINC,LP422442-6,Fodrin alpha subunit IgA,https://loinc.org/LP422442-6
 LOINC,LP422454-1,Smooth nuclear envelope nuclear Ab pattern,https://loinc.org/LP422454-1
 LOINC,LP422534-0,Acetylcholine receptor binding Ab.IgG+IgM,https://loinc.org/LP422534-0
 LOINC,LP426336-6,Ryanodine receptor Ab,https://loinc.org/LP426336-6
+LOINC,LP427348-0,Acetylcholine receptor ganglionic neuronal Ab.IgG+IgM,https://loinc.org/LP427348-0
+LOINC,LP427349-8,Platelet glycoprotein Ab,https://loinc.org/LP427349-8
+LOINC,LP430413-7,Interferon.beta 1 Ab.Neut,https://loinc.org/LP430413-7
 LOINC,LP430416-0,Kelch-like protein 11 Ab.IgG,https://loinc.org/LP430416-0
+LOINC,LP434151-9,PM-SCL-100 extractable nuclear,https://loinc.org/LP434151-9
+LOINC,LP434318-4,Gliadin peptide Ab IgA+IgG,https://loinc.org/LP434318-4
 LOINC,LP434533-8,Contactin-associated protein 1 Ab.IgG,https://loinc.org/LP434533-8
 LOINC,LP434538-7,Septin-7 Ab,https://loinc.org/LP434538-7
+LOINC,LP434541-1,Septin-5 Ab,https://loinc.org/LP434541-1
+LOINC,LP434711-0,Septin-7 Ab.IgG,https://loinc.org/LP434711-0
+LOINC,LP434712-8,Septin-5 Ab.IgG,https://loinc.org/LP434712-8
 LOINC,LP435811-7,Ma2 Antibody,https://loinc.org/LP435811-7
+LOINC,LP436402-4,Complement factor H Ab,https://loinc.org/LP436402-4
+LOINC,LP438296-8,NXP-2 Ab,https://loinc.org/LP438296-8
+LOINC,LP441242-7,Tripartite motif containing 46 Ab.IgG,https://loinc.org/LP441242-7
+LOINC,LP443723-4,Laminin 332 Ab.IgG,https://loinc.org/LP443723-4
+LOINC,LP443724-2,P200 pemphigoid Ab.IgG,https://loinc.org/LP443724-2
+LOINC,LP443725-9,Collagen type VII Ab,https://loinc.org/LP443725-9
 LOINC,LP444061-8,Neurofascin-140 Ab,https://loinc.org/LP444061-8
+LOINC,LP444063-4,Neurofascin-186 Ab,https://loinc.org/LP444063-4
+LOINC,LP445545-9,Spermatozoa Ab.IgA/Spermatozoa,https://loinc.org/LP445545-9
+LOINC,LP445546-7,Spermatozoa Ab.IgA+IgG/Spermatozoa,https://loinc.org/LP445546-7
+LOINC,LP445547-5,Spermatozoa Ab.IgM/Spermatozoa,https://loinc.org/LP445547-5
+LOINC,LP445549-1,Spermatozoa Ab/Spermatozoa,https://loinc.org/LP445549-1
+LOINC,LP445569-9,Spermatozoa.head Ab.IgA/Spermatozoa,https://loinc.org/LP445569-9
+LOINC,LP445570-7,Spermatozoa.head Ab.IgG/Spermatozoa,https://loinc.org/LP445570-7
+LOINC,LP445571-5,Spermatozoa.head Ab.IgM/Spermatozoa,https://loinc.org/LP445571-5
+LOINC,LP445583-0,Spermatozoa.midpiece Ab.IgA/Spermatozoa,https://loinc.org/LP445583-0
+LOINC,LP445584-8,Spermatozoa.midpiece Ab.IgG/Spermatozoa,https://loinc.org/LP445584-8
+LOINC,LP445585-5,Spermatozoa.midpiece Ab.IgM/Spermatozoa,https://loinc.org/LP445585-5
+LOINC,LP445633-3,Spermatozoa.tail Ab.IgA/Spermatozoa,https://loinc.org/LP445633-3
+LOINC,LP445634-1,Spermatozoa.tail Ab.IgG/Spermatozoa,https://loinc.org/LP445634-1
+LOINC,LP445635-8,Spermatozoa.tail Ab.IgM/Spermatozoa,https://loinc.org/LP445635-8
+LOINC,LP445637-4,Spermatozoa.tail tip Ab.IgA/Spermatozoa,https://loinc.org/LP445637-4
+LOINC,LP445638-2,Spermatozoa.tail tip Ab.IgG/Spermatozoa,https://loinc.org/LP445638-2
+LOINC,LP445639-0,Spermatozoa.tail tip Ab.IgM/Spermatozoa,https://loinc.org/LP445639-0
+LOINC,LP446004-6,Sjogrens syndrome-A extractable nuclear 60kD Ab.IgG,https://loinc.org/LP446004-6
 LOINC,LP446012-9,Neutrophil cytoplasmic Ab.perinuclear.IgG,https://loinc.org/LP446012-9
 LOINC,LP446013-7,Neutrophil cytoplasmic Ab.perinuclear.IgA,https://loinc.org/LP446013-7
+LOINC,LP446090-5,Neurofascin-155 Ab,https://loinc.org/LP446090-5
+LOINC,LP446316-4,Contactin-associated protein 1 Ab,https://loinc.org/LP446316-4
+LOINC,LP446670-4,Envoplakin Ab,https://loinc.org/LP446670-4
+LOINC,LP446903-9,SAE-1 Ab,https://loinc.org/LP446903-9
 LOINC,LP448335-2,Asialoglycoprotein receptor Ab.IgG,https://loinc.org/LP448335-2
+LOINC,LP61615-8,Gliadin peptide IgA,https://loinc.org/LP61615-8
+LOINC,LP61616-6,Gliadin peptide IgG,https://loinc.org/LP61616-6
+LOINC,LP61618-2,Gliadin peptide Ab,https://loinc.org/LP61618-2
+LOINC,LP63047-2,Ganglioside GM2 Ab,https://loinc.org/LP63047-2
+LOINC,LP63063-9,Myeloperoxidase IgG,https://loinc.org/LP63063-9
+LOINC,LP63064-7,Proteinase 3 IgG,https://loinc.org/LP63064-7
+LOINC,LP63631-3,Ribonucleoprotein extractable nuclear 52kD Ab,https://loinc.org/LP63631-3
 LOINC,LP64910-0,Interferon alpha Ab,https://loinc.org/LP64910-0
 LOINC,LP64911-8,Neutrophil cytoplasmic Ab.perinuclear.atypical,https://loinc.org/LP64911-8
-LOINC,LP66602-1,Ganglioside Ab.IgG,https://loinc.org/LP66602-1
-LOINC,LP66603-9,Ganglioside Ab.IgM,https://loinc.org/LP66603-9
+LOINC,LP65025-6,Fibrillarin Ab,https://loinc.org/LP65025-6
+LOINC,LP65732-7,Ganglioside GM2 IgG,https://loinc.org/LP65732-7
+LOINC,LP65733-5,Ganglioside GM2 IgM,https://loinc.org/LP65733-5
+LOINC,LP65734-3,Ganglioside GQ1b IgG,https://loinc.org/LP65734-3
+LOINC,LP65735-0,Ganglioside GQ1b IgM,https://loinc.org/LP65735-0
+LOINC,LP66602-1,Ganglioside IgG,https://loinc.org/LP66602-1
+LOINC,LP66603-9,Ganglioside IgM,https://loinc.org/LP66603-9
 LOINC,LP66702-9,Ganglioside Ab,https://loinc.org/LP66702-9
+LOINC,LP69892-5,Sjogrens syndrome-A extractable nuclear 52kD Ab,https://loinc.org/LP69892-5
+LOINC,LP69893-3,Sjogrens syndrome-A extractable nuclear 60kD Ab,https://loinc.org/LP69893-3
+LOINC,LP69894-1,U1 small nuclear ribonucleoprotein 70kD Ab,https://loinc.org/LP69894-1
+LOINC,LP70985-4,Glial nuc type 1 Ab,https://loinc.org/LP70985-4
+LOINC,LP70987-0,PCA-1 Ab,https://loinc.org/LP70987-0
+LOINC,LP71408-6,Basement membrane zone BP230 IgG,https://loinc.org/LP71408-6
 LOINC,LP71470-6,RNA polymerase III Ab,https://loinc.org/LP71470-6
+LOINC,LP71486-2,Basement membrane zone BP230 Ab,https://loinc.org/LP71486-2
+LOINC,LP71570-3,Basement membrane zone BP180 IgG,https://loinc.org/LP71570-3
 LOINC,LP71684-2,Centromere protein B Ab,https://loinc.org/LP71684-2
+LOINC,LP71686-7,Centromere protein F Ab,https://loinc.org/LP71686-7
 LOINC,LP71689-1,Azurocidin Ab,https://loinc.org/LP71689-1
 LOINC,LP71694-1,Lysosome Ab,https://loinc.org/LP71694-1
 LOINC,LP71695-8,Mutated citrullinated vimentin Ab,https://loinc.org/LP71695-8
+LOINC,LP71696-6,Human upstream binding factor Ab,https://loinc.org/LP71696-6
+LOINC,LP71697-4,Smith extractable nuclear B Ab,https://loinc.org/LP71697-4
+LOINC,LP71698-2,Smith extractable nuclear D Ab,https://loinc.org/LP71698-2
 LOINC,LP71699-0,Soluble liver Ab,https://loinc.org/LP71699-0
 LOINC,LP71700-6,sp100 Ab,https://loinc.org/LP71700-6
-LOINC,LP71753-5,Nuclear Ab pattern.multiple nuclear dots,https://loinc.org/LP71753-5
+LOINC,LP71701-4,U1 small nuclear ribonucleoprotein A Ab,https://loinc.org/LP71701-4
+LOINC,LP71702-2,U1 small nuclear ribonucleoprotein C Ab,https://loinc.org/LP71702-2
+LOINC,LP71753-5,Multiple nuclear dots nuclear Ab pattern,https://loinc.org/LP71753-5
 LOINC,LP71757-6,Nuclear pore protein gp210 Ab,https://loinc.org/LP71757-6
 LOINC,LP71770-9,Vinculin Ab,https://loinc.org/LP71770-9
 LOINC,LP71772-5,Lactoferrin Ab,https://loinc.org/LP71772-5
+LOINC,LP89235-3,RNA polymerase I Ab,https://loinc.org/LP89235-3
 LOINC,LP89242-9,Ki Ab,https://loinc.org/LP89242-9
+LOINC,LP89244-5,Autoantibodies,https://loinc.org/LP89244-5
 LOINC,LP94252-1,Asialoglycoprotein receptor Ab,https://loinc.org/LP94252-1
-LOINC,LP96155-4,Thyroglobulin Ab.IgG,https://loinc.org/LP96155-4
+LOINC,LP95728-9,Insulin human IgG4,https://loinc.org/LP95728-9
+LOINC,LP96152-1,Insulin IgG,https://loinc.org/LP96152-1
+LOINC,LP96155-4,Thyroglobulin IgG,https://loinc.org/LP96155-4
+LOINC,LP99343-3,Ganglioside GT1b Ab,https://loinc.org/LP99343-3
+LOINC,LP99612-1,Ganglioside GD3 Ab,https://loinc.org/LP99612-1
+LOINC,LP99613-9,Ganglioside GD3 IgG,https://loinc.org/LP99613-9
+LOINC,LP99614-7,Ganglioside GD3 IgM,https://loinc.org/LP99614-7
+LOINC,LP99615-4,Ganglioside GD2 IgM,https://loinc.org/LP99615-4
+LOINC,LP99616-2,Ganglioside GD2 IgG,https://loinc.org/LP99616-2
+LOINC,LP99617-0,Ganglioside GM4 IgG,https://loinc.org/LP99617-0
+LOINC,LP99618-8,Ganglioside GM4 IgM,https://loinc.org/LP99618-8
+LOINC,LP99619-6,Ganglioside GM4 Ab,https://loinc.org/LP99619-6
+LOINC,LP99622-0,Ganglioside GM3 Ab,https://loinc.org/LP99622-0
+LOINC,LP99623-8,Ganglioside GM3 IgG,https://loinc.org/LP99623-8
+LOINC,LP99624-6,Ganglioside GM3 IgM,https://loinc.org/LP99624-6
+LOINC,LP99627-9,Ganglioside GT1a Ab,https://loinc.org/LP99627-9
+LOINC,LP99657-6,Ganglioside GT1b IgM,https://loinc.org/LP99657-6
+LOINC,LP99658-4,Ganglioside GT1b IgG,https://loinc.org/LP99658-4
+LOINC,LP99659-2,Ganglioside GT1a IgG,https://loinc.org/LP99659-2
+LOINC,LP99660-0,Ganglioside GT1a IgM,https://loinc.org/LP99660-0
