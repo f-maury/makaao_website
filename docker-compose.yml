@@ -24,3 +24,4 @@ services:
     container_name: php-fpm
     volumes:
       - ./website:/var/www/html:ro
+      - ./php-mail.ini:/usr/local/etc/php/conf.d/zz-mail.ini:ro
