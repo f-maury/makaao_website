@@ -21,6 +21,8 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     }
 
     $to = 'contact.makaao@inria.fr';
+    // test address: test.makaao@inria.fr
+    // real address: contact.makaao@inria.fr
 
     $headers =
         "From: MAKAAO Website <contact.makaao@inria.fr>\r\n" .
